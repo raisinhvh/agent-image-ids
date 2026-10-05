@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "category": "fire",
+  "subcategory": "burns_heat",
+  "description": "Burns heat.",
+  "asset_count": 1,
+  "assets": [
+    {
+      "id": "11388840312",
+      "uri": "rbxassetid://11388840312",
+      "name": "Heat",
+      "category": "fire",
+      "subcategory": "burns_heat",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Fire",
+            "Heat"
+          ],
+          "name": "Heat",
+          "type": "4x4",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11388840312"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Heat'.",
+      "slug": "heat",
+      "tags": [
+        "burns_heat",
+        "fire",
+        "flipbook"
+      ],
+      "suggested_uses": [
+        "fire accents",
+        "embers",
+        "combustion effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

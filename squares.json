@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0.0",
+  "category": "geometry_grids",
+  "subcategory": "squares",
+  "description": "Squares.",
+  "asset_count": 11,
+  "assets": [
+    {
+      "id": "18614257863",
+      "uri": "rbxassetid://18614257863",
+      "name": "Abstract Square",
+      "category": "geometry_grids",
+      "subcategory": "squares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Abstract Square"
+          ],
+          "name": "Abstract Square",
+          "type": "Static",
+          "resolution_raw": "336",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18614257863"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 336,
+        "height": 336,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Abstract Square'.",
+      "slug": "abstract_square",
+      "tags": [
+        "geometry_grids",
+        "squares",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14454142105",
+      "uri": "rbxassetid://14454142105",
+      "name": "Chromatic Square 2",
+      "category": "geometry_grids",
+      "subcategory": "squares",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Chromatic Square 2"
+          ],
+          "name": "Chromatic Square 2",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14454142105"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Chromatic Square 2'.",
+      "slug": "chromatic_square_2",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "geometry_grids",
+        "squares"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13856026435",
+      "uri": "rbxassetid://13856026435",
+      "name": "Expanding Square",
+      "category": "geometry_grids",
+      "subcategory": "squares",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Expanding Square"
+          ],
+          "name": "Expanding Square",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13856026435"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Expanding Square'.",
+      "slug": "expanding_square",
+      "tags": [
+        "flipbook",
+        "geometry_grids",
+        "squares"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364193809",
+      "uri": "rbxassetid://12364193809",
+      "name": "Eyecube",
+      "category": "geometry_grids",
+      "subcategory": "squares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Eyecube"
+          ],
+          "name": "Eyecube",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364193809"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Eyecube'.",
+      "slug": "eyecube",
+      "tags": [
+        "geometry_grids",
+        "squares",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18618625614",
+      "uri": "rbxassetid://18618625614",
+      "name": "Faded Square",
+      "category": "geometry_grids",
+      "subcategory": "squares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Faded Square"
+          ],
+          "name": "Faded Square",
+          "type": "Static",
+          "resolution_raw": "223",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18618625614"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 223,
+        "height": 223,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Faded Square'.",
+      "slug": "faded_square",
+      "tags": [
+        "geometry_grids",
+        "soft",
+        "squares",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11037285896",
+      "uri": "rbxassetid://11037285896",
+      "name": "Glowing Cube",
+      "category": "geometry_grids",
+      "subcategory": "squares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Glowing Cube"
+          ],
+          "name": "Glowing Cube",
+          "type": "Static",
+          "resolution_raw": "220",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11037285896"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 220,
+        "height": 220,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Glowing Cube'.",
+      "slug": "glowing_cube",
+      "tags": [
+        "geometry_grids",
+        "glow",
+        "squares",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16511681922",
+      "uri": "rbxassetid://16511681922",
+      "name": "Messy Square Overlay",
+      "category": "geometry_grids",
+      "subcategory": "squares",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Messy Square Overlay"
+          ],
+          "name": "Messy Square Overlay",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16511681922"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Messy Square Overlay'.",
+      "slug": "messy_square_overlay",
+      "tags": [
+        "flipbook",
+        "geometry_grids",
+        "squares"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "134688272859101",
+      "uri": "rbxassetid://134688272859101",
+      "name": "No Turbulence Square",
+      "category": "geometry_grids",
+      "subcategory": "squares",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "No Turbulence Square"
+          ],
+          "name": "No Turbulence Square",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://134688272859101"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'No Turbulence Square'.",
+      "slug": "no_turbulence_square",
+      "tags": [
+        "flipbook",
+        "geometry_grids",
+        "squares"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "85934232161511",
+      "uri": "rbxassetid://85934232161511",
+      "name": "SquaresFlipbook",
+      "category": "geometry_grids",
+      "subcategory": "squares",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "SquaresFlipbook"
+          ],
+          "name": "SquaresFlipbook",
+          "type": "4x4",
+          "resolution_raw": "4096",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://85934232161511"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 4096,
+        "height": 4096,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'SquaresFlipbook'.",
+      "slug": "squaresflipbook",
+      "tags": [
+        "flipbook",
+        "geometry_grids",
+        "squares"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "126444925335765",
+      "uri": "rbxassetid://126444925335765",
+      "name": "SquaresFlipbook",
+      "category": "geometry_grids",
+      "subcategory": "squares",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "rocca108",
+            "SquaresFlipbook"
+          ],
+          "name": "SquaresFlipbook",
+          "type": "4x4",
+          "resolution_raw": "4096",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://126444925335765"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 4096,
+        "height": 4096,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'SquaresFlipbook'.",
+      "slug": "squaresflipbook",
+      "tags": [
+        "flipbook",
+        "geometry_grids",
+        "squares"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127778528880153",
+      "uri": "rbxassetid://127778528880153",
+      "name": "Turbulent Square",
+      "category": "geometry_grids",
+      "subcategory": "squares",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Turbulent Square"
+          ],
+          "name": "Turbulent Square",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127778528880153"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Turbulent Square'.",
+      "slug": "turbulent_square",
+      "tags": [
+        "flipbook",
+        "geometry_grids",
+        "squares"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

@@ -1,0 +1,2974 @@
+{
+  "schema_version": "1.0.0",
+  "category": "symbols_text",
+  "subcategory": "runes_magic",
+  "description": "Runes magic.",
+  "asset_count": 47,
+  "assets": [
+    {
+      "id": "109977146301438",
+      "uri": "rbxassetid://109977146301438",
+      "name": "Barbarian_bashRune_fury_flash",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "Barbarian_bashRune_fury_flash"
+          ],
+          "name": "Barbarian_bashRune_fury_flash",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://109977146301438"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Barbarian_bashRune_fury_flash'.",
+      "slug": "barbarian_bashrune_fury_flash",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "98853069177602",
+      "uri": "rbxassetid://98853069177602",
+      "name": "Barbarian_frenzyRune_stun_strikeResidue",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "Barbarian_frenzyRune_stun_strikeResidue"
+          ],
+          "name": "Barbarian_frenzyRune_stun_strikeResidue",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://98853069177602"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Barbarian_frenzyRune_stun_strikeResidue'.",
+      "slug": "barbarian_frenzyrune_stun_strikeresidue",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127850343433520",
+      "uri": "rbxassetid://127850343433520",
+      "name": "barbarian_groundStompRune_pullClose_magicCracks",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "barbarian_groundStompRune_pullClose_magicCracks"
+          ],
+          "name": "barbarian_groundStompRune_pullClose_magicCracks",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127850343433520"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'barbarian_groundStompRune_pullClose_magicCracks'.",
+      "slug": "barbarian_groundstomprune_pullclose_magiccracks",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "75203975525115",
+      "uri": "rbxassetid://75203975525115",
+      "name": "barbarian_sprintWaveRune_sustain",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "barbarian_sprintWaveRune_sustain"
+          ],
+          "name": "barbarian_sprintWaveRune_sustain",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://75203975525115"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'barbarian_sprintWaveRune_sustain'.",
+      "slug": "barbarian_sprintwaverune_sustain",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18648347460",
+      "uri": "rbxassetid://18648347460",
+      "name": "Dark Symbol Square",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Dark Symbol Square"
+          ],
+          "name": "Dark Symbol Square",
+          "type": "Static",
+          "resolution_raw": "593",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18648347460"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 593,
+        "height": 593,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Dark Symbol Square'.",
+      "slug": "dark_symbol_square",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "130103778037471",
+      "uri": "rbxassetid://130103778037471",
+      "name": "demonHunter_bolaShotRune_hatred_flash",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "demonHunter_bolaShotRune_hatred_flash"
+          ],
+          "name": "demonHunter_bolaShotRune_hatred_flash",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://130103778037471"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'demonHunter_bolaShotRune_hatred_flash'.",
+      "slug": "demonhunter_bolashotrune_hatred_flash",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "86672717542103",
+      "uri": "rbxassetid://86672717542103",
+      "name": "DH_safetyShotRune_Spread_novaTrans - Copy",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "DH_safetyShotRune_Spread_novaTrans - Copy"
+          ],
+          "name": "DH_safetyShotRune_Spread_novaTrans - Copy",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://86672717542103"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'DH_safetyShotRune_Spread_novaTrans - Copy'.",
+      "slug": "dh_safetyshotrune_spread_novatrans_copy",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12403099647",
+      "uri": "rbxassetid://12403099647",
+      "name": "Diamond Symbol",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Diamond Symbol"
+          ],
+          "name": "Diamond Symbol",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12403099647"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Diamond Symbol'.",
+      "slug": "diamond_symbol",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12403116585",
+      "uri": "rbxassetid://12403116585",
+      "name": "Eye Symbol 2",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Eye Symbol 2"
+          ],
+          "name": "Eye Symbol 2",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12403116585"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Eye Symbol 2'.",
+      "slug": "eye_symbol_2",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10225452993",
+      "uri": "rbxassetid://10225452993",
+      "name": "Eye Symbol 3",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Eye Symbol 3"
+          ],
+          "name": "Eye Symbol 3",
+          "type": "Static",
+          "resolution_raw": "1000",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10225452993"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Eye Symbol 3'.",
+      "slug": "eye_symbol_3",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364752430",
+      "uri": "rbxassetid://12364752430",
+      "name": "Feather Sigil",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Feather Sigil"
+          ],
+          "name": "Feather Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364752430"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Feather Sigil'.",
+      "slug": "feather_sigil",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364753261",
+      "uri": "rbxassetid://12364753261",
+      "name": "Feather Sigil 2",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Feather Sigil 2"
+          ],
+          "name": "Feather Sigil 2",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364753261"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Feather Sigil 2'.",
+      "slug": "feather_sigil_2",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364305676",
+      "uri": "rbxassetid://12364305676",
+      "name": "Fork Sigil",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Fork Sigil"
+          ],
+          "name": "Fork Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364305676"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Fork Sigil'.",
+      "slug": "fork_sigil",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364343309",
+      "uri": "rbxassetid://12364343309",
+      "name": "Four Sided Spike Sigil",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Four Sided Spike Sigil"
+          ],
+          "name": "Four Sided Spike Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364343309"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Four Sided Spike Sigil'.",
+      "slug": "four_sided_spike_sigil",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "sharp",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14198043798",
+      "uri": "rbxassetid://14198043798",
+      "name": "Four Sided Symbol",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Four Sided Symbol"
+          ],
+          "name": "Four Sided Symbol",
+          "type": "Static",
+          "resolution_raw": "800",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14198043798"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 800,
+        "height": 800,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Four Sided Symbol'.",
+      "slug": "four_sided_symbol",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "123254584335732",
+      "uri": "rbxassetid://123254584335732",
+      "name": "Glitch Symbols",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Glitch Symbols"
+          ],
+          "name": "Glitch Symbols",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://123254584335732"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Glitch Symbols'.",
+      "slug": "glitch_symbols",
+      "tags": [
+        "flipbook",
+        "runes_magic",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "83016606478749",
+      "uri": "rbxassetid://83016606478749",
+      "name": "Gradient Symbol",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Gradient Symbol"
+          ],
+          "name": "Gradient Symbol",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://83016606478749"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Gradient Symbol'.",
+      "slug": "gradient_symbol",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364307280",
+      "uri": "rbxassetid://12364307280",
+      "name": "Horn Sigil",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Horn Sigil"
+          ],
+          "name": "Horn Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364307280"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Horn Sigil'.",
+      "slug": "horn_sigil",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364208788",
+      "uri": "rbxassetid://12364208788",
+      "name": "Hourglass Sigil",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Hourglass Sigil"
+          ],
+          "name": "Hourglass Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364208788"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Hourglass Sigil'.",
+      "slug": "hourglass_sigil",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7216848586",
+      "uri": "rbxassetid://7216848586",
+      "name": "Images/symbol_01",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 113,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Images/symbol_01",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 862770978,
+          "Name": "imShuang01",
+          "CreatorType": "User",
+          "CreatorTargetId": 862770978,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/7216848586/details"
+      },
+      "description": "Static texture cataloged as 'Images/symbol_01'.",
+      "slug": "images_symbol_01",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7216848493",
+      "uri": "rbxassetid://7216848493",
+      "name": "Images/symbol_02",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 114,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Images/symbol_02",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 862770978,
+          "Name": "imShuang01",
+          "CreatorType": "User",
+          "CreatorTargetId": 862770978,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/7216848493/details"
+      },
+      "description": "Static texture cataloged as 'Images/symbol_02'.",
+      "slug": "images_symbol_02",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12403141690",
+      "uri": "rbxassetid://12403141690",
+      "name": "Long Symbol",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Long Symbol"
+          ],
+          "name": "Long Symbol",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12403141690"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Long Symbol'.",
+      "slug": "long_symbol",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10713705343",
+      "uri": "rbxassetid://10713705343",
+      "name": "Magic Symbols",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Text",
+            "Magic Symbols"
+          ],
+          "name": "Magic Symbols",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10713705343"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Magic Symbols'.",
+      "slug": "magic_symbols",
+      "tags": [
+        "flipbook",
+        "magic",
+        "runes_magic",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11726473936",
+      "uri": "rbxassetid://11726473936",
+      "name": "Magic Symbols 2",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Text",
+            "Magic Symbols 2"
+          ],
+          "name": "Magic Symbols 2",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11726473936"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Magic Symbols 2'.",
+      "slug": "magic_symbols_2",
+      "tags": [
+        "flipbook",
+        "magic",
+        "runes_magic",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15955521232",
+      "uri": "rbxassetid://15955521232",
+      "name": "Math Symbols",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Text",
+            "Math Symbols"
+          ],
+          "name": "Math Symbols",
+          "type": "2x2",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15955521232"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Math Symbols'.",
+      "slug": "math_symbols",
+      "tags": [
+        "flipbook",
+        "runes_magic",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "256038800",
+      "uri": "rbxassetid://256038800",
+      "name": "Money Symbol",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Money Symbol"
+          ],
+          "name": "Money Symbol",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://256038800"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Money Symbol'.",
+      "slug": "money_symbol",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "129447246824328",
+      "uri": "rbxassetid://129447246824328",
+      "name": "monk_waveofLight_glowRune_spirit",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "monk_waveofLight_glowRune_spirit"
+          ],
+          "name": "monk_waveofLight_glowRune_spirit",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://129447246824328"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'monk_waveofLight_glowRune_spirit'.",
+      "slug": "monk_waveoflight_glowrune_spirit",
+      "tags": [
+        "glow",
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12403142404",
+      "uri": "rbxassetid://12403142404",
+      "name": "Moon Symbol 2",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Moon Symbol 2"
+          ],
+          "name": "Moon Symbol 2",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12403142404"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Moon Symbol 2'.",
+      "slug": "moon_symbol_2",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12362764109",
+      "uri": "rbxassetid://12362764109",
+      "name": "Moon Symbol 5",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Moon Symbol 5"
+          ],
+          "name": "Moon Symbol 5",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12362764109"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Moon Symbol 5'.",
+      "slug": "moon_symbol_5",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "126841848619080",
+      "uri": "rbxassetid://126841848619080",
+      "name": "Painted Symbol 1",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Painted Symbol 1"
+          ],
+          "name": "Painted Symbol 1",
+          "type": "Static",
+          "resolution_raw": "768",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://126841848619080"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 768,
+        "height": 768,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Painted Symbol 1'.",
+      "slug": "painted_symbol_1",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "72172458554681",
+      "uri": "rbxassetid://72172458554681",
+      "name": "Painted Symbol 2",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Painted Symbol 2"
+          ],
+          "name": "Painted Symbol 2",
+          "type": "Static",
+          "resolution_raw": "768",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://72172458554681"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 768,
+        "height": 768,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Painted Symbol 2'.",
+      "slug": "painted_symbol_2",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "81606720998560",
+      "uri": "rbxassetid://81606720998560",
+      "name": "Rune_08_Glow - Copy",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "Rune_08_Glow - Copy"
+          ],
+          "name": "Rune_08_Glow - Copy",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://81606720998560"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rune_08_Glow - Copy'.",
+      "slug": "rune_08_glow_copy",
+      "tags": [
+        "glow",
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "94382524610530",
+      "uri": "rbxassetid://94382524610530",
+      "name": "Rune_08_Threshold - Copy",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "Rune_08_Threshold - Copy"
+          ],
+          "name": "Rune_08_Threshold - Copy",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://94382524610530"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rune_08_Threshold - Copy'.",
+      "slug": "rune_08_threshold_copy",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364341958",
+      "uri": "rbxassetid://12364341958",
+      "name": "S Sigil",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "S Sigil"
+          ],
+          "name": "S Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364341958"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'S Sigil'.",
+      "slug": "s_sigil",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364324369",
+      "uri": "rbxassetid://12364324369",
+      "name": "Shield Sigil",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Shield Sigil"
+          ],
+          "name": "Shield Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364324369"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shield Sigil'.",
+      "slug": "shield_sigil",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364322692",
+      "uri": "rbxassetid://12364322692",
+      "name": "Spike Sigil",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Spike Sigil"
+          ],
+          "name": "Spike Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364322692"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Spike Sigil'.",
+      "slug": "spike_sigil",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "sharp",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12403141153",
+      "uri": "rbxassetid://12403141153",
+      "name": "Sun Moon Symbol",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Sun Moon Symbol"
+          ],
+          "name": "Sun Moon Symbol",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12403141153"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Sun Moon Symbol'.",
+      "slug": "sun_moon_symbol",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364297769",
+      "uri": "rbxassetid://12364297769",
+      "name": "Swan Sigil",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Swan Sigil"
+          ],
+          "name": "Swan Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364297769"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swan Sigil'.",
+      "slug": "swan_sigil",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "91448842457982",
+      "uri": "rbxassetid://91448842457982",
+      "name": "Symbol Painted",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Symbol Painted"
+          ],
+          "name": "Symbol Painted",
+          "type": "Static",
+          "resolution_raw": "768",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://91448842457982"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 768,
+        "height": 768,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Symbol Painted'.",
+      "slug": "symbol_painted",
+      "tags": [
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16504172101",
+      "uri": "rbxassetid://16504172101",
+      "name": "Target Symbols",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Target Symbols"
+          ],
+          "name": "Target Symbols",
+          "type": "2x2",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16504172101"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Target Symbols'.",
+      "slug": "target_symbols",
+      "tags": [
+        "flipbook",
+        "runes_magic",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364256168",
+      "uri": "rbxassetid://12364256168",
+      "name": "Triangle Sigil Grouped",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Triangle Sigil Grouped"
+          ],
+          "name": "Triangle Sigil Grouped",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364256168"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Triangle Sigil Grouped'.",
+      "slug": "triangle_sigil_grouped",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17426863133",
+      "uri": "rbxassetid://17426863133",
+      "name": "Warning Sigil symbol emoji",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Warning Sigil symbol emoji"
+          ],
+          "name": "Warning Sigil symbol emoji",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17426863133"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Warning Sigil symbol emoji'.",
+      "slug": "warning_sigil_symbol_emoji",
+      "tags": [
+        "flipbook",
+        "magic",
+        "runes_magic",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "101064921051567",
+      "uri": "rbxassetid://101064921051567",
+      "name": "Warning Symbol emoji",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Warning Symbol emoji"
+          ],
+          "name": "Warning Symbol emoji",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://101064921051567"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Warning Symbol emoji'.",
+      "slug": "warning_symbol_emoji",
+      "tags": [
+        "flipbook",
+        "runes_magic",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11910560348",
+      "uri": "rbxassetid://11910560348",
+      "name": "Weird Symbols 2",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Text",
+            "Weird Symbols 2"
+          ],
+          "name": "Weird Symbols 2",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11910560348"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Weird Symbols 2'.",
+      "slug": "weird_symbols_2",
+      "tags": [
+        "flipbook",
+        "runes_magic",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "102317868535511",
+      "uri": "rbxassetid://102317868535511",
+      "name": "Weirder Symbols",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Text",
+            "Weirder Symbols"
+          ],
+          "name": "Weirder Symbols",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://102317868535511"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Weirder Symbols'.",
+      "slug": "weirder_symbols",
+      "tags": [
+        "flipbook",
+        "runes_magic",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364349766",
+      "uri": "rbxassetid://12364349766",
+      "name": "Wing Sigil",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Wing Sigil"
+          ],
+          "name": "Wing Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364349766"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wing Sigil'.",
+      "slug": "wing_sigil",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "123737947904116",
+      "uri": "rbxassetid://123737947904116",
+      "name": "witchDoctor_bigbadvoodoo_groundRune_crimson_blend",
+      "category": "symbols_text",
+      "subcategory": "runes_magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "witchDoctor_bigbadvoodoo_groundRune_crimson_blend"
+          ],
+          "name": "witchDoctor_bigbadvoodoo_groundRune_crimson_blend",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://123737947904116"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'witchDoctor_bigbadvoodoo_groundRune_crimson_blend'.",
+      "slug": "witchdoctor_bigbadvoodoo_groundrune_crimson_blend",
+      "tags": [
+        "magic",
+        "runes_magic",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

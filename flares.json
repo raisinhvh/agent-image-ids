@@ -1,0 +1,1185 @@
+{
+  "schema_version": "1.0.0",
+  "category": "beams_trails",
+  "subcategory": "flares",
+  "description": "Flares.",
+  "asset_count": 19,
+  "assets": [
+    {
+      "id": "7103213059",
+      "uri": "rbxassetid://7103213059",
+      "name": "BeamBackwards flare",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamBackwards flare"
+          ],
+          "name": "BeamBackwards flare",
+          "type": "Static",
+          "resolution_raw": "1000",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://7103213059"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamBackwards flare'.",
+      "slug": "beambackwards_flare",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10938996384",
+      "uri": "rbxassetid://10938996384",
+      "name": "BeamDouble sided flare",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamDouble sided flare"
+          ],
+          "name": "BeamDouble sided flare",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10938996384"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamDouble sided flare'.",
+      "slug": "beamdouble_sided_flare",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "1858602290",
+      "uri": "rbxassetid://1858602290",
+      "name": "BeamDrag glow",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamDrag glow"
+          ],
+          "name": "BeamDrag glow",
+          "type": "Static",
+          "resolution_raw": "380",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://1858602290"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 380,
+        "height": 380,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamDrag glow'.",
+      "slug": "beamdrag_glow",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13703813488",
+      "uri": "rbxassetid://13703813488",
+      "name": "BeamGlow edition",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamGlow edition"
+          ],
+          "name": "BeamGlow edition",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13703813488"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamGlow edition'.",
+      "slug": "beamglow_edition",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15441362369",
+      "uri": "rbxassetid://15441362369",
+      "name": "BeamGlow line",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamGlow line"
+          ],
+          "name": "BeamGlow line",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15441362369"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamGlow line'.",
+      "slug": "beamglow_line",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12781750620",
+      "uri": "rbxassetid://12781750620",
+      "name": "BeamGlow strays",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamGlow strays"
+          ],
+          "name": "BeamGlow strays",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12781750620"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamGlow strays'.",
+      "slug": "beamglow_strays",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "8091408769",
+      "uri": "rbxassetid://8091408769",
+      "name": "BeamGlowing abstract",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamGlowing abstract"
+          ],
+          "name": "BeamGlowing abstract",
+          "type": "Static",
+          "resolution_raw": "723",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://8091408769"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 723,
+        "height": 723,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamGlowing abstract'.",
+      "slug": "beamglowing_abstract",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "446111271",
+      "uri": "rbxassetid://446111271",
+      "name": "BeamGlowing basic",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamGlowing basic"
+          ],
+          "name": "BeamGlowing basic",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://446111271"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamGlowing basic'.",
+      "slug": "beamglowing_basic",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "6806785166",
+      "uri": "rbxassetid://6806785166",
+      "name": "BeamGlowing drawn swirl",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamGlowing drawn swirl"
+          ],
+          "name": "BeamGlowing drawn swirl",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://6806785166"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamGlowing drawn swirl'.",
+      "slug": "beamglowing_drawn_swirl",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15939596990",
+      "uri": "rbxassetid://15939596990",
+      "name": "BeamGlowing transparent",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamGlowing transparent"
+          ],
+          "name": "BeamGlowing transparent",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15939596990"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamGlowing transparent'.",
+      "slug": "beamglowing_transparent",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14987385912",
+      "uri": "rbxassetid://14987385912",
+      "name": "BeamHigh glow beam",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamHigh glow beam"
+          ],
+          "name": "BeamHigh glow beam",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14987385912"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamHigh glow beam'.",
+      "slug": "beamhigh_glow_beam",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "6091329339",
+      "uri": "rbxassetid://6091329339",
+      "name": "BeamHigh glow lines",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamHigh glow lines"
+          ],
+          "name": "BeamHigh glow lines",
+          "type": "Static",
+          "resolution_raw": "663",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://6091329339"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 663,
+        "height": 663,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamHigh glow lines'.",
+      "slug": "beamhigh_glow_lines",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12111970343",
+      "uri": "rbxassetid://12111970343",
+      "name": "BeamLE Glow",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamLE Glow"
+          ],
+          "name": "BeamLE Glow",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12111970343"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamLE Glow'.",
+      "slug": "beamle_glow",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12363860111",
+      "uri": "rbxassetid://12363860111",
+      "name": "BeamLens again",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamLens again"
+          ],
+          "name": "BeamLens again",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12363860111"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamLens again'.",
+      "slug": "beamlens_again",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12363860289",
+      "uri": "rbxassetid://12363860289",
+      "name": "BeamLong flare",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamLong flare"
+          ],
+          "name": "BeamLong flare",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12363860289"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamLong flare'.",
+      "slug": "beamlong_flare",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12363860994",
+      "uri": "rbxassetid://12363860994",
+      "name": "BeamMultiple flares",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamMultiple flares"
+          ],
+          "name": "BeamMultiple flares",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12363860994"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamMultiple flares'.",
+      "slug": "beammultiple_flares",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15881443696",
+      "uri": "rbxassetid://15881443696",
+      "name": "BeamMultiple swirls glow",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamMultiple swirls glow"
+          ],
+          "name": "BeamMultiple swirls glow",
+          "type": "Static",
+          "resolution_raw": "84",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15881443696"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 84,
+        "height": 84,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamMultiple swirls glow'.",
+      "slug": "beammultiple_swirls_glow",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18837316844",
+      "uri": "rbxassetid://18837316844",
+      "name": "BeamThick low glow",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamThick low glow"
+          ],
+          "name": "BeamThick low glow",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18837316844"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamThick low glow'.",
+      "slug": "beamthick_low_glow",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "glow",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "245996148",
+      "uri": "rbxassetid://245996148",
+      "name": "BeamWider lens",
+      "category": "beams_trails",
+      "subcategory": "flares",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWider lens"
+          ],
+          "name": "BeamWider lens",
+          "type": "Static",
+          "resolution_raw": "1000",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://245996148"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWider lens'.",
+      "slug": "beamwider_lens",
+      "tags": [
+        "beams_trails",
+        "flares",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

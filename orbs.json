@@ -1,0 +1,273 @@
+{
+  "schema_version": "1.0.0",
+  "category": "electricity",
+  "subcategory": "orbs",
+  "description": "Orbs.",
+  "asset_count": 4,
+  "assets": [
+    {
+      "id": "332491482",
+      "uri": "rbxassetid://332491482",
+      "name": "BallLightning",
+      "category": "electricity",
+      "subcategory": "orbs",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 204,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "BallLightning",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 5756598,
+          "Name": "JDLENL",
+          "CreatorType": "User",
+          "CreatorTargetId": 5756598,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/332491482/details"
+      },
+      "description": "Static texture cataloged as 'BallLightning'.",
+      "slug": "balllightning",
+      "tags": [
+        "electric",
+        "electricity",
+        "glow",
+        "orbs",
+        "static"
+      ],
+      "suggested_uses": [
+        "electric attacks",
+        "lightning bursts",
+        "electrical sparks"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10767845491",
+      "uri": "rbxassetid://10767845491",
+      "name": "Blue Orb Lightning",
+      "category": "electricity",
+      "subcategory": "orbs",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Lightning",
+            "Blue Orb Lightning"
+          ],
+          "name": "Blue Orb Lightning",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10767845491"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Blue Orb Lightning'.",
+      "slug": "blue_orb_lightning",
+      "tags": [
+        "electric",
+        "electricity",
+        "flipbook",
+        "glow",
+        "orbs"
+      ],
+      "suggested_uses": [
+        "electric attacks",
+        "lightning bursts",
+        "electrical sparks"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18765294301",
+      "uri": "rbxassetid://18765294301",
+      "name": "Lightning Orb",
+      "category": "electricity",
+      "subcategory": "orbs",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Lightning",
+            "Lightning Orb"
+          ],
+          "name": "Lightning Orb",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18765294301"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Lightning Orb'.",
+      "slug": "lightning_orb",
+      "tags": [
+        "electric",
+        "electricity",
+        "flipbook",
+        "glow",
+        "orbs"
+      ],
+      "suggested_uses": [
+        "electric attacks",
+        "lightning bursts",
+        "electrical sparks"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10767898454",
+      "uri": "rbxassetid://10767898454",
+      "name": "Lightning Orb LE",
+      "category": "electricity",
+      "subcategory": "orbs",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Lightning Orb LE"
+          ],
+          "name": "Lightning Orb LE",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10767898454"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Lightning Orb LE'.",
+      "slug": "lightning_orb_le",
+      "tags": [
+        "electric",
+        "electricity",
+        "flipbook",
+        "glow",
+        "orbs"
+      ],
+      "suggested_uses": [
+        "electric attacks",
+        "lightning bursts",
+        "electrical sparks"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

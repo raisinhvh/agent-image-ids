@@ -1,0 +1,1662 @@
+{
+  "schema_version": "1.0.0",
+  "category": "rings_circles",
+  "subcategory": "shockwaves",
+  "description": "Shockwaves.",
+  "asset_count": 26,
+  "assets": [
+    {
+      "id": "74871965670304",
+      "uri": "rbxassetid://74871965670304",
+      "name": "BlastWave3",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "BlastWave3"
+          ],
+          "name": "BlastWave3",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://74871965670304"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BlastWave3'.",
+      "slug": "blastwave3",
+      "tags": [
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "110017652984281",
+      "uri": "rbxassetid://110017652984281",
+      "name": "Fancy Shockwave",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Fancy Shockwave"
+          ],
+          "name": "Fancy Shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://110017652984281"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Fancy Shockwave'.",
+      "slug": "fancy_shockwave",
+      "tags": [
+        "flipbook",
+        "radial",
+        "rings_circles",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "120465821342768",
+      "uri": "rbxassetid://120465821342768",
+      "name": "Galaxy Shockwave",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Galaxy Shockwave"
+          ],
+          "name": "Galaxy Shockwave",
+          "type": "4x4",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://120465821342768"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Galaxy Shockwave'.",
+      "slug": "galaxy_shockwave",
+      "tags": [
+        "flipbook",
+        "radial",
+        "rings_circles",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13992202083",
+      "uri": "rbxassetid://13992202083",
+      "name": "High glow shockwave",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "High glow shockwave"
+          ],
+          "name": "High glow shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13992202083"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'High glow shockwave'.",
+      "slug": "high_glow_shockwave",
+      "tags": [
+        "flipbook",
+        "glow",
+        "radial",
+        "rings_circles",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13799700420",
+      "uri": "rbxassetid://13799700420",
+      "name": "Jagged Shockwave",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Jagged Shockwave"
+          ],
+          "name": "Jagged Shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13799700420"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Jagged Shockwave'.",
+      "slug": "jagged_shockwave",
+      "tags": [
+        "flipbook",
+        "radial",
+        "rings_circles",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13793926944",
+      "uri": "rbxassetid://13793926944",
+      "name": "Multilayer shockwave",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Multilayer shockwave"
+          ],
+          "name": "Multilayer shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13793926944"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Multilayer shockwave'.",
+      "slug": "multilayer_shockwave",
+      "tags": [
+        "flipbook",
+        "radial",
+        "rings_circles",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "92991665171281",
+      "uri": "rbxassetid://92991665171281",
+      "name": "Outward Noise Shockwave",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Outward Noise Shockwave"
+          ],
+          "name": "Outward Noise Shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://92991665171281"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Outward Noise Shockwave'.",
+      "slug": "outward_noise_shockwave",
+      "tags": [
+        "flipbook",
+        "radial",
+        "rings_circles",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "132583708872146",
+      "uri": "rbxassetid://132583708872146",
+      "name": "Ring_ShockWave_000",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_ShockWave_000"
+          ],
+          "name": "Ring_ShockWave_000",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://132583708872146"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_ShockWave_000'.",
+      "slug": "ring_shockwave_000",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "139795953593207",
+      "uri": "rbxassetid://139795953593207",
+      "name": "Ring_ShockWave_002",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_ShockWave_002"
+          ],
+          "name": "Ring_ShockWave_002",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://139795953593207"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_ShockWave_002'.",
+      "slug": "ring_shockwave_002",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "134847183873684",
+      "uri": "rbxassetid://134847183873684",
+      "name": "Ring_ShockWave_004",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_ShockWave_004"
+          ],
+          "name": "Ring_ShockWave_004",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://134847183873684"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_ShockWave_004'.",
+      "slug": "ring_shockwave_004",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "88254619177754",
+      "uri": "rbxassetid://88254619177754",
+      "name": "Ring_ShockWave_005",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_ShockWave_005"
+          ],
+          "name": "Ring_ShockWave_005",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://88254619177754"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_ShockWave_005'.",
+      "slug": "ring_shockwave_005",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "129807387835574",
+      "uri": "rbxassetid://129807387835574",
+      "name": "Ring_ShockWave_006",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_ShockWave_006"
+          ],
+          "name": "Ring_ShockWave_006",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://129807387835574"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_ShockWave_006'.",
+      "slug": "ring_shockwave_006",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "128536805124267",
+      "uri": "rbxassetid://128536805124267",
+      "name": "Shockwave07",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Shockwave07"
+          ],
+          "name": "Shockwave07",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://128536805124267"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shockwave07'.",
+      "slug": "shockwave07",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "105862326580828",
+      "uri": "rbxassetid://105862326580828",
+      "name": "shockwave1",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "shockwave1"
+          ],
+          "name": "shockwave1",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rrbxassetid://105862326580828"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'shockwave1'.",
+      "slug": "shockwave1",
+      "tags": [
+        "flipbook",
+        "radial",
+        "rings_circles",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "98014703320802",
+      "uri": "rbxassetid://98014703320802",
+      "name": "Shockwave10",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Shockwave10"
+          ],
+          "name": "Shockwave10",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://98014703320802"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shockwave10'.",
+      "slug": "shockwave10",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "118691169285755",
+      "uri": "rbxassetid://118691169285755",
+      "name": "Shockwave13",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Shockwave13"
+          ],
+          "name": "Shockwave13",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://118691169285755"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shockwave13'.",
+      "slug": "shockwave13",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "81050253462036",
+      "uri": "rbxassetid://81050253462036",
+      "name": "Shockwave14",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Shockwave14"
+          ],
+          "name": "Shockwave14",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://81050253462036"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shockwave14'.",
+      "slug": "shockwave14",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "106577481160172",
+      "uri": "rbxassetid://106577481160172",
+      "name": "Shockwave15",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Shockwave15"
+          ],
+          "name": "Shockwave15",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://106577481160172"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shockwave15'.",
+      "slug": "shockwave15",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "87962185594365",
+      "uri": "rbxassetid://87962185594365",
+      "name": "shockwave2",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "shockwave2"
+          ],
+          "name": "shockwave2",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://87962185594365"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'shockwave2'.",
+      "slug": "shockwave2",
+      "tags": [
+        "flipbook",
+        "radial",
+        "rings_circles",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "91390469136814",
+      "uri": "rbxassetid://91390469136814",
+      "name": "Shockwave23",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Shockwave23"
+          ],
+          "name": "Shockwave23",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://91390469136814"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shockwave23'.",
+      "slug": "shockwave23",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "102446169775475",
+      "uri": "rbxassetid://102446169775475",
+      "name": "Shockwave24",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Shockwave24"
+          ],
+          "name": "Shockwave24",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://102446169775475"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shockwave24'.",
+      "slug": "shockwave24",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "112463871231122",
+      "uri": "rbxassetid://112463871231122",
+      "name": "Shockwave27",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Shockwave27"
+          ],
+          "name": "Shockwave27",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://112463871231122"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shockwave27'.",
+      "slug": "shockwave27",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "96985221946418",
+      "uri": "rbxassetid://96985221946418",
+      "name": "Shockwave28",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Shockwave28"
+          ],
+          "name": "Shockwave28",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://96985221946418"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shockwave28'.",
+      "slug": "shockwave28",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "117280660128652",
+      "uri": "rbxassetid://117280660128652",
+      "name": "Shockwave_13_centered",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Shockwave_13_centered"
+          ],
+          "name": "Shockwave_13_centered",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://117280660128652"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shockwave_13_centered'.",
+      "slug": "shockwave_13_centered",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "74805997475448",
+      "uri": "rbxassetid://74805997475448",
+      "name": "Swirly_Shockwave_01",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Swirly_Shockwave_01"
+          ],
+          "name": "Swirly_Shockwave_01",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://74805997475448"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirly_Shockwave_01'.",
+      "slug": "swirly_shockwave_01",
+      "tags": [
+        "radial",
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "93452518559136",
+      "uri": "rbxassetid://93452518559136",
+      "name": "Waveform_001_-_",
+      "category": "rings_circles",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Waveform_001_-_"
+          ],
+          "name": "Waveform_001_-_",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://93452518559136"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Waveform_001_-_'.",
+      "slug": "waveform_001",
+      "tags": [
+        "rings_circles",
+        "shockwaves",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

@@ -1,0 +1,2078 @@
+{
+  "schema_version": "1.0.0",
+  "category": "smoke_clouds",
+  "subcategory": "steam_mist",
+  "description": "Steam mist.",
+  "asset_count": 32,
+  "assets": [
+    {
+      "id": "17332831347",
+      "uri": "rbxassetid://17332831347",
+      "name": "Chromatic Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Chromatic Fog"
+          ],
+          "name": "Chromatic Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17332831347"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Chromatic Fog'.",
+      "slug": "chromatic_fog",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17332847873",
+      "uri": "rbxassetid://17332847873",
+      "name": "Chromatic Fog 2",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Chromatic Fog 2"
+          ],
+          "name": "Chromatic Fog 2",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17332847873"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Chromatic Fog 2'.",
+      "slug": "chromatic_fog_2",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17332832778",
+      "uri": "rbxassetid://17332832778",
+      "name": "Chromatic Fog 3",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Chromatic Fog 3"
+          ],
+          "name": "Chromatic Fog 3",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17332832778"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Chromatic Fog 3'.",
+      "slug": "chromatic_fog_3",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "129394537354054",
+      "uri": "rbxassetid://129394537354054",
+      "name": "Chromatic Fog 4",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Chromatic Fog 4"
+          ],
+          "name": "Chromatic Fog 4",
+          "type": "8x8",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://129394537354054"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Chromatic Fog 4'.",
+      "slug": "chromatic_fog_4",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "104888060261813",
+      "uri": "rbxassetid://104888060261813",
+      "name": "Chromatic Water Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Chromatic Water Fog"
+          ],
+          "name": "Chromatic Water Fog",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://104888060261813"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Chromatic Water Fog'.",
+      "slug": "chromatic_water_fog",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist",
+        "water"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13934610516",
+      "uri": "rbxassetid://13934610516",
+      "name": "Dark Chromatic Energy Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Dark Chromatic Energy Fog"
+          ],
+          "name": "Dark Chromatic Energy Fog",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13934610516"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Dark Chromatic Energy Fog'.",
+      "slug": "dark_chromatic_energy_fog",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11828552375",
+      "uri": "rbxassetid://11828552375",
+      "name": "Dark Thin Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Dark Thin Fog"
+          ],
+          "name": "Dark Thin Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11828552375"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Dark Thin Fog'.",
+      "slug": "dark_thin_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11446801985",
+      "uri": "rbxassetid://11446801985",
+      "name": "Energyesque Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Energyesque Fog"
+          ],
+          "name": "Energyesque Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11446801985"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Energyesque Fog'.",
+      "slug": "energyesque_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "115547804140118",
+      "uri": "rbxassetid://115547804140118",
+      "name": "Fog1",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Fog1"
+          ],
+          "name": "Fog1",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://115547804140118"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Fog1'.",
+      "slug": "fog1",
+      "tags": [
+        "smoke",
+        "smoke_clouds",
+        "static",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "965116971",
+      "uri": "rbxassetid://965116971",
+      "name": "fog_tx",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 233,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "fog_tx",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 93281245,
+          "Name": "p_larized",
+          "CreatorType": "User",
+          "CreatorTargetId": 93281245,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/965116971/details"
+      },
+      "description": "Static texture cataloged as 'fog_tx'.",
+      "slug": "fog_tx",
+      "tags": [
+        "smoke",
+        "smoke_clouds",
+        "static",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12441202218",
+      "uri": "rbxassetid://12441202218",
+      "name": "Gray Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Gray Fog"
+          ],
+          "name": "Gray Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12441202218"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Gray Fog'.",
+      "slug": "gray_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "92045720541673",
+      "uri": "rbxassetid://92045720541673",
+      "name": "Grey Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Grey Fog"
+          ],
+          "name": "Grey Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://92045720541673"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Grey Fog'.",
+      "slug": "grey_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12683695494",
+      "uri": "rbxassetid://12683695494",
+      "name": "Growing Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Growing Fog"
+          ],
+          "name": "Growing Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12683695494"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Growing Fog'.",
+      "slug": "growing_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11447021694",
+      "uri": "rbxassetid://11447021694",
+      "name": "Outward Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Outward Fog"
+          ],
+          "name": "Outward Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11447021694"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Outward Fog'.",
+      "slug": "outward_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "3916143220",
+      "uri": "rbxassetid://3916143220",
+      "name": "Particle-Mist",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 134,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Particle-Mist",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 505306092,
+          "Name": "IgnisRBX",
+          "CreatorType": "User",
+          "CreatorTargetId": 505306092,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/3916143220/details"
+      },
+      "description": "Static texture cataloged as 'Particle-Mist'.",
+      "slug": "particle_mist",
+      "tags": [
+        "smoke_clouds",
+        "static",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "102145598777345",
+      "uri": "rbxassetid://102145598777345",
+      "name": "Pixel Fog Overlay",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Fog Overlay"
+          ],
+          "name": "Pixel Fog Overlay",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://102145598777345"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Fog Overlay'.",
+      "slug": "pixel_fog_overlay",
+      "tags": [
+        "flipbook",
+        "pixel",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12780365055",
+      "uri": "rbxassetid://12780365055",
+      "name": "Pulsing Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Pulsing Fog"
+          ],
+          "name": "Pulsing Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12780365055"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Pulsing Fog'.",
+      "slug": "pulsing_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16503783638",
+      "uri": "rbxassetid://16503783638",
+      "name": "Pulsing Smoke Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Pulsing Smoke Fog"
+          ],
+          "name": "Pulsing Smoke Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16503783638"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Pulsing Smoke Fog'.",
+      "slug": "pulsing_smoke_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14050551379",
+      "uri": "rbxassetid://14050551379",
+      "name": "Pure White Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Pure White Fog"
+          ],
+          "name": "Pure White Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14050551379"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Pure White Fog'.",
+      "slug": "pure_white_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16509877465",
+      "uri": "rbxassetid://16509877465",
+      "name": "Quick Fog Burst",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Quick Fog Burst"
+          ],
+          "name": "Quick Fog Burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16509877465"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Quick Fog Burst'.",
+      "slug": "quick_fog_burst",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12878027420",
+      "uri": "rbxassetid://12878027420",
+      "name": "Realistic Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Realistic Fog"
+          ],
+          "name": "Realistic Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12878027420"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Realistic Fog'.",
+      "slug": "realistic_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11941047152",
+      "uri": "rbxassetid://11941047152",
+      "name": "Realistic Fog 100",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Realistic Fog 100"
+          ],
+          "name": "Realistic Fog 100",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11941047152"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Realistic Fog 100'.",
+      "slug": "realistic_fog_100",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "73401626133942",
+      "uri": "rbxassetid://73401626133942",
+      "name": "Realistic Layered Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Realistic Layered Fog"
+          ],
+          "name": "Realistic Layered Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://73401626133942"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Realistic Layered Fog'.",
+      "slug": "realistic_layered_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "90758860623521",
+      "uri": "rbxassetid://90758860623521",
+      "name": "Seamless Chromatic Fog Loop",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Seamless Chromatic Fog Loop"
+          ],
+          "name": "Seamless Chromatic Fog Loop",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://90758860623521"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Seamless Chromatic Fog Loop'.",
+      "slug": "seamless_chromatic_fog_loop",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11627077002",
+      "uri": "rbxassetid://11627077002",
+      "name": "Seamless Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Seamless Fog"
+          ],
+          "name": "Seamless Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11627077002"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Seamless Fog'.",
+      "slug": "seamless_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12656890347",
+      "uri": "rbxassetid://12656890347",
+      "name": "Shimmying Fog Circle",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Shimmying Fog Circle"
+          ],
+          "name": "Shimmying Fog Circle",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12656890347"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Shimmying Fog Circle'.",
+      "slug": "shimmying_fog_circle",
+      "tags": [
+        "flipbook",
+        "radial",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "87418254231660",
+      "uri": "rbxassetid://87418254231660",
+      "name": "Swirling Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Swirling Fog"
+          ],
+          "name": "Swirling Fog",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://87418254231660"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Swirling Fog'.",
+      "slug": "swirling_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "96540548770170",
+      "uri": "rbxassetid://96540548770170",
+      "name": "Thick Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Thick Fog"
+          ],
+          "name": "Thick Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://96540548770170"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Thick Fog'.",
+      "slug": "thick_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16830667309",
+      "uri": "rbxassetid://16830667309",
+      "name": "Thick mist",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_waterfalls"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "official_documentation",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Thick mist texture for waterfall vapor.",
+      "slug": "thick_mist",
+      "tags": [
+        "smoke_clouds",
+        "static",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "14066311352",
+      "uri": "rbxassetid://14066311352",
+      "name": "Thin Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Thin Fog"
+          ],
+          "name": "Thin Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14066311352"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Thin Fog'.",
+      "slug": "thin_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11458438415",
+      "uri": "rbxassetid://11458438415",
+      "name": "Transparent Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Transparent Fog"
+          ],
+          "name": "Transparent Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11458438415"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Transparent Fog'.",
+      "slug": "transparent_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11381553025",
+      "uri": "rbxassetid://11381553025",
+      "name": "White Fog",
+      "category": "smoke_clouds",
+      "subcategory": "steam_mist",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "White Fog"
+          ],
+          "name": "White Fog",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11381553025"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'White Fog'.",
+      "slug": "white_fog",
+      "tags": [
+        "flipbook",
+        "smoke",
+        "smoke_clouds",
+        "steam_mist"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

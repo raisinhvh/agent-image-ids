@@ -1,0 +1,329 @@
+{
+  "schema_version": "1.0.0",
+  "category": "ground_cracks",
+  "subcategory": "cracks",
+  "description": "Cracks.",
+  "asset_count": 5,
+  "assets": [
+    {
+      "id": "16456027820",
+      "uri": "rbxassetid://16456027820",
+      "name": "Basic crack",
+      "category": "ground_cracks",
+      "subcategory": "cracks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Basic crack"
+          ],
+          "name": "Basic crack",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16456027820"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Basic crack'.",
+      "slug": "basic_crack",
+      "tags": [
+        "cracks",
+        "flipbook",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13784241004",
+      "uri": "rbxassetid://13784241004",
+      "name": "Dark Ground Crack",
+      "category": "ground_cracks",
+      "subcategory": "cracks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Dark Ground Crack"
+          ],
+          "name": "Dark Ground Crack",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13784241004"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Dark Ground Crack'.",
+      "slug": "dark_ground_crack",
+      "tags": [
+        "cracks",
+        "flipbook",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13452217224",
+      "uri": "rbxassetid://13452217224",
+      "name": "Evaporating Crack",
+      "category": "ground_cracks",
+      "subcategory": "cracks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Evaporating Crack"
+          ],
+          "name": "Evaporating Crack",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13452217224"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Evaporating Crack'.",
+      "slug": "evaporating_crack",
+      "tags": [
+        "cracks",
+        "flipbook",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13782885260",
+      "uri": "rbxassetid://13782885260",
+      "name": "Fading dark ground crack",
+      "category": "ground_cracks",
+      "subcategory": "cracks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Fading dark ground crack"
+          ],
+          "name": "Fading dark ground crack",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13782885260"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Fading dark ground crack'.",
+      "slug": "fading_dark_ground_crack",
+      "tags": [
+        "cracks",
+        "flipbook",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13791531657",
+      "uri": "rbxassetid://13791531657",
+      "name": "Outlined crack 2",
+      "category": "ground_cracks",
+      "subcategory": "cracks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Outlined crack 2"
+          ],
+          "name": "Outlined crack 2",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13791531657"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Outlined crack 2'.",
+      "slug": "outlined_crack_2",
+      "tags": [
+        "cracks",
+        "flipbook",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

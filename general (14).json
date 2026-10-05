@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0.0",
+  "category": "swirls_vortices",
+  "subcategory": "general",
+  "description": "General.",
+  "asset_count": 2,
+  "assets": [
+    {
+      "id": "10536262477",
+      "uri": "rbxassetid://10536262477",
+      "name": "Absorbing LE",
+      "category": "swirls_vortices",
+      "subcategory": "general",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Absorbing LE"
+          ],
+          "name": "Absorbing LE",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10536262477"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Absorbing LE'.",
+      "slug": "absorbing_le",
+      "tags": [
+        "flipbook",
+        "general",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17113590856",
+      "uri": "rbxassetid://17113590856",
+      "name": "Thin FX",
+      "category": "swirls_vortices",
+      "subcategory": "general",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Thin FX"
+          ],
+          "name": "Thin FX",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17113590856"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Thin FX'.",
+      "slug": "thin_fx",
+      "tags": [
+        "flipbook",
+        "general",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

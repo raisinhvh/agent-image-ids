@@ -1,0 +1,433 @@
+{
+  "schema_version": "1.0.0",
+  "category": "flares_glow",
+  "subcategory": "glow_dots",
+  "description": "Glow dots.",
+  "asset_count": 7,
+  "assets": [
+    {
+      "id": "5857892330",
+      "uri": "rbxassetid://5857892330",
+      "name": "Dot glow",
+      "category": "flares_glow",
+      "subcategory": "glow_dots",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_starter"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Dot primitive for small glow accents.",
+      "slug": "dot_glow",
+      "tags": [
+        "flares_glow",
+        "glow",
+        "glow_dots",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "6711256324",
+      "uri": "rbxassetid://6711256324",
+      "name": "Double dot",
+      "category": "flares_glow",
+      "subcategory": "glow_dots",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_starter"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Paired dot primitive.",
+      "slug": "double_dot",
+      "tags": [
+        "flares_glow",
+        "glow_dots",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "867619398",
+      "uri": "rbxassetid://867619398",
+      "name": "glow",
+      "category": "flares_glow",
+      "subcategory": "glow_dots",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 143,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "glow",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 358230,
+          "Name": "gkku",
+          "CreatorType": "User",
+          "CreatorTargetId": 358230,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/867619398/details"
+      },
+      "description": "Static texture cataloged as 'glow'.",
+      "slug": "glow",
+      "tags": [
+        "flares_glow",
+        "glow",
+        "glow_dots",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13189667061",
+      "uri": "rbxassetid://13189667061",
+      "name": "Glow",
+      "category": "flares_glow",
+      "subcategory": "glow_dots",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Flare",
+            "Glow"
+          ],
+          "name": "Glow",
+          "type": "4x4",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13189667061"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Glow'.",
+      "slug": "glow",
+      "tags": [
+        "flares_glow",
+        "flipbook",
+        "glow",
+        "glow_dots"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18612733944",
+      "uri": "rbxassetid://18612733944",
+      "name": "Glowing Lines",
+      "category": "flares_glow",
+      "subcategory": "glow_dots",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Glowing Lines"
+          ],
+          "name": "Glowing Lines",
+          "type": "Static",
+          "resolution_raw": "222",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18612733944"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 222,
+        "height": 222,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Glowing Lines'.",
+      "slug": "glowing_lines",
+      "tags": [
+        "flares_glow",
+        "glow",
+        "glow_dots",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13928180948",
+      "uri": "rbxassetid://13928180948",
+      "name": "Grey Glow Squashed",
+      "category": "flares_glow",
+      "subcategory": "glow_dots",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Grey Glow Squashed"
+          ],
+          "name": "Grey Glow Squashed",
+          "type": "4x4",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13928180948"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Grey Glow Squashed'.",
+      "slug": "grey_glow_squashed",
+      "tags": [
+        "flares_glow",
+        "flipbook",
+        "glow",
+        "glow_dots"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18227093452",
+      "uri": "rbxassetid://18227093452",
+      "name": "Stylized Glow Grey",
+      "category": "flares_glow",
+      "subcategory": "glow_dots",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Stylized Glow Grey"
+          ],
+          "name": "Stylized Glow Grey",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18227093452"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized Glow Grey'.",
+      "slug": "stylized_glow_grey",
+      "tags": [
+        "flares_glow",
+        "flipbook",
+        "glow",
+        "glow_dots"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

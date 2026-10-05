@@ -1,0 +1,697 @@
+{
+  "schema_version": "1.0.0",
+  "category": "flares_glow",
+  "subcategory": "general",
+  "description": "General.",
+  "asset_count": 11,
+  "assets": [
+    {
+      "id": "72766370524616",
+      "uri": "rbxassetid://72766370524616",
+      "name": "Arc",
+      "category": "flares_glow",
+      "subcategory": "general",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Flare",
+            "Arc"
+          ],
+          "name": "Arc",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://72766370524616"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Arc'.",
+      "slug": "arc",
+      "tags": [
+        "flares_glow",
+        "flipbook",
+        "general"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16828911033",
+      "uri": "rbxassetid://16828911033",
+      "name": "Faint rainbow",
+      "category": "flares_glow",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_waterfalls"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "official_documentation",
+        "image_type_confirmed": false
+      },
+      "notes": [
+        "Roblox example uses additive blending (LightEmission=1); original colors are retained best with a white Color tint."
+      ],
+      "description": "Faint rainbow texture for prismatic atmosphere.",
+      "slug": "faint_rainbow",
+      "tags": [
+        "chromatic",
+        "flares_glow",
+        "general",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "98325976360706",
+      "uri": "rbxassetid://98325976360706",
+      "name": "Rainbow1",
+      "category": "flares_glow",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Flare",
+            "Rainbow1"
+          ],
+          "name": "Rainbow1",
+          "type": "Static",
+          "resolution_raw": "487",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://98325976360706"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 487,
+        "height": 487,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rainbow1'.",
+      "slug": "rainbow1",
+      "tags": [
+        "chromatic",
+        "flares_glow",
+        "general",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "138111953688137",
+      "uri": "rbxassetid://138111953688137",
+      "name": "Rainbow2",
+      "category": "flares_glow",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Flare",
+            "Rainbow2"
+          ],
+          "name": "Rainbow2",
+          "type": "Static",
+          "resolution_raw": "601",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://138111953688137"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 601,
+        "height": 601,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rainbow2'.",
+      "slug": "rainbow2",
+      "tags": [
+        "chromatic",
+        "flares_glow",
+        "general",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "85664013418740",
+      "uri": "rbxassetid://85664013418740",
+      "name": "Rainbow3",
+      "category": "flares_glow",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Flare",
+            "Rainbow3"
+          ],
+          "name": "Rainbow3",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://85664013418740"
+        },
+        {
+          "source_id": "texture_share",
+          "line": 374,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rainbow3'.",
+      "slug": "rainbow3",
+      "tags": [
+        "chromatic",
+        "flares_glow",
+        "general",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "86314095034017",
+      "uri": "rbxassetid://86314095034017",
+      "name": "Rainbow4",
+      "category": "flares_glow",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Flare",
+            "Rainbow4"
+          ],
+          "name": "Rainbow4",
+          "type": "Static",
+          "resolution_raw": "604",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://86314095034017"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 604,
+        "height": 604,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rainbow4'.",
+      "slug": "rainbow4",
+      "tags": [
+        "chromatic",
+        "flares_glow",
+        "general",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "126685678214657",
+      "uri": "rbxassetid://126685678214657",
+      "name": "Rainbow5",
+      "category": "flares_glow",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Flare",
+            "Rainbow5"
+          ],
+          "name": "Rainbow5",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://126685678214657"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rainbow5'.",
+      "slug": "rainbow5",
+      "tags": [
+        "chromatic",
+        "flares_glow",
+        "general",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "96288653875185",
+      "uri": "rbxassetid://96288653875185",
+      "name": "Rainbow6",
+      "category": "flares_glow",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Flare",
+            "Rainbow6"
+          ],
+          "name": "Rainbow6",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://96288653875185"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rainbow6'.",
+      "slug": "rainbow6",
+      "tags": [
+        "chromatic",
+        "flares_glow",
+        "general",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "114940807331211",
+      "uri": "rbxassetid://114940807331211",
+      "name": "Rainbow7",
+      "category": "flares_glow",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Flare",
+            "Rainbow7"
+          ],
+          "name": "Rainbow7",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://114940807331211"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rainbow7'.",
+      "slug": "rainbow7",
+      "tags": [
+        "chromatic",
+        "flares_glow",
+        "general",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "88218984883624",
+      "uri": "rbxassetid://88218984883624",
+      "name": "Rainbow8",
+      "category": "flares_glow",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Flare",
+            "Rainbow8"
+          ],
+          "name": "Rainbow8",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://88218984883624"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rainbow8'.",
+      "slug": "rainbow8",
+      "tags": [
+        "chromatic",
+        "flares_glow",
+        "general",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "75291700184033",
+      "uri": "rbxassetid://75291700184033",
+      "name": "Rainbow9",
+      "category": "flares_glow",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Flare",
+            "Rainbow9"
+          ],
+          "name": "Rainbow9",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://75291700184033"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rainbow9'.",
+      "slug": "rainbow9",
+      "tags": [
+        "chromatic",
+        "flares_glow",
+        "general",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

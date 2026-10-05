@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.0.0",
+  "category": "energy",
+  "subcategory": "pulses",
+  "description": "Pulses.",
+  "asset_count": 3,
+  "assets": [
+    {
+      "id": "78370855179789",
+      "uri": "rbxassetid://78370855179789",
+      "name": "arcana_hydra_waves",
+      "category": "energy",
+      "subcategory": "pulses",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "arcana_hydra_waves"
+          ],
+          "name": "arcana_hydra_waves",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://78370855179789"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'arcana_hydra_waves'.",
+      "slug": "arcana_hydra_waves",
+      "tags": [
+        "energy",
+        "pulses",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12123878312",
+      "uri": "rbxassetid://12123878312",
+      "name": "Energy Pulse",
+      "category": "energy",
+      "subcategory": "pulses",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "Energy Pulse"
+          ],
+          "name": "Energy Pulse",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12123878312"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Energy Pulse'.",
+      "slug": "energy_pulse",
+      "tags": [
+        "energy",
+        "flipbook",
+        "pulses"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16511790647",
+      "uri": "rbxassetid://16511790647",
+      "name": "Realistic Energy Pulse",
+      "category": "energy",
+      "subcategory": "pulses",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "Realistic Energy Pulse"
+          ],
+          "name": "Realistic Energy Pulse",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16511790647"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Realistic Energy Pulse'.",
+      "slug": "realistic_energy_pulse",
+      "tags": [
+        "energy",
+        "flipbook",
+        "pulses"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

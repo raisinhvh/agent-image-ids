@@ -1,0 +1,333 @@
+{
+  "schema_version": "1.0.0",
+  "category": "flares_glow",
+  "subcategory": "gradients",
+  "description": "Gradients.",
+  "asset_count": 5,
+  "assets": [
+    {
+      "id": "18227190925",
+      "uri": "rbxassetid://18227190925",
+      "name": "Blurry Arrow",
+      "category": "flares_glow",
+      "subcategory": "gradients",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Blurry Arrow"
+          ],
+          "name": "Blurry Arrow",
+          "type": "2x2",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18227190925"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Blurry Arrow'.",
+      "slug": "blurry_arrow",
+      "tags": [
+        "flares_glow",
+        "flipbook",
+        "gradients",
+        "soft"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "89169149094251",
+      "uri": "rbxassetid://89169149094251",
+      "name": "Fancy Blurred Shape",
+      "category": "flares_glow",
+      "subcategory": "gradients",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Fancy Blurred Shape"
+          ],
+          "name": "Fancy Blurred Shape",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://89169149094251"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Fancy Blurred Shape'.",
+      "slug": "fancy_blurred_shape",
+      "tags": [
+        "flares_glow",
+        "flipbook",
+        "gradients",
+        "soft"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "196969716",
+      "uri": "rbxassetid://196969716",
+      "name": "Gradient",
+      "category": "flares_glow",
+      "subcategory": "gradients",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 88,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Gradient",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 9546145,
+          "Name": "Corecii",
+          "CreatorType": "User",
+          "CreatorTargetId": 9546145,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/196969716/details"
+      },
+      "description": "Static texture cataloged as 'Gradient'.",
+      "slug": "gradient",
+      "tags": [
+        "flares_glow",
+        "gradients",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15562554136",
+      "uri": "rbxassetid://15562554136",
+      "name": "Oval Blurry",
+      "category": "flares_glow",
+      "subcategory": "gradients",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Oval Blurry"
+          ],
+          "name": "Oval Blurry",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15562554136"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Oval Blurry'.",
+      "slug": "oval_blurry",
+      "tags": [
+        "flares_glow",
+        "flipbook",
+        "gradients",
+        "soft"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "1084965356",
+      "uri": "rbxassetid://1084965356",
+      "name": "wave_blurry",
+      "category": "flares_glow",
+      "subcategory": "gradients",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 94,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "wave_blurry",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 358230,
+          "Name": "gkku",
+          "CreatorType": "User",
+          "CreatorTargetId": 358230,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/1084965356/details"
+      },
+      "description": "Static texture cataloged as 'wave_blurry'.",
+      "slug": "wave_blurry",
+      "tags": [
+        "flares_glow",
+        "gradients",
+        "soft",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

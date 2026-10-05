@@ -1,0 +1,685 @@
+{
+  "schema_version": "1.0.0",
+  "category": "beams_trails",
+  "subcategory": "energy",
+  "description": "Energy.",
+  "asset_count": 11,
+  "assets": [
+    {
+      "id": "12713360567",
+      "uri": "rbxassetid://12713360567",
+      "name": "BeamAura Beam",
+      "category": "beams_trails",
+      "subcategory": "energy",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamAura Beam"
+          ],
+          "name": "BeamAura Beam",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12713360567"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamAura Beam'.",
+      "slug": "beamaura_beam",
+      "tags": [
+        "beams_trails",
+        "energy",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12781804519",
+      "uri": "rbxassetid://12781804519",
+      "name": "BeamEnergy LE",
+      "category": "beams_trails",
+      "subcategory": "energy",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamEnergy LE"
+          ],
+          "name": "BeamEnergy LE",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12781804519"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamEnergy LE'.",
+      "slug": "beamenergy_le",
+      "tags": [
+        "beams_trails",
+        "energy",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12781774532",
+      "uri": "rbxassetid://12781774532",
+      "name": "BeamEnergy wave",
+      "category": "beams_trails",
+      "subcategory": "energy",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamEnergy wave"
+          ],
+          "name": "BeamEnergy wave",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12781774532"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamEnergy wave'.",
+      "slug": "beamenergy_wave",
+      "tags": [
+        "beams_trails",
+        "energy",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "6091474388",
+      "uri": "rbxassetid://6091474388",
+      "name": "BeamGlowing Magic",
+      "category": "beams_trails",
+      "subcategory": "energy",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamGlowing Magic"
+          ],
+          "name": "BeamGlowing Magic",
+          "type": "Static",
+          "resolution_raw": "550",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://6091474388"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 550,
+        "height": 550,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamGlowing Magic'.",
+      "slug": "beamglowing_magic",
+      "tags": [
+        "beams_trails",
+        "energy",
+        "glow",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16310670422",
+      "uri": "rbxassetid://16310670422",
+      "name": "BeamLow res energy",
+      "category": "beams_trails",
+      "subcategory": "energy",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamLow res energy"
+          ],
+          "name": "BeamLow res energy",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16310670422"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamLow res energy'.",
+      "slug": "beamlow_res_energy",
+      "tags": [
+        "beams_trails",
+        "energy",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15325756429",
+      "uri": "rbxassetid://15325756429",
+      "name": "BeamMagic dust",
+      "category": "beams_trails",
+      "subcategory": "energy",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamMagic dust"
+          ],
+          "name": "BeamMagic dust",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15325756429"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamMagic dust'.",
+      "slug": "beammagic_dust",
+      "tags": [
+        "beams_trails",
+        "energy",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12781812529",
+      "uri": "rbxassetid://12781812529",
+      "name": "BeamMagic symbol",
+      "category": "beams_trails",
+      "subcategory": "energy",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamMagic symbol"
+          ],
+          "name": "BeamMagic symbol",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12781812529"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamMagic symbol'.",
+      "slug": "beammagic_symbol",
+      "tags": [
+        "beams_trails",
+        "energy",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13580357222",
+      "uri": "rbxassetid://13580357222",
+      "name": "BeamMagical dust",
+      "category": "beams_trails",
+      "subcategory": "energy",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamMagical dust"
+          ],
+          "name": "BeamMagical dust",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13580357222"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamMagical dust'.",
+      "slug": "beammagical_dust",
+      "tags": [
+        "beams_trails",
+        "energy",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14050983225",
+      "uri": "rbxassetid://14050983225",
+      "name": "BeamThick Energy",
+      "category": "beams_trails",
+      "subcategory": "energy",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamThick Energy"
+          ],
+          "name": "BeamThick Energy",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14050983225"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamThick Energy'.",
+      "slug": "beamthick_energy",
+      "tags": [
+        "beams_trails",
+        "energy",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15488087736",
+      "uri": "rbxassetid://15488087736",
+      "name": "BeamThin energy",
+      "category": "beams_trails",
+      "subcategory": "energy",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamThin energy"
+          ],
+          "name": "BeamThin energy",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15488087736"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamThin energy'.",
+      "slug": "beamthin_energy",
+      "tags": [
+        "beams_trails",
+        "energy",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15507852294",
+      "uri": "rbxassetid://15507852294",
+      "name": "BeamThin Energy",
+      "category": "beams_trails",
+      "subcategory": "energy",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamThin Energy"
+          ],
+          "name": "BeamThin Energy",
+          "type": "Static",
+          "resolution_raw": "413",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15507852294"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 413,
+        "height": 413,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamThin Energy'.",
+      "slug": "beamthin_energy",
+      "tags": [
+        "beams_trails",
+        "energy",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

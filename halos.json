@@ -1,0 +1,201 @@
+{
+  "schema_version": "1.0.0",
+  "category": "rings_circles",
+  "subcategory": "halos",
+  "description": "Halos.",
+  "asset_count": 3,
+  "assets": [
+    {
+      "id": "15011478368",
+      "uri": "rbxassetid://15011478368",
+      "name": "Fading halo",
+      "category": "rings_circles",
+      "subcategory": "halos",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Fading halo"
+          ],
+          "name": "Fading halo",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15011478368"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Fading halo'.",
+      "slug": "fading_halo",
+      "tags": [
+        "flipbook",
+        "halos",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13370279230",
+      "uri": "rbxassetid://13370279230",
+      "name": "LE Fancy Halo",
+      "category": "rings_circles",
+      "subcategory": "halos",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "LE Fancy Halo"
+          ],
+          "name": "LE Fancy Halo",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13370279230"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'LE Fancy Halo'.",
+      "slug": "le_fancy_halo",
+      "tags": [
+        "flipbook",
+        "halos",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14050610023",
+      "uri": "rbxassetid://14050610023",
+      "name": "No LE Fractal Halo",
+      "category": "rings_circles",
+      "subcategory": "halos",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "No LE Fractal Halo"
+          ],
+          "name": "No LE Fractal Halo",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14050610023"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'No LE Fractal Halo'.",
+      "slug": "no_le_fractal_halo",
+      "tags": [
+        "flipbook",
+        "halos",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

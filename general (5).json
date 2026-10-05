@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.0.0",
+  "category": "ground_cracks",
+  "subcategory": "general",
+  "description": "General.",
+  "asset_count": 3,
+  "assets": [
+    {
+      "id": "13781849388",
+      "uri": "rbxassetid://13781849388",
+      "name": "Finished fade",
+      "category": "ground_cracks",
+      "subcategory": "general",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Finished fade"
+          ],
+          "name": "Finished fade",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13781849388"
+        },
+        {
+          "source_id": "texture_share",
+          "line": 356,
+          "animated_raw": true,
+          "grid_raw": 4,
+          "resolution_raw": "1024"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Finished fade'.",
+      "slug": "finished_fade",
+      "tags": [
+        "flipbook",
+        "general",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "87001521331112",
+      "uri": "rbxassetid://87001521331112",
+      "name": "Thin",
+      "category": "ground_cracks",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Thin"
+          ],
+          "name": "Thin",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://87001521331112"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Thin'.",
+      "slug": "thin",
+      "tags": [
+        "general",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13452273491",
+      "uri": "rbxassetid://13452273491",
+      "name": "Unfinished fade",
+      "category": "ground_cracks",
+      "subcategory": "general",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Unfinished fade"
+          ],
+          "name": "Unfinished fade",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13452273491"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Unfinished fade'.",
+      "slug": "unfinished_fade",
+      "tags": [
+        "flipbook",
+        "general",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

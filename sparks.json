@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0.0",
+  "category": "electricity",
+  "subcategory": "sparks",
+  "description": "Sparks.",
+  "asset_count": 4,
+  "assets": [
+    {
+      "id": "14197130288",
+      "uri": "rbxassetid://14197130288",
+      "name": "Colourless sparks",
+      "category": "electricity",
+      "subcategory": "sparks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Lightning",
+            "Colourless sparks"
+          ],
+          "name": "Colourless sparks",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14197130288"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Colourless sparks'.",
+      "slug": "colourless_sparks",
+      "tags": [
+        "electricity",
+        "flipbook",
+        "sparks"
+      ],
+      "suggested_uses": [
+        "electric attacks",
+        "lightning bursts",
+        "electrical sparks"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "6101261905",
+      "uri": "rbxassetid://6101261905",
+      "name": "Electric spark",
+      "category": "electricity",
+      "subcategory": "sparks",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_explosions"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "official_documentation",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Electric spark texture for bursts.",
+      "slug": "electric_spark",
+      "tags": [
+        "electric",
+        "electricity",
+        "sparks",
+        "static"
+      ],
+      "suggested_uses": [
+        "electric attacks",
+        "lightning bursts",
+        "electrical sparks"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "11864126734",
+      "uri": "rbxassetid://11864126734",
+      "name": "Pixel Sparks",
+      "category": "electricity",
+      "subcategory": "sparks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Lightning",
+            "Pixel Sparks"
+          ],
+          "name": "Pixel Sparks",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11864126734"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Sparks'.",
+      "slug": "pixel_sparks",
+      "tags": [
+        "electricity",
+        "flipbook",
+        "pixel",
+        "sparks"
+      ],
+      "suggested_uses": [
+        "electric attacks",
+        "lightning bursts",
+        "electrical sparks"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10546930830",
+      "uri": "rbxassetid://10546930830",
+      "name": "Sparks",
+      "category": "electricity",
+      "subcategory": "sparks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Lightning",
+            "Sparks"
+          ],
+          "name": "Sparks",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10546930830"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Sparks'.",
+      "slug": "sparks",
+      "tags": [
+        "electricity",
+        "flipbook",
+        "sparks"
+      ],
+      "suggested_uses": [
+        "electric attacks",
+        "lightning bursts",
+        "electrical sparks"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

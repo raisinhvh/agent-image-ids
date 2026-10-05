@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0.0",
+  "category": "beams_trails",
+  "subcategory": "slashes",
+  "description": "Slashes.",
+  "asset_count": 6,
+  "assets": [
+    {
+      "id": "18761889926",
+      "uri": "rbxassetid://18761889926",
+      "name": "BeamArcane",
+      "category": "beams_trails",
+      "subcategory": "slashes",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamArcane"
+          ],
+          "name": "BeamArcane",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18761889926"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamArcane'.",
+      "slug": "beamarcane",
+      "tags": [
+        "beams_trails",
+        "slashes",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14364460918",
+      "uri": "rbxassetid://14364460918",
+      "name": "BeamLong arc",
+      "category": "beams_trails",
+      "subcategory": "slashes",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamLong arc"
+          ],
+          "name": "BeamLong arc",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14364460918"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamLong arc'.",
+      "slug": "beamlong_arc",
+      "tags": [
+        "beams_trails",
+        "slashes",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "108232888731244",
+      "uri": "rbxassetid://108232888731244",
+      "name": "BeamScratching beam",
+      "category": "beams_trails",
+      "subcategory": "slashes",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamScratching beam"
+          ],
+          "name": "BeamScratching beam",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://108232888731244"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamScratching beam'.",
+      "slug": "beamscratching_beam",
+      "tags": [
+        "beams_trails",
+        "slashes",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "136845497262223",
+      "uri": "rbxassetid://136845497262223",
+      "name": "BeamScratchy beam",
+      "category": "beams_trails",
+      "subcategory": "slashes",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamScratchy beam"
+          ],
+          "name": "BeamScratchy beam",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://136845497262223"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamScratchy beam'.",
+      "slug": "beamscratchy_beam",
+      "tags": [
+        "beams_trails",
+        "slashes",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13991337233",
+      "uri": "rbxassetid://13991337233",
+      "name": "BeamScratchy Trail",
+      "category": "beams_trails",
+      "subcategory": "slashes",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamScratchy Trail"
+          ],
+          "name": "BeamScratchy Trail",
+          "type": "Static",
+          "resolution_raw": "232",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13991337233"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 232,
+        "height": 232,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamScratchy Trail'.",
+      "slug": "beamscratchy_trail",
+      "tags": [
+        "beams_trails",
+        "slashes",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11744201766",
+      "uri": "rbxassetid://11744201766",
+      "name": "BeamSlash",
+      "category": "beams_trails",
+      "subcategory": "slashes",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamSlash"
+          ],
+          "name": "BeamSlash",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11744201766"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamSlash'.",
+      "slug": "beamslash",
+      "tags": [
+        "beams_trails",
+        "slash",
+        "slashes",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

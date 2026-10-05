@@ -1,0 +1,3527 @@
+{
+  "schema_version": "1.0.0",
+  "category": "swirls_vortices",
+  "subcategory": "swirls",
+  "description": "Swirls.",
+  "asset_count": 56,
+  "assets": [
+    {
+      "id": "15048784530",
+      "uri": "rbxassetid://15048784530",
+      "name": "Absorb Swirl",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Absorb Swirl"
+          ],
+          "name": "Absorb Swirl",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15048784530"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Absorb Swirl'.",
+      "slug": "absorb_swirl",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "73047393905693",
+      "uri": "rbxassetid://73047393905693",
+      "name": "Blackhole swirl",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Blackhole swirl"
+          ],
+          "name": "Blackhole swirl",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://73047393905693"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Blackhole swirl'.",
+      "slug": "blackhole_swirl",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14197070443",
+      "uri": "rbxassetid://14197070443",
+      "name": "Charging swirl 2",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Charging swirl 2"
+          ],
+          "name": "Charging swirl 2",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14197070443"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Charging swirl 2'.",
+      "slug": "charging_swirl_2",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13765047699",
+      "uri": "rbxassetid://13765047699",
+      "name": "Colour removed swirl",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Colour removed swirl"
+          ],
+          "name": "Colour removed swirl",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13765047699"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Colour removed swirl'.",
+      "slug": "colour_removed_swirl",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "112418500538896",
+      "uri": "rbxassetid://112418500538896",
+      "name": "Galaxy Swirl",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Galaxy Swirl"
+          ],
+          "name": "Galaxy Swirl",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://112418500538896"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Galaxy Swirl'.",
+      "slug": "galaxy_swirl",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15011471927",
+      "uri": "rbxassetid://15011471927",
+      "name": "Gap filled swirl",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Gap filled swirl"
+          ],
+          "name": "Gap filled swirl",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15011471927"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Gap filled swirl'.",
+      "slug": "gap_filled_swirl",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13989966715",
+      "uri": "rbxassetid://13989966715",
+      "name": "Glowing Swirl",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Glowing Swirl"
+          ],
+          "name": "Glowing Swirl",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13989966715"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Glowing Swirl'.",
+      "slug": "glowing_swirl",
+      "tags": [
+        "flipbook",
+        "glow",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16047576636",
+      "uri": "rbxassetid://16047576636",
+      "name": "Growing swirl explosion",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Growing swirl explosion"
+          ],
+          "name": "Growing swirl explosion",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16047576636"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Growing swirl explosion'.",
+      "slug": "growing_swirl_explosion",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364295937",
+      "uri": "rbxassetid://12364295937",
+      "name": "Layered Swirl",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Layered Swirl"
+          ],
+          "name": "Layered Swirl",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364295937"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Layered Swirl'.",
+      "slug": "layered_swirl",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15755035567",
+      "uri": "rbxassetid://15755035567",
+      "name": "Overlayed swirl",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Overlayed swirl"
+          ],
+          "name": "Overlayed swirl",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15755035567"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Overlayed swirl'.",
+      "slug": "overlayed_swirl",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "124284659328694",
+      "uri": "rbxassetid://124284659328694",
+      "name": "Specs Swirl",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Specs Swirl"
+          ],
+          "name": "Specs Swirl",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://124284659328694"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Specs Swirl'.",
+      "slug": "specs_swirl",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13739512481",
+      "uri": "rbxassetid://13739512481",
+      "name": "Swirl Again",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirl Again"
+          ],
+          "name": "Swirl Again",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13739512481"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Swirl Again'.",
+      "slug": "swirl_again",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364344134",
+      "uri": "rbxassetid://12364344134",
+      "name": "Swirled Spike",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Swirled Spike"
+          ],
+          "name": "Swirled Spike",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364344134"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirled Spike'.",
+      "slug": "swirled_spike",
+      "tags": [
+        "sharp",
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "132537238667080",
+      "uri": "rbxassetid://132537238667080",
+      "name": "Swirling Basic Energy",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Swirling Basic Energy"
+          ],
+          "name": "Swirling Basic Energy",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://132537238667080"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Swirling Basic Energy'.",
+      "slug": "swirling_basic_energy",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "111209754502342",
+      "uri": "rbxassetid://111209754502342",
+      "name": "Swirling InOut",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirling InOut"
+          ],
+          "name": "Swirling InOut",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://111209754502342"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Swirling InOut'.",
+      "slug": "swirling_inout",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15810716118",
+      "uri": "rbxassetid://15810716118",
+      "name": "Swirling overlay",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirling overlay"
+          ],
+          "name": "Swirling overlay",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15810716118"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Swirling overlay'.",
+      "slug": "swirling_overlay",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "76837787912373",
+      "uri": "rbxassetid://76837787912373",
+      "name": "Swirls1",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls1"
+          ],
+          "name": "Swirls1",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://76837787912373"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls1'.",
+      "slug": "swirls1",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "105389335615373",
+      "uri": "rbxassetid://105389335615373",
+      "name": "Swirls10",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls10"
+          ],
+          "name": "Swirls10",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://105389335615373"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls10'.",
+      "slug": "swirls10",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "72531587777063",
+      "uri": "rbxassetid://72531587777063",
+      "name": "Swirls11",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls11"
+          ],
+          "name": "Swirls11",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://72531587777063"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls11'.",
+      "slug": "swirls11",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "102501924203243",
+      "uri": "rbxassetid://102501924203243",
+      "name": "Swirls12",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls12"
+          ],
+          "name": "Swirls12",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://102501924203243"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Swirls12'.",
+      "slug": "swirls12",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "134384899875611",
+      "uri": "rbxassetid://134384899875611",
+      "name": "Swirls13",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls13"
+          ],
+          "name": "Swirls13",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://134384899875611"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls13'.",
+      "slug": "swirls13",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "138923760615400",
+      "uri": "rbxassetid://138923760615400",
+      "name": "Swirls14",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls14"
+          ],
+          "name": "Swirls14",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://138923760615400"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Swirls14'.",
+      "slug": "swirls14",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "125315542080455",
+      "uri": "rbxassetid://125315542080455",
+      "name": "Swirls15",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls15"
+          ],
+          "name": "Swirls15",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://125315542080455"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls15'.",
+      "slug": "swirls15",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "81909554389446",
+      "uri": "rbxassetid://81909554389446",
+      "name": "Swirls16",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls16"
+          ],
+          "name": "Swirls16",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://81909554389446"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls16'.",
+      "slug": "swirls16",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "86747291022053",
+      "uri": "rbxassetid://86747291022053",
+      "name": "Swirls17",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls17"
+          ],
+          "name": "Swirls17",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://86747291022053"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Swirls17'.",
+      "slug": "swirls17",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "109861185498326",
+      "uri": "rbxassetid://109861185498326",
+      "name": "Swirls18",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls18"
+          ],
+          "name": "Swirls18",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://109861185498326"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls18'.",
+      "slug": "swirls18",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "131715289371065",
+      "uri": "rbxassetid://131715289371065",
+      "name": "Swirls19",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls19"
+          ],
+          "name": "Swirls19",
+          "type": "Static",
+          "resolution_raw": "604",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://131715289371065"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 604,
+        "height": 604,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls19'.",
+      "slug": "swirls19",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "112534150791266",
+      "uri": "rbxassetid://112534150791266",
+      "name": "Swirls2",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls2"
+          ],
+          "name": "Swirls2",
+          "type": "Static",
+          "resolution_raw": "604",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://112534150791266"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 604,
+        "height": 604,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls2'.",
+      "slug": "swirls2",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "122386861359557",
+      "uri": "rbxassetid://122386861359557",
+      "name": "Swirls20",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls20"
+          ],
+          "name": "Swirls20",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://122386861359557"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls20'.",
+      "slug": "swirls20",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "121951082575709",
+      "uri": "rbxassetid://121951082575709",
+      "name": "Swirls21",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls21"
+          ],
+          "name": "Swirls21",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://121951082575709"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls21'.",
+      "slug": "swirls21",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "130275026276053",
+      "uri": "rbxassetid://130275026276053",
+      "name": "Swirls22",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls22"
+          ],
+          "name": "Swirls22",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://130275026276053"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls22'.",
+      "slug": "swirls22",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "71667687428593",
+      "uri": "rbxassetid://71667687428593",
+      "name": "Swirls23",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls23"
+          ],
+          "name": "Swirls23",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://71667687428593"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls23'.",
+      "slug": "swirls23",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "113396696715156",
+      "uri": "rbxassetid://113396696715156",
+      "name": "Swirls24",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls24"
+          ],
+          "name": "Swirls24",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://113396696715156"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls24'.",
+      "slug": "swirls24",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "132104215282447",
+      "uri": "rbxassetid://132104215282447",
+      "name": "Swirls25",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls25"
+          ],
+          "name": "Swirls25",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://132104215282447"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Swirls25'.",
+      "slug": "swirls25",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "113851034993546",
+      "uri": "rbxassetid://113851034993546",
+      "name": "Swirls26",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls26"
+          ],
+          "name": "Swirls26",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://113851034993546"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Swirls26'.",
+      "slug": "swirls26",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "101795579020586",
+      "uri": "rbxassetid://101795579020586",
+      "name": "Swirls27",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls27"
+          ],
+          "name": "Swirls27",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://101795579020586"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls27'.",
+      "slug": "swirls27",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127784224445658",
+      "uri": "rbxassetid://127784224445658",
+      "name": "Swirls28",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls28"
+          ],
+          "name": "Swirls28",
+          "type": "Static",
+          "resolution_raw": "601",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127784224445658"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 601,
+        "height": 601,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls28'.",
+      "slug": "swirls28",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "135190266136069",
+      "uri": "rbxassetid://135190266136069",
+      "name": "Swirls29",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls29"
+          ],
+          "name": "Swirls29",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://135190266136069"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls29'.",
+      "slug": "swirls29",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "71471490981713",
+      "uri": "rbxassetid://71471490981713",
+      "name": "Swirls3",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls3"
+          ],
+          "name": "Swirls3",
+          "type": "Static",
+          "resolution_raw": "604",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://71471490981713"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 604,
+        "height": 604,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls3'.",
+      "slug": "swirls3",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "76945224384237",
+      "uri": "rbxassetid://76945224384237",
+      "name": "Swirls30",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls30"
+          ],
+          "name": "Swirls30",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://76945224384237"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls30'.",
+      "slug": "swirls30",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "131719429354175",
+      "uri": "rbxassetid://131719429354175",
+      "name": "Swirls31",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls31"
+          ],
+          "name": "Swirls31",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://131719429354175"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls31'.",
+      "slug": "swirls31",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "126210087056584",
+      "uri": "rbxassetid://126210087056584",
+      "name": "Swirls32",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls32"
+          ],
+          "name": "Swirls32",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://126210087056584"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls32'.",
+      "slug": "swirls32",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "137470528415577",
+      "uri": "rbxassetid://137470528415577",
+      "name": "Swirls33",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls33"
+          ],
+          "name": "Swirls33",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://137470528415577"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls33'.",
+      "slug": "swirls33",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "74174863626781",
+      "uri": "rbxassetid://74174863626781",
+      "name": "Swirls36",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls36"
+          ],
+          "name": "Swirls36",
+          "type": "Static",
+          "resolution_raw": "399",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://74174863626781"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 399,
+        "height": 399,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls36'.",
+      "slug": "swirls36",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "81599636911424",
+      "uri": "rbxassetid://81599636911424",
+      "name": "Swirls37",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls37"
+          ],
+          "name": "Swirls37",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://81599636911424"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls37'.",
+      "slug": "swirls37",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "137282478020057",
+      "uri": "rbxassetid://137282478020057",
+      "name": "Swirls38",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls38"
+          ],
+          "name": "Swirls38",
+          "type": "Static",
+          "resolution_raw": "601",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://137282478020057"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 601,
+        "height": 601,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls38'.",
+      "slug": "swirls38",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "123255036338820",
+      "uri": "rbxassetid://123255036338820",
+      "name": "Swirls39",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls39"
+          ],
+          "name": "Swirls39",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://123255036338820"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls39'.",
+      "slug": "swirls39",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "96804865965117",
+      "uri": "rbxassetid://96804865965117",
+      "name": "Swirls4",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls4"
+          ],
+          "name": "Swirls4",
+          "type": "Static",
+          "resolution_raw": "604",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://96804865965117"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 604,
+        "height": 604,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls4'.",
+      "slug": "swirls4",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "87312114105689",
+      "uri": "rbxassetid://87312114105689",
+      "name": "Swirls5",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls5"
+          ],
+          "name": "Swirls5",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://87312114105689"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Swirls5'.",
+      "slug": "swirls5",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "89486235528411",
+      "uri": "rbxassetid://89486235528411",
+      "name": "Swirls6",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls6"
+          ],
+          "name": "Swirls6",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://89486235528411"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls6'.",
+      "slug": "swirls6",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "110310905039842",
+      "uri": "rbxassetid://110310905039842",
+      "name": "Swirls7",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls7"
+          ],
+          "name": "Swirls7",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://110310905039842"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls7'.",
+      "slug": "swirls7",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127505721201182",
+      "uri": "rbxassetid://127505721201182",
+      "name": "Swirls8",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls8"
+          ],
+          "name": "Swirls8",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127505721201182"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls8'.",
+      "slug": "swirls8",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "136503215400480",
+      "uri": "rbxassetid://136503215400480",
+      "name": "Swirls9",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Swirls9"
+          ],
+          "name": "Swirls9",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://136503215400480"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Swirls9'.",
+      "slug": "swirls9",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "82912790564034",
+      "uri": "rbxassetid://82912790564034",
+      "name": "SwirlThingy",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "SwirlThingy"
+          ],
+          "name": "SwirlThingy",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://82912790564034"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'SwirlThingy'.",
+      "slug": "swirlthingy",
+      "tags": [
+        "static",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "136104048569538",
+      "uri": "rbxassetid://136104048569538",
+      "name": "Thin swirl 3",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Thin swirl 3"
+          ],
+          "name": "Thin swirl 3",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://136104048569538"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Thin swirl 3'.",
+      "slug": "thin_swirl_3",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17612139917",
+      "uri": "rbxassetid://17612139917",
+      "name": "Whole swirl",
+      "category": "swirls_vortices",
+      "subcategory": "swirls",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Swirl",
+            "Whole swirl"
+          ],
+          "name": "Whole swirl",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17612139917"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Whole swirl'.",
+      "slug": "whole_swirl",
+      "tags": [
+        "flipbook",
+        "swirls",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

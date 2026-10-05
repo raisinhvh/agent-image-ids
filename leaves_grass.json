@@ -1,0 +1,626 @@
+{
+  "schema_version": "1.0.0",
+  "category": "nature",
+  "subcategory": "leaves_grass",
+  "description": "Leaves grass.",
+  "asset_count": 10,
+  "assets": [
+    {
+      "id": "12364751810",
+      "uri": "rbxassetid://12364751810",
+      "name": "Four Sided Leaf Sigil",
+      "category": "nature",
+      "subcategory": "leaves_grass",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Four Sided Leaf Sigil"
+          ],
+          "name": "Four Sided Leaf Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364751810"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Four Sided Leaf Sigil'.",
+      "slug": "four_sided_leaf_sigil",
+      "tags": [
+        "leaves_grass",
+        "magic",
+        "nature",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "91858314987113",
+      "uri": "rbxassetid://91858314987113",
+      "name": "grass1Other",
+      "category": "nature",
+      "subcategory": "leaves_grass",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "grass1Other"
+          ],
+          "name": "grass1Other",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://91858314987113"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'grass1Other'.",
+      "slug": "grass1other",
+      "tags": [
+        "leaves_grass",
+        "nature",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "6475162564",
+      "uri": "rbxassetid://6475162564",
+      "name": "Images/leaf2",
+      "category": "nature",
+      "subcategory": "leaves_grass",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 20,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Images/leaf2",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 161842666,
+          "Name": "Emi1o",
+          "CreatorType": "User",
+          "CreatorTargetId": 161842666,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/6475162564/details"
+      },
+      "description": "Static texture cataloged as 'Images/leaf2'.",
+      "slug": "images_leaf2",
+      "tags": [
+        "leaves_grass",
+        "nature",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "6703369286",
+      "uri": "rbxassetid://6703369286",
+      "name": "Leaf",
+      "category": "nature",
+      "subcategory": "leaves_grass",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_actions"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Leaf icon.",
+      "slug": "leaf",
+      "tags": [
+        "leaves_grass",
+        "nature",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "140375476348171",
+      "uri": "rbxassetid://140375476348171",
+      "name": "leaf (2)Other",
+      "category": "nature",
+      "subcategory": "leaves_grass",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "leaf (2)Other"
+          ],
+          "name": "leaf (2)Other",
+          "type": "static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://140375476348171"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'leaf (2)Other'.",
+      "slug": "leaf_2_other",
+      "tags": [
+        "leaves_grass",
+        "nature",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "915916073",
+      "uri": "rbxassetid://915916073",
+      "name": "Leaf Particle",
+      "category": "nature",
+      "subcategory": "leaves_grass",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 82,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Leaf Particle",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 635447,
+          "Name": "orangesheepdog",
+          "CreatorType": "User",
+          "CreatorTargetId": 635447,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/915916073/details"
+      },
+      "description": "Static texture cataloged as 'Leaf Particle'.",
+      "slug": "leaf_particle",
+      "tags": [
+        "leaves_grass",
+        "nature",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18306688920",
+      "uri": "rbxassetid://18306688920",
+      "name": "Leaf Spinning",
+      "category": "nature",
+      "subcategory": "leaves_grass",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Leaf Spinning"
+          ],
+          "name": "Leaf Spinning",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18306688920"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Leaf Spinning'.",
+      "slug": "leaf_spinning",
+      "tags": [
+        "flipbook",
+        "leaves_grass",
+        "nature"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "124618167412528",
+      "uri": "rbxassetid://124618167412528",
+      "name": "leaf2Other",
+      "category": "nature",
+      "subcategory": "leaves_grass",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "leaf2Other"
+          ],
+          "name": "leaf2Other",
+          "type": "static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://124618167412528"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'leaf2Other'.",
+      "slug": "leaf2other",
+      "tags": [
+        "leaves_grass",
+        "nature",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "112960874731496",
+      "uri": "rbxassetid://112960874731496",
+      "name": "leafOther",
+      "category": "nature",
+      "subcategory": "leaves_grass",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "leafOther"
+          ],
+          "name": "leafOther",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://112960874731496"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'leafOther'.",
+      "slug": "leafother",
+      "tags": [
+        "leaves_grass",
+        "nature",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "119845699786707",
+      "uri": "rbxassetid://119845699786707",
+      "name": "leavesOther",
+      "category": "nature",
+      "subcategory": "leaves_grass",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "leavesOther"
+          ],
+          "name": "leavesOther",
+          "type": "2x2",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://119845699786707"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'leavesOther'.",
+      "slug": "leavesother",
+      "tags": [
+        "flipbook",
+        "leaves_grass",
+        "nature"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

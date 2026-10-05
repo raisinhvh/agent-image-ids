@@ -1,0 +1,559 @@
+{
+  "schema_version": "1.0.0",
+  "category": "beams_trails",
+  "subcategory": "chains",
+  "description": "Chains.",
+  "asset_count": 9,
+  "assets": [
+    {
+      "id": "17591220689",
+      "uri": "rbxassetid://17591220689",
+      "name": "BeamBroken chain",
+      "category": "beams_trails",
+      "subcategory": "chains",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamBroken chain"
+          ],
+          "name": "BeamBroken chain",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17591220689"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamBroken chain'.",
+      "slug": "beambroken_chain",
+      "tags": [
+        "beams_trails",
+        "chains",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "9632168658",
+      "uri": "rbxassetid://9632168658",
+      "name": "BeamChain 4",
+      "category": "beams_trails",
+      "subcategory": "chains",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamChain 4"
+          ],
+          "name": "BeamChain 4",
+          "type": "Static",
+          "resolution_raw": "500",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://9632168658"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 500,
+        "height": 500,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamChain 4'.",
+      "slug": "beamchain_4",
+      "tags": [
+        "beams_trails",
+        "chains",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11729593148",
+      "uri": "rbxassetid://11729593148",
+      "name": "BeamChain 7",
+      "category": "beams_trails",
+      "subcategory": "chains",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamChain 7"
+          ],
+          "name": "BeamChain 7",
+          "type": "Static",
+          "resolution_raw": "291",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11729593148"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 291,
+        "height": 291,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamChain 7'.",
+      "slug": "beamchain_7",
+      "tags": [
+        "beams_trails",
+        "chains",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15938396604",
+      "uri": "rbxassetid://15938396604",
+      "name": "BeamChain fixed",
+      "category": "beams_trails",
+      "subcategory": "chains",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamChain fixed"
+          ],
+          "name": "BeamChain fixed",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15938396604"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamChain fixed'.",
+      "slug": "beamchain_fixed",
+      "tags": [
+        "beams_trails",
+        "chains",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "6081900013",
+      "uri": "rbxassetid://6081900013",
+      "name": "BeamLink Beam",
+      "category": "beams_trails",
+      "subcategory": "chains",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamLink Beam"
+          ],
+          "name": "BeamLink Beam",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://6081900013"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamLink Beam'.",
+      "slug": "beamlink_beam",
+      "tags": [
+        "beams_trails",
+        "chains",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12721435220",
+      "uri": "rbxassetid://12721435220",
+      "name": "BeamPixel Chain",
+      "category": "beams_trails",
+      "subcategory": "chains",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamPixel Chain"
+          ],
+          "name": "BeamPixel Chain",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12721435220"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamPixel Chain'.",
+      "slug": "beampixel_chain",
+      "tags": [
+        "beams_trails",
+        "chains",
+        "pixel",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "52513855",
+      "uri": "rbxassetid://52513855",
+      "name": "BeamThick Chain Bulk",
+      "category": "beams_trails",
+      "subcategory": "chains",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamThick Chain Bulk"
+          ],
+          "name": "BeamThick Chain Bulk",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://52513855"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamThick Chain Bulk'.",
+      "slug": "beamthick_chain_bulk",
+      "tags": [
+        "beams_trails",
+        "chains",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "9462760467",
+      "uri": "rbxassetid://9462760467",
+      "name": "BeamThin Chain",
+      "category": "beams_trails",
+      "subcategory": "chains",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamThin Chain"
+          ],
+          "name": "BeamThin Chain",
+          "type": "Static",
+          "resolution_raw": "900",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://9462760467"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 900,
+        "height": 900,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamThin Chain'.",
+      "slug": "beamthin_chain",
+      "tags": [
+        "beams_trails",
+        "chains",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16412020661",
+      "uri": "rbxassetid://16412020661",
+      "name": "BeamWavey chain",
+      "category": "beams_trails",
+      "subcategory": "chains",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWavey chain"
+          ],
+          "name": "BeamWavey chain",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16412020661"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWavey chain'.",
+      "slug": "beamwavey_chain",
+      "tags": [
+        "beams_trails",
+        "chains",
+        "static"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

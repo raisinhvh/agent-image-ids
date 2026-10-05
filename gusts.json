@@ -1,0 +1,3932 @@
+{
+  "schema_version": "1.0.0",
+  "category": "air_wind",
+  "subcategory": "gusts",
+  "description": "Gusts.",
+  "asset_count": 63,
+  "assets": [
+    {
+      "id": "7216847342",
+      "uri": "rbxassetid://7216847342",
+      "name": "Images/window_01",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 151,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Images/window_01",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 862770978,
+          "Name": "imShuang01",
+          "CreatorType": "User",
+          "CreatorTargetId": 862770978,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/7216847342/details"
+      },
+      "description": "Static texture cataloged as 'Images/window_01'.",
+      "slug": "images_window_01",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7216847219",
+      "uri": "rbxassetid://7216847219",
+      "name": "Images/window_02",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 152,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Images/window_02",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 862770978,
+          "Name": "imShuang01",
+          "CreatorType": "User",
+          "CreatorTargetId": 862770978,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/7216847219/details"
+      },
+      "description": "Static texture cataloged as 'Images/window_02'.",
+      "slug": "images_window_02",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7216846971",
+      "uri": "rbxassetid://7216846971",
+      "name": "Images/window_04",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 175,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Images/window_04",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 862770978,
+          "Name": "imShuang01",
+          "CreatorType": "User",
+          "CreatorTargetId": 862770978,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/7216846971/details"
+      },
+      "description": "Static texture cataloged as 'Images/window_04'.",
+      "slug": "images_window_04",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364760530",
+      "uri": "rbxassetid://12364760530",
+      "name": "Three Windows",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Three Windows"
+          ],
+          "name": "Three Windows",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364760530"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Three Windows'.",
+      "slug": "three_windows",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "76109550912270",
+      "uri": "rbxassetid://76109550912270",
+      "name": "Wind1",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind1"
+          ],
+          "name": "Wind1",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://76109550912270"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind1'.",
+      "slug": "wind1",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127713467290396",
+      "uri": "rbxassetid://127713467290396",
+      "name": "Wind10",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind10"
+          ],
+          "name": "Wind10",
+          "type": "Static",
+          "resolution_raw": "604",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127713467290396"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 604,
+        "height": 604,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind10'.",
+      "slug": "wind10",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "102849206266491",
+      "uri": "rbxassetid://102849206266491",
+      "name": "Wind11",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind11"
+          ],
+          "name": "Wind11",
+          "type": "Static",
+          "resolution_raw": "604",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://102849206266491"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 604,
+        "height": 604,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind11'.",
+      "slug": "wind11",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "72975090349578",
+      "uri": "rbxassetid://72975090349578",
+      "name": "Wind12",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind12"
+          ],
+          "name": "Wind12",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://72975090349578"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind12'.",
+      "slug": "wind12",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "109169488067783",
+      "uri": "rbxassetid://109169488067783",
+      "name": "Wind13",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind13"
+          ],
+          "name": "Wind13",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://109169488067783"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind13'.",
+      "slug": "wind13",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "75412173597770",
+      "uri": "rbxassetid://75412173597770",
+      "name": "Wind14",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind14"
+          ],
+          "name": "Wind14",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://75412173597770"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind14'.",
+      "slug": "wind14",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "101535472799928",
+      "uri": "rbxassetid://101535472799928",
+      "name": "Wind15",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind15"
+          ],
+          "name": "Wind15",
+          "type": "4x4",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://101535472799928"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Wind15'.",
+      "slug": "wind15",
+      "tags": [
+        "air_wind",
+        "flipbook",
+        "gusts"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "73296613374574",
+      "uri": "rbxassetid://73296613374574",
+      "name": "Wind16",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind16"
+          ],
+          "name": "Wind16",
+          "type": "Static",
+          "resolution_raw": "232",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://73296613374574"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 232,
+        "height": 232,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind16'.",
+      "slug": "wind16",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "101543208462261",
+      "uri": "rbxassetid://101543208462261",
+      "name": "Wind17",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind17"
+          ],
+          "name": "Wind17",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://101543208462261"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind17'.",
+      "slug": "wind17",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "118726955290846",
+      "uri": "rbxassetid://118726955290846",
+      "name": "Wind18",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind18"
+          ],
+          "name": "Wind18",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://118726955290846"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind18'.",
+      "slug": "wind18",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "93312079157280",
+      "uri": "rbxassetid://93312079157280",
+      "name": "Wind19",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind19"
+          ],
+          "name": "Wind19",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://93312079157280"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Wind19'.",
+      "slug": "wind19",
+      "tags": [
+        "air_wind",
+        "flipbook",
+        "gusts"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "82525068951507",
+      "uri": "rbxassetid://82525068951507",
+      "name": "Wind2",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind2"
+          ],
+          "name": "Wind2",
+          "type": "Static",
+          "resolution_raw": "601",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://82525068951507"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 601,
+        "height": 601,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind2'.",
+      "slug": "wind2",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "74899887803900",
+      "uri": "rbxassetid://74899887803900",
+      "name": "Wind20",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind20"
+          ],
+          "name": "Wind20",
+          "type": "Static",
+          "resolution_raw": "500",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://74899887803900"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 500,
+        "height": 500,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind20'.",
+      "slug": "wind20",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "104304232262370",
+      "uri": "rbxassetid://104304232262370",
+      "name": "Wind21",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind21"
+          ],
+          "name": "Wind21",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://104304232262370"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind21'.",
+      "slug": "wind21",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "116579220922305",
+      "uri": "rbxassetid://116579220922305",
+      "name": "Wind22",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind22"
+          ],
+          "name": "Wind22",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://116579220922305"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind22'.",
+      "slug": "wind22",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "103000834263561",
+      "uri": "rbxassetid://103000834263561",
+      "name": "Wind23",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind23"
+          ],
+          "name": "Wind23",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://103000834263561"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind23'.",
+      "slug": "wind23",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "137596045221383",
+      "uri": "rbxassetid://137596045221383",
+      "name": "Wind24",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind24"
+          ],
+          "name": "Wind24",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://137596045221383"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind24'.",
+      "slug": "wind24",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "91123687964662",
+      "uri": "rbxassetid://91123687964662",
+      "name": "Wind25",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind25"
+          ],
+          "name": "Wind25",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://91123687964662"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind25'.",
+      "slug": "wind25",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "107577948223334",
+      "uri": "rbxassetid://107577948223334",
+      "name": "Wind26",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind26"
+          ],
+          "name": "Wind26",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://107577948223334"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind26'.",
+      "slug": "wind26",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "78140204291780",
+      "uri": "rbxassetid://78140204291780",
+      "name": "Wind27",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind27"
+          ],
+          "name": "Wind27",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://78140204291780"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind27'.",
+      "slug": "wind27",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "78592280941627",
+      "uri": "rbxassetid://78592280941627",
+      "name": "Wind28",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind28"
+          ],
+          "name": "Wind28",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://78592280941627"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind28'.",
+      "slug": "wind28",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "109474863702604",
+      "uri": "rbxassetid://109474863702604",
+      "name": "Wind29",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind29"
+          ],
+          "name": "Wind29",
+          "type": "Static",
+          "resolution_raw": "500",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://109474863702604"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 500,
+        "height": 500,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind29'.",
+      "slug": "wind29",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "89929855206165",
+      "uri": "rbxassetid://89929855206165",
+      "name": "Wind3",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind3"
+          ],
+          "name": "Wind3",
+          "type": "Static",
+          "resolution_raw": "604",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://89929855206165"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 604,
+        "height": 604,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind3'.",
+      "slug": "wind3",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "122484551759506",
+      "uri": "rbxassetid://122484551759506",
+      "name": "Wind30",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind30"
+          ],
+          "name": "Wind30",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://122484551759506"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind30'.",
+      "slug": "wind30",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "73041967539025",
+      "uri": "rbxassetid://73041967539025",
+      "name": "Wind31",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind31"
+          ],
+          "name": "Wind31",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://73041967539025"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind31'.",
+      "slug": "wind31",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "110502543965445",
+      "uri": "rbxassetid://110502543965445",
+      "name": "Wind32",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind32"
+          ],
+          "name": "Wind32",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://110502543965445"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind32'.",
+      "slug": "wind32",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "117299459118480",
+      "uri": "rbxassetid://117299459118480",
+      "name": "Wind33",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind33"
+          ],
+          "name": "Wind33",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://117299459118480"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind33'.",
+      "slug": "wind33",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "100113424383392",
+      "uri": "rbxassetid://100113424383392",
+      "name": "Wind34",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind34"
+          ],
+          "name": "Wind34",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://100113424383392"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind34'.",
+      "slug": "wind34",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "91804963265247",
+      "uri": "rbxassetid://91804963265247",
+      "name": "Wind35",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind35"
+          ],
+          "name": "Wind35",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://91804963265247"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Wind35'.",
+      "slug": "wind35",
+      "tags": [
+        "air_wind",
+        "flipbook",
+        "gusts"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "84269775676097",
+      "uri": "rbxassetid://84269775676097",
+      "name": "Wind36",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind36"
+          ],
+          "name": "Wind36",
+          "type": "Static",
+          "resolution_raw": "768",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://84269775676097"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 768,
+        "height": 768,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind36'.",
+      "slug": "wind36",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "122272192974730",
+      "uri": "rbxassetid://122272192974730",
+      "name": "Wind37",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind37"
+          ],
+          "name": "Wind37",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://122272192974730"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind37'.",
+      "slug": "wind37",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "76340603837890",
+      "uri": "rbxassetid://76340603837890",
+      "name": "Wind38",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind38"
+          ],
+          "name": "Wind38",
+          "type": "Static",
+          "resolution_raw": "575",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://76340603837890"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 575,
+        "height": 575,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind38'.",
+      "slug": "wind38",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "120150903567427",
+      "uri": "rbxassetid://120150903567427",
+      "name": "Wind39",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind39"
+          ],
+          "name": "Wind39",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://120150903567427"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind39'.",
+      "slug": "wind39",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "131147883064427",
+      "uri": "rbxassetid://131147883064427",
+      "name": "Wind4",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind4"
+          ],
+          "name": "Wind4",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://131147883064427"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind4'.",
+      "slug": "wind4",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "125658288142903",
+      "uri": "rbxassetid://125658288142903",
+      "name": "Wind40",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind40"
+          ],
+          "name": "Wind40",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://125658288142903"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind40'.",
+      "slug": "wind40",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "99096695944611",
+      "uri": "rbxassetid://99096695944611",
+      "name": "Wind41",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind41"
+          ],
+          "name": "Wind41",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://99096695944611"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind41'.",
+      "slug": "wind41",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "115839225153561",
+      "uri": "rbxassetid://115839225153561",
+      "name": "Wind42",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind42"
+          ],
+          "name": "Wind42",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://115839225153561"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind42'.",
+      "slug": "wind42",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "92824085650493",
+      "uri": "rbxassetid://92824085650493",
+      "name": "Wind43",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind43"
+          ],
+          "name": "Wind43",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://92824085650493"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind43'.",
+      "slug": "wind43",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "79454007816524",
+      "uri": "rbxassetid://79454007816524",
+      "name": "Wind44",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind44"
+          ],
+          "name": "Wind44",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://79454007816524"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind44'.",
+      "slug": "wind44",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "126052664189577",
+      "uri": "rbxassetid://126052664189577",
+      "name": "Wind45",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind45"
+          ],
+          "name": "Wind45",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://126052664189577"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Wind45'.",
+      "slug": "wind45",
+      "tags": [
+        "air_wind",
+        "flipbook",
+        "gusts"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "120440000429965",
+      "uri": "rbxassetid://120440000429965",
+      "name": "Wind46",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind46"
+          ],
+          "name": "Wind46",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://120440000429965"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind46'.",
+      "slug": "wind46",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "86521711047914",
+      "uri": "rbxassetid://86521711047914",
+      "name": "Wind47",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind47"
+          ],
+          "name": "Wind47",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://86521711047914"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind47'.",
+      "slug": "wind47",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "80189053385709",
+      "uri": "rbxassetid://80189053385709",
+      "name": "Wind48",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind48"
+          ],
+          "name": "Wind48",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://80189053385709"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind48'.",
+      "slug": "wind48",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "112558793664091",
+      "uri": "rbxassetid://112558793664091",
+      "name": "Wind49",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind49"
+          ],
+          "name": "Wind49",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://112558793664091"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind49'.",
+      "slug": "wind49",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "102374151967894",
+      "uri": "rbxassetid://102374151967894",
+      "name": "Wind5",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind5"
+          ],
+          "name": "Wind5",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://102374151967894"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind5'.",
+      "slug": "wind5",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "95524323490226",
+      "uri": "rbxassetid://95524323490226",
+      "name": "Wind50",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind50"
+          ],
+          "name": "Wind50",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://95524323490226"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind50'.",
+      "slug": "wind50",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "99030912594735",
+      "uri": "rbxassetid://99030912594735",
+      "name": "Wind51",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind51"
+          ],
+          "name": "Wind51",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://99030912594735"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind51'.",
+      "slug": "wind51",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "121693455521335",
+      "uri": "rbxassetid://121693455521335",
+      "name": "Wind52",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind52"
+          ],
+          "name": "Wind52",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://121693455521335"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind52'.",
+      "slug": "wind52",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "84954758993461",
+      "uri": "rbxassetid://84954758993461",
+      "name": "Wind53",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind53"
+          ],
+          "name": "Wind53",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://84954758993461"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind53'.",
+      "slug": "wind53",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "116196743854601",
+      "uri": "rbxassetid://116196743854601",
+      "name": "Wind54",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind54"
+          ],
+          "name": "Wind54",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://116196743854601"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind54'.",
+      "slug": "wind54",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "77399181389527",
+      "uri": "rbxassetid://77399181389527",
+      "name": "Wind55",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind55"
+          ],
+          "name": "Wind55",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://77399181389527"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind55'.",
+      "slug": "wind55",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "90956254243960",
+      "uri": "rbxassetid://90956254243960",
+      "name": "Wind56",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind56"
+          ],
+          "name": "Wind56",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://90956254243960"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind56'.",
+      "slug": "wind56",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "101478845975822",
+      "uri": "rbxassetid://101478845975822",
+      "name": "Wind57",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind57"
+          ],
+          "name": "Wind57",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://101478845975822"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Wind57'.",
+      "slug": "wind57",
+      "tags": [
+        "air_wind",
+        "flipbook",
+        "gusts"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "89247216145301",
+      "uri": "rbxassetid://89247216145301",
+      "name": "Wind6",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind6"
+          ],
+          "name": "Wind6",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://89247216145301"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind6'.",
+      "slug": "wind6",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "115178122155246",
+      "uri": "rbxassetid://115178122155246",
+      "name": "Wind7",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind7"
+          ],
+          "name": "Wind7",
+          "type": "Static",
+          "resolution_raw": "567",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://115178122155246"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 567,
+        "height": 567,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind7'.",
+      "slug": "wind7",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "128787416203960",
+      "uri": "rbxassetid://128787416203960",
+      "name": "Wind8",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind8"
+          ],
+          "name": "Wind8",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://128787416203960"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind8'.",
+      "slug": "wind8",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "82431051811025",
+      "uri": "rbxassetid://82431051811025",
+      "name": "Wind9",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Wind",
+            "Wind9"
+          ],
+          "name": "Wind9",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://82431051811025"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wind9'.",
+      "slug": "wind9",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "8944413317",
+      "uri": "rbxassetid://8944413317",
+      "name": "Window",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Window"
+          ],
+          "name": "Window",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://8944413317"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Window'.",
+      "slug": "window",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "107626526720775",
+      "uri": "rbxassetid://107626526720775",
+      "name": "WindRune_01_Rune",
+      "category": "air_wind",
+      "subcategory": "gusts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "WindRune_01_Rune"
+          ],
+          "name": "WindRune_01_Rune",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://107626526720775"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'WindRune_01_Rune'.",
+      "slug": "windrune_01_rune",
+      "tags": [
+        "air_wind",
+        "gusts",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

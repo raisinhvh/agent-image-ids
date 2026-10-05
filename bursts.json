@@ -1,0 +1,2331 @@
+{
+  "schema_version": "1.0.0",
+  "category": "impacts_explosions",
+  "subcategory": "bursts",
+  "description": "Bursts.",
+  "asset_count": 36,
+  "assets": [
+    {
+      "id": "17522343420",
+      "uri": "rbxassetid://17522343420",
+      "name": "Black Energy Burst",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Black Energy Burst"
+          ],
+          "name": "Black Energy Burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17522343420"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Black Energy Burst'.",
+      "slug": "black_energy_burst",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15442232437",
+      "uri": "rbxassetid://15442232437",
+      "name": "Burst",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "purpl3_",
+            "Burst"
+          ],
+          "name": "Burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "@purpl3_",
+          "uri_raw": "rbxassetid://15442232437"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Burst'.",
+      "slug": "burst",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17517655824",
+      "uri": "rbxassetid://17517655824",
+      "name": "Colorful Blast",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Colorful Blast"
+          ],
+          "name": "Colorful Blast",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17517655824"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Colorful Blast'.",
+      "slug": "colorful_blast",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14262112027",
+      "uri": "rbxassetid://14262112027",
+      "name": "Coloured Pixel Burst",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Coloured Pixel Burst"
+          ],
+          "name": "Coloured Pixel Burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14262112027"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Coloured Pixel Burst'.",
+      "slug": "coloured_pixel_burst",
+      "tags": [
+        "bursts",
+        "chromatic",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "100900157130245",
+      "uri": "rbxassetid://100900157130245",
+      "name": "Energy Blast",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "Energy Blast"
+          ],
+          "name": "Energy Blast",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://100900157130245"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Energy Blast'.",
+      "slug": "energy_blast",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16771418430",
+      "uri": "rbxassetid://16771418430",
+      "name": "Fading Magic Burst",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Fading Magic Burst"
+          ],
+          "name": "Fading Magic Burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16771418430"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Fading Magic Burst'.",
+      "slug": "fading_magic_burst",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "magic"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "8734114950",
+      "uri": "rbxassetid://8734114950",
+      "name": "MC Blast",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "MC Blast"
+          ],
+          "name": "MC Blast",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://8734114950"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'MC Blast'.",
+      "slug": "mc_blast",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13582043821",
+      "uri": "rbxassetid://13582043821",
+      "name": "Medium realistic Energy burst",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Medium realistic Energy burst"
+          ],
+          "name": "Medium realistic Energy burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13582043821"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Medium realistic Energy burst'.",
+      "slug": "medium_realistic_energy_burst",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16924746286",
+      "uri": "rbxassetid://16924746286",
+      "name": "Moving Outward Burst",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Moving Outward Burst"
+          ],
+          "name": "Moving Outward Burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16924746286"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Moving Outward Burst'.",
+      "slug": "moving_outward_burst",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "108744013363855",
+      "uri": "rbxassetid://108744013363855",
+      "name": "pixel burst 3132",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "pixel burst 3132"
+          ],
+          "name": "pixel burst 3132",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://108744013363855"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'pixel burst 3132'.",
+      "slug": "pixel_burst_3132",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "122240482463362",
+      "uri": "rbxassetid://122240482463362",
+      "name": "pixel burst 34512",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "pixel burst 34512"
+          ],
+          "name": "pixel burst 34512",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://122240482463362"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'pixel burst 34512'.",
+      "slug": "pixel_burst_34512",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "116373783921886",
+      "uri": "rbxassetid://116373783921886",
+      "name": "pixel burst 57",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "pixel burst 57"
+          ],
+          "name": "pixel burst 57",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://116373783921886"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'pixel burst 57'.",
+      "slug": "pixel_burst_57",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "101480173957412",
+      "uri": "rbxassetid://101480173957412",
+      "name": "Pixel Burst 58",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Burst 58"
+          ],
+          "name": "Pixel Burst 58",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://101480173957412"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Burst 58'.",
+      "slug": "pixel_burst_58",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "86507592028211",
+      "uri": "rbxassetid://86507592028211",
+      "name": "Pixel Burst 59",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Burst 59"
+          ],
+          "name": "Pixel Burst 59",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://86507592028211"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Burst 59'.",
+      "slug": "pixel_burst_59",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "113678423988783",
+      "uri": "rbxassetid://113678423988783",
+      "name": "Pixel Burst 60",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Burst 60"
+          ],
+          "name": "Pixel Burst 60",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://113678423988783"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Burst 60'.",
+      "slug": "pixel_burst_60",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "131087091781060",
+      "uri": "rbxassetid://131087091781060",
+      "name": "Pixel Burst 61",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Burst 61"
+          ],
+          "name": "Pixel Burst 61",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://131087091781060"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Burst 61'.",
+      "slug": "pixel_burst_61",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "103042277133996",
+      "uri": "rbxassetid://103042277133996",
+      "name": "Pixel Burst 62",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Burst 62"
+          ],
+          "name": "Pixel Burst 62",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://103042277133996"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Burst 62'.",
+      "slug": "pixel_burst_62",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "89736988481591",
+      "uri": "rbxassetid://89736988481591",
+      "name": "Pixel Burst 65",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Burst 65"
+          ],
+          "name": "Pixel Burst 65",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://89736988481591"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Burst 65'.",
+      "slug": "pixel_burst_65",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "126742436430210",
+      "uri": "rbxassetid://126742436430210",
+      "name": "Pixel Burst 66",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Burst 66"
+          ],
+          "name": "Pixel Burst 66",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://126742436430210"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Burst 66'.",
+      "slug": "pixel_burst_66",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "98852726517186",
+      "uri": "rbxassetid://98852726517186",
+      "name": "Pixel Burst 67",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Burst 67"
+          ],
+          "name": "Pixel Burst 67",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://98852726517186"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Burst 67'.",
+      "slug": "pixel_burst_67",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "90337626066338",
+      "uri": "rbxassetid://90337626066338",
+      "name": "Pixel Burst 68",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Burst 68"
+          ],
+          "name": "Pixel Burst 68",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://90337626066338"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Burst 68'.",
+      "slug": "pixel_burst_68",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "125221631693092",
+      "uri": "rbxassetid://125221631693092",
+      "name": "Pixel Burst 699",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Burst 699"
+          ],
+          "name": "Pixel Burst 699",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://125221631693092"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Burst 699'.",
+      "slug": "pixel_burst_699",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "129448582199809",
+      "uri": "rbxassetid://129448582199809",
+      "name": "Pixel Burst 70",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Burst 70"
+          ],
+          "name": "Pixel Burst 70",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://129448582199809"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Burst 70'.",
+      "slug": "pixel_burst_70",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "114334325191486",
+      "uri": "rbxassetid://114334325191486",
+      "name": "Pixel burst3412",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel burst3412"
+          ],
+          "name": "Pixel burst3412",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://114334325191486"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel burst3412'.",
+      "slug": "pixel_burst3412",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "92534274716269",
+      "uri": "rbxassetid://92534274716269",
+      "name": "Pixel burst6326523",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel burst6326523"
+          ],
+          "name": "Pixel burst6326523",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://92534274716269"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel burst6326523'.",
+      "slug": "pixel_burst6326523",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "134660140543497",
+      "uri": "rbxassetid://134660140543497",
+      "name": "Pixelated burst 64",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixelated burst 64"
+          ],
+          "name": "Pixelated burst 64",
+          "type": "4x4",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://134660140543497"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixelated burst 64'.",
+      "slug": "pixelated_burst_64",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions",
+        "pixel"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "96772682616550",
+      "uri": "rbxassetid://96772682616550",
+      "name": "Slow energy burst",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Slow energy burst"
+          ],
+          "name": "Slow energy burst",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://96772682616550"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Slow energy burst'.",
+      "slug": "slow_energy_burst",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16509892607",
+      "uri": "rbxassetid://16509892607",
+      "name": "Small realistic energy burst",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Small realistic energy burst"
+          ],
+          "name": "Small realistic energy burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16509892607"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Small realistic energy burst'.",
+      "slug": "small_realistic_energy_burst",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16997139142",
+      "uri": "rbxassetid://16997139142",
+      "name": "stylized blast232",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "stylized blast232"
+          ],
+          "name": "stylized blast232",
+          "type": "4x4",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16997139142"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'stylized blast232'.",
+      "slug": "stylized_blast232",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16924846577",
+      "uri": "rbxassetid://16924846577",
+      "name": "Stylized blast3551",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Stylized blast3551"
+          ],
+          "name": "Stylized blast3551",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16924846577"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized blast3551'.",
+      "slug": "stylized_blast3551",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18226771810",
+      "uri": "rbxassetid://18226771810",
+      "name": "Stylized Burst",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Stylized Burst"
+          ],
+          "name": "Stylized Burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18226771810"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized Burst'.",
+      "slug": "stylized_burst",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "106087320867193",
+      "uri": "rbxassetid://106087320867193",
+      "name": "Stylized burst 5 Shape",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Stylized burst 5 Shape"
+          ],
+          "name": "Stylized burst 5 Shape",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://106087320867193"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized burst 5 Shape'.",
+      "slug": "stylized_burst_5_shape",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11853980698",
+      "uri": "rbxassetid://11853980698",
+      "name": "Stylized Energy Burst55",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Stylized Energy Burst55"
+          ],
+          "name": "Stylized Energy Burst55",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11853980698"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized Energy Burst55'.",
+      "slug": "stylized_energy_burst55",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "71674524738228",
+      "uri": "rbxassetid://71674524738228",
+      "name": "Stylized fading burst55",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Stylized fading burst55"
+          ],
+          "name": "Stylized fading burst55",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://71674524738228"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized fading burst55'.",
+      "slug": "stylized_fading_burst55",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17226921546",
+      "uri": "rbxassetid://17226921546",
+      "name": "Stylized Upwards Burst",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Stylized Upwards Burst"
+          ],
+          "name": "Stylized Upwards Burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "_not_mystery_man_",
+          "uri_raw": "rbxassetid://17226921546"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized Upwards Burst'.",
+      "slug": "stylized_upwards_burst",
+      "tags": [
+        "bursts",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "94445964082137",
+      "uri": "rbxassetid://94445964082137",
+      "name": "wizard_arcaneTorent_blast_diff",
+      "category": "impacts_explosions",
+      "subcategory": "bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "wizard_arcaneTorent_blast_diff"
+          ],
+          "name": "wizard_arcaneTorent_blast_diff",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://94445964082137"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'wizard_arcaneTorent_blast_diff'.",
+      "slug": "wizard_arcanetorent_blast_diff",
+      "tags": [
+        "bursts",
+        "impacts_explosions",
+        "static"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

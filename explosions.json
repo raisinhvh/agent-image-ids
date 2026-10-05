@@ -1,0 +1,1343 @@
+{
+  "schema_version": "1.0.0",
+  "category": "impacts_explosions",
+  "subcategory": "explosions",
+  "description": "Explosions.",
+  "asset_count": 21,
+  "assets": [
+    {
+      "id": "84225088133015",
+      "uri": "rbxassetid://84225088133015",
+      "name": "arcane_explosionRing",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "arcane_explosionRing"
+          ],
+          "name": "arcane_explosionRing",
+          "type": "static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://84225088133015"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'arcane_explosionRing'.",
+      "slug": "arcane_explosionring",
+      "tags": [
+        "explosions",
+        "impacts_explosions",
+        "radial",
+        "static"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10767982872",
+      "uri": "rbxassetid://10767982872",
+      "name": "Cartoon Boom",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Cartoon Boom"
+          ],
+          "name": "Cartoon Boom",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10767982872"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Cartoon Boom'.",
+      "slug": "cartoon_boom",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10767971441",
+      "uri": "rbxassetid://10767971441",
+      "name": "Cartoon Explosion",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Cartoon Explosion"
+          ],
+          "name": "Cartoon Explosion",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10767971441"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Cartoon Explosion'.",
+      "slug": "cartoon_explosion",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "75804565349970",
+      "uri": "rbxassetid://75804565349970",
+      "name": "circleboom2",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "rocca108",
+            "circleboom2"
+          ],
+          "name": "circleboom2",
+          "type": "4x4",
+          "resolution_raw": "4096",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://75804565349970"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 4096,
+        "height": 4096,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'circleboom2'.",
+      "slug": "circleboom2",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions",
+        "radial"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "122813387522960",
+      "uri": "rbxassetid://122813387522960",
+      "name": "circleboom3",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "rocca108",
+            "circleboom3"
+          ],
+          "name": "circleboom3",
+          "type": "4x4",
+          "resolution_raw": "4096",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://122813387522960"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 4096,
+        "height": 4096,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'circleboom3'.",
+      "slug": "circleboom3",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions",
+        "radial"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "82448068435652",
+      "uri": "rbxassetid://82448068435652",
+      "name": "CircleboomV2",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "rocca108",
+            "CircleboomV2"
+          ],
+          "name": "CircleboomV2",
+          "type": "4x4",
+          "resolution_raw": "4096",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://82448068435652"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 4096,
+        "height": 4096,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'CircleboomV2'.",
+      "slug": "circleboomv2",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions",
+        "radial"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "140552399995129",
+      "uri": "rbxassetid://140552399995129",
+      "name": "circleboomV3",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "rocca108",
+            "circleboomV3"
+          ],
+          "name": "circleboomV3",
+          "type": "4x4",
+          "resolution_raw": "4096",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://140552399995129"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 4096,
+        "height": 4096,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'circleboomV3'.",
+      "slug": "circleboomv3",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions",
+        "radial"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "132836821099963",
+      "uri": "rbxassetid://132836821099963",
+      "name": "Curse_Explosion",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Curse_Explosion"
+          ],
+          "name": "Curse_Explosion",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://132836821099963"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Curse_Explosion'.",
+      "slug": "curse_explosion",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13800461961",
+      "uri": "rbxassetid://13800461961",
+      "name": "Cut off explosion",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Cut off explosion"
+          ],
+          "name": "Cut off explosion",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13800461961"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Cut off explosion'.",
+      "slug": "cut_off_explosion",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "5833235272",
+      "uri": "rbxassetid://5833235272",
+      "name": "Explosion shape",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_starter"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Stylized explosion icon.",
+      "slug": "explosion_shape",
+      "tags": [
+        "explosions",
+        "impacts_explosions",
+        "static"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "11696029985",
+      "uri": "rbxassetid://11696029985",
+      "name": "ExplosionFX",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "ExplosionFX"
+          ],
+          "name": "ExplosionFX",
+          "type": "4x4",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11696029985"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'ExplosionFX'.",
+      "slug": "explosionfx",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11338731954",
+      "uri": "rbxassetid://11338731954",
+      "name": "Game styled explosion",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Game styled explosion"
+          ],
+          "name": "Game styled explosion",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11338731954"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Game styled explosion'.",
+      "slug": "game_styled_explosion",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15708701217",
+      "uri": "rbxassetid://15708701217",
+      "name": "Noisy Star Shaped Explosion",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Noisy Star Shaped Explosion"
+          ],
+          "name": "Noisy Star Shaped Explosion",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15708701217"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Noisy Star Shaped Explosion'.",
+      "slug": "noisy_star_shaped_explosion",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions",
+        "star"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10762381639",
+      "uri": "rbxassetid://10762381639",
+      "name": "Nuclear Blast 2",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Nuclear Blast 2"
+          ],
+          "name": "Nuclear Blast 2",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10762381639"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Nuclear Blast 2'.",
+      "slug": "nuclear_blast_2",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "81332183400819",
+      "uri": "rbxassetid://81332183400819",
+      "name": "Off centered explosion 2",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Off centered explosion 2"
+          ],
+          "name": "Off centered explosion 2",
+          "type": "4x4",
+          "resolution_raw": "593",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://81332183400819"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 593,
+        "height": 593,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Off centered explosion 2'.",
+      "slug": "off_centered_explosion_2",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10762366892",
+      "uri": "rbxassetid://10762366892",
+      "name": "Purple Explosion",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Purple Explosion"
+          ],
+          "name": "Purple Explosion",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10762366892"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Purple Explosion'.",
+      "slug": "purple_explosion",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15194500627",
+      "uri": "rbxassetid://15194500627",
+      "name": "Realistic Explosion gif",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Realistic Explosion gif"
+          ],
+          "name": "Realistic Explosion gif",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15194500627"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Realistic Explosion gif'.",
+      "slug": "realistic_explosion_gif",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14793182993",
+      "uri": "rbxassetid://14793182993",
+      "name": "Sparking Explosion",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Sparking Explosion"
+          ],
+          "name": "Sparking Explosion",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14793182993"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Sparking Explosion'.",
+      "slug": "sparking_explosion",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17551560355",
+      "uri": "rbxassetid://17551560355",
+      "name": "Stylized Explosion",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "purpl3_",
+            "Stylized Explosion"
+          ],
+          "name": "Stylized Explosion",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "@purpl3_",
+          "uri_raw": "rbxassetid://17551560355"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized Explosion'.",
+      "slug": "stylized_explosion",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17551525124",
+      "uri": "rbxassetid://17551525124",
+      "name": "Stylized Explosion 2",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "purpl3_",
+            "Stylized Explosion 2"
+          ],
+          "name": "Stylized Explosion 2",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "@purpl3_",
+          "uri_raw": "rbxassetid://17551525124"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized Explosion 2'.",
+      "slug": "stylized_explosion_2",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17070198927",
+      "uri": "rbxassetid://17070198927",
+      "name": "Stylized Explosion34312",
+      "category": "impacts_explosions",
+      "subcategory": "explosions",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Stylized Explosion34312"
+          ],
+          "name": "Stylized Explosion34312",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "purpl3_",
+          "uri_raw": "rbxassetid://17070198927"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized Explosion34312'.",
+      "slug": "stylized_explosion34312",
+      "tags": [
+        "explosions",
+        "flipbook",
+        "impacts_explosions"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

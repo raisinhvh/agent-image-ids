@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0.0",
+  "category": "smoke_clouds",
+  "subcategory": "plumes",
+  "description": "Plumes.",
+  "asset_count": 6,
+  "assets": [
+    {
+      "id": "15415212938",
+      "uri": "rbxassetid://15415212938",
+      "name": "Billowing",
+      "category": "smoke_clouds",
+      "subcategory": "plumes",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Billowing"
+          ],
+          "name": "Billowing",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15415212938"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Billowing'.",
+      "slug": "billowing",
+      "tags": [
+        "flipbook",
+        "plumes",
+        "smoke_clouds"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "81031079269294",
+      "uri": "rbxassetid://81031079269294",
+      "name": "Plume4",
+      "category": "smoke_clouds",
+      "subcategory": "plumes",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Plume4"
+          ],
+          "name": "Plume4",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://81031079269294"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Plume4'.",
+      "slug": "plume4",
+      "tags": [
+        "plumes",
+        "smoke_clouds",
+        "static"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "79486667668682",
+      "uri": "rbxassetid://79486667668682",
+      "name": "Plume5",
+      "category": "smoke_clouds",
+      "subcategory": "plumes",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Plume5"
+          ],
+          "name": "Plume5",
+          "type": "2x2",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://79486667668682"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Plume5'.",
+      "slug": "plume5",
+      "tags": [
+        "flipbook",
+        "plumes",
+        "smoke_clouds"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "111815688704083",
+      "uri": "rbxassetid://111815688704083",
+      "name": "Plume6",
+      "category": "smoke_clouds",
+      "subcategory": "plumes",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Plume6"
+          ],
+          "name": "Plume6",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://111815688704083"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Plume6'.",
+      "slug": "plume6",
+      "tags": [
+        "plumes",
+        "smoke_clouds",
+        "static"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11355872735",
+      "uri": "rbxassetid://11355872735",
+      "name": "Thick Dark Smoke",
+      "category": "smoke_clouds",
+      "subcategory": "plumes",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Thick Dark Smoke"
+          ],
+          "name": "Thick Dark Smoke",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11355872735"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Thick Dark Smoke'.",
+      "slug": "thick_dark_smoke",
+      "tags": [
+        "flipbook",
+        "plumes",
+        "smoke",
+        "smoke_clouds"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16830673704",
+      "uri": "rbxassetid://16830673704",
+      "name": "Thick smoke",
+      "category": "smoke_clouds",
+      "subcategory": "plumes",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_volcanoes"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "official_documentation",
+        "image_type_confirmed": false
+      },
+      "notes": [
+        "Volcano tutorial caption cites mist ID 16830667309, but its explicit smoke Texture instruction uses this ID."
+      ],
+      "description": "Thick smoke texture for rising plumes.",
+      "slug": "thick_smoke",
+      "tags": [
+        "plumes",
+        "smoke",
+        "smoke_clouds",
+        "static"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    }
+  ]
+}

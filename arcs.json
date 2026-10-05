@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0.0",
+  "category": "electricity",
+  "subcategory": "arcs",
+  "description": "Arcs.",
+  "asset_count": 3,
+  "assets": [
+    {
+      "id": "12939163871",
+      "uri": "rbxassetid://12939163871",
+      "name": "Arc Lightning",
+      "category": "electricity",
+      "subcategory": "arcs",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Lightning",
+            "Arc Lightning"
+          ],
+          "name": "Arc Lightning",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12939163871"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Arc Lightning'.",
+      "slug": "arc_lightning",
+      "tags": [
+        "arcs",
+        "electric",
+        "electricity",
+        "flipbook",
+        "glow"
+      ],
+      "suggested_uses": [
+        "electric attacks",
+        "lightning bursts",
+        "electrical sparks"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13778464872",
+      "uri": "rbxassetid://13778464872",
+      "name": "Blurry Arc Lightning",
+      "category": "electricity",
+      "subcategory": "arcs",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Lightning",
+            "Blurry Arc Lightning"
+          ],
+          "name": "Blurry Arc Lightning",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13778464872"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Blurry Arc Lightning'.",
+      "slug": "blurry_arc_lightning",
+      "tags": [
+        "arcs",
+        "electric",
+        "electricity",
+        "flipbook",
+        "glow",
+        "soft"
+      ],
+      "suggested_uses": [
+        "electric attacks",
+        "lightning bursts",
+        "electrical sparks"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10546855182",
+      "uri": "rbxassetid://10546855182",
+      "name": "Random Lightning Arcs",
+      "category": "electricity",
+      "subcategory": "arcs",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Lightning",
+            "Random Lightning Arcs"
+          ],
+          "name": "Random Lightning Arcs",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10546855182"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Random Lightning Arcs'.",
+      "slug": "random_lightning_arcs",
+      "tags": [
+        "arcs",
+        "electric",
+        "electricity",
+        "flipbook",
+        "glow"
+      ],
+      "suggested_uses": [
+        "electric attacks",
+        "lightning bursts",
+        "electrical sparks"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

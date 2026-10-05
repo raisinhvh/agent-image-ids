@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0.0",
+  "category": "specks_debris",
+  "subcategory": "dust_motes",
+  "description": "Dust motes.",
+  "asset_count": 6,
+  "assets": [
+    {
+      "id": "16503588946",
+      "uri": "rbxassetid://16503588946",
+      "name": "Dust Expansion",
+      "category": "specks_debris",
+      "subcategory": "dust_motes",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Dust Expansion"
+          ],
+          "name": "Dust Expansion",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16503588946"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Dust Expansion'.",
+      "slug": "dust_expansion",
+      "tags": [
+        "dust_motes",
+        "flipbook",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14302399641",
+      "uri": "rbxassetid://14302399641",
+      "name": "Dust mote",
+      "category": "specks_debris",
+      "subcategory": "dust_motes",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_basic_vfx"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "official_documentation",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Small dust-mote texture.",
+      "slug": "dust_mote",
+      "tags": [
+        "dust_motes",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "105131408419595",
+      "uri": "rbxassetid://105131408419595",
+      "name": "Dust Particles",
+      "category": "specks_debris",
+      "subcategory": "dust_motes",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Dust Particles"
+          ],
+          "name": "Dust Particles",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://105131408419595"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Dust Particles'.",
+      "slug": "dust_particles",
+      "tags": [
+        "dust_motes",
+        "flipbook",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "138061581256149",
+      "uri": "rbxassetid://138061581256149",
+      "name": "Dust Particles 2",
+      "category": "specks_debris",
+      "subcategory": "dust_motes",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Dust Particles 2"
+          ],
+          "name": "Dust Particles 2",
+          "type": "4x4",
+          "resolution_raw": "811",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://138061581256149"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 811,
+        "height": 811,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Dust Particles 2'.",
+      "slug": "dust_particles_2",
+      "tags": [
+        "dust_motes",
+        "flipbook",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14197077194",
+      "uri": "rbxassetid://14197077194",
+      "name": "Ground Dust",
+      "category": "specks_debris",
+      "subcategory": "dust_motes",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Ground Dust"
+          ],
+          "name": "Ground Dust",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14197077194"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Ground Dust'.",
+      "slug": "ground_dust",
+      "tags": [
+        "dust_motes",
+        "flipbook",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16511173887",
+      "uri": "rbxassetid://16511173887",
+      "name": "Inward Dust",
+      "category": "specks_debris",
+      "subcategory": "dust_motes",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Inward Dust"
+          ],
+          "name": "Inward Dust",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16511173887"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Inward Dust'.",
+      "slug": "inward_dust",
+      "tags": [
+        "dust_motes",
+        "flipbook",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0.0",
+  "category": "energy",
+  "subcategory": "magic",
+  "description": "Magic.",
+  "asset_count": 9,
+  "assets": [
+    {
+      "id": "12656890801",
+      "uri": "rbxassetid://12656890801",
+      "name": "Dark Energy 8x8",
+      "category": "energy",
+      "subcategory": "magic",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Dark Energy 8x8"
+          ],
+          "name": "Dark Energy 8x8",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12656890801"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Dark Energy 8x8'.",
+      "slug": "dark_energy_8x8",
+      "tags": [
+        "energy",
+        "flipbook",
+        "magic"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "243432382",
+      "uri": "rbxassetid://243432382",
+      "name": "Dark void",
+      "category": "energy",
+      "subcategory": "magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 12,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Dark void",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 1071847,
+          "Name": "dragonome",
+          "CreatorType": "User",
+          "CreatorTargetId": 1071847,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/243432382/details"
+      },
+      "description": "Static texture cataloged as 'Dark void'.",
+      "slug": "dark_void",
+      "tags": [
+        "energy",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7216853898",
+      "uri": "rbxassetid://7216853898",
+      "name": "Images/magic_03",
+      "category": "energy",
+      "subcategory": "magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 124,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Images/magic_03",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 862770978,
+          "Name": "imShuang01",
+          "CreatorType": "User",
+          "CreatorTargetId": 862770978,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/7216853898/details"
+      },
+      "description": "Static texture cataloged as 'Images/magic_03'.",
+      "slug": "images_magic_03",
+      "tags": [
+        "energy",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7216853770",
+      "uri": "rbxassetid://7216853770",
+      "name": "Images/magic_04",
+      "category": "energy",
+      "subcategory": "magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 125,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Images/magic_04",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 862770978,
+          "Name": "imShuang01",
+          "CreatorType": "User",
+          "CreatorTargetId": 862770978,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/7216853770/details"
+      },
+      "description": "Static texture cataloged as 'Images/magic_04'.",
+      "slug": "images_magic_04",
+      "tags": [
+        "energy",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "70488771458431",
+      "uri": "rbxassetid://70488771458431",
+      "name": "magic_particles_11 - Copy",
+      "category": "energy",
+      "subcategory": "magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "magic_particles_11 - Copy"
+          ],
+          "name": "magic_particles_11 - Copy",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://70488771458431"
+        },
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "magic_particles_14 - Copy"
+          ],
+          "name": "magic_particles_14 - Copy",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://70488771458431"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'magic_particles_11 - Copy'.",
+      "slug": "magic_particles_11_copy",
+      "tags": [
+        "energy",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "134640332825983",
+      "uri": "rbxassetid://134640332825983",
+      "name": "magic_particles_18 - Copy",
+      "category": "energy",
+      "subcategory": "magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "magic_particles_18 - Copy"
+          ],
+          "name": "magic_particles_18 - Copy",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://134640332825983"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'magic_particles_18 - Copy'.",
+      "slug": "magic_particles_18_copy",
+      "tags": [
+        "energy",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "89872498838529",
+      "uri": "rbxassetid://89872498838529",
+      "name": "magic_particles_19 - Copy",
+      "category": "energy",
+      "subcategory": "magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "magic_particles_19 - Copy"
+          ],
+          "name": "magic_particles_19 - Copy",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://89872498838529"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'magic_particles_19 - Copy'.",
+      "slug": "magic_particles_19_copy",
+      "tags": [
+        "energy",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "91668822996231",
+      "uri": "rbxassetid://91668822996231",
+      "name": "magic_particles_3",
+      "category": "energy",
+      "subcategory": "magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "magic_particles_3"
+          ],
+          "name": "magic_particles_3",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://91668822996231"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'magic_particles_3'.",
+      "slug": "magic_particles_3",
+      "tags": [
+        "energy",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "102431005942948",
+      "uri": "rbxassetid://102431005942948",
+      "name": "magic_particles_9 - Copy",
+      "category": "energy",
+      "subcategory": "magic",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "magic_particles_9 - Copy"
+          ],
+          "name": "magic_particles_9 - Copy",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://102431005942948"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'magic_particles_9 - Copy'.",
+      "slug": "magic_particles_9_copy",
+      "tags": [
+        "energy",
+        "magic",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

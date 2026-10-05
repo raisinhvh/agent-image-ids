@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0.0",
+  "category": "water",
+  "subcategory": "waves",
+  "description": "Waves.",
+  "asset_count": 1,
+  "assets": [
+    {
+      "id": "113638059819125",
+      "uri": "rbxassetid://113638059819125",
+      "name": "Chromatic Water shockwave",
+      "category": "water",
+      "subcategory": "waves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Chromatic Water shockwave"
+          ],
+          "name": "Chromatic Water shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://113638059819125"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Chromatic Water shockwave'.",
+      "slug": "chromatic_water_shockwave",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "radial",
+        "water",
+        "waves"
+      ],
+      "suggested_uses": [
+        "liquid splashes",
+        "water spray",
+        "surface ripples"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

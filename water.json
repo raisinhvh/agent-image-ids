@@ -1,0 +1,2338 @@
+{
+  "schema_version": "1.0.0",
+  "category": "beams_trails",
+  "subcategory": "water",
+  "description": "Water.",
+  "asset_count": 38,
+  "assets": [
+    {
+      "id": "8187307611",
+      "uri": "rbxassetid://8187307611",
+      "name": "BeamBackwards water drag",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamBackwards water drag"
+          ],
+          "name": "BeamBackwards water drag",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://8187307611"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamBackwards water drag'.",
+      "slug": "beambackwards_water_drag",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14995083532",
+      "uri": "rbxassetid://14995083532",
+      "name": "BeamBeginning wave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamBeginning wave"
+          ],
+          "name": "BeamBeginning wave",
+          "type": "Static",
+          "resolution_raw": "418",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14995083532"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 418,
+        "height": 418,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamBeginning wave'.",
+      "slug": "beambeginning_wave",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14004879118",
+      "uri": "rbxassetid://14004879118",
+      "name": "BeamBlank slight wave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamBlank slight wave"
+          ],
+          "name": "BeamBlank slight wave",
+          "type": "Static",
+          "resolution_raw": "540",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14004879118"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 540,
+        "height": 540,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamBlank slight wave'.",
+      "slug": "beamblank_slight_wave",
+      "tags": [
+        "beams_trails",
+        "glow",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "4975465603",
+      "uri": "rbxassetid://4975465603",
+      "name": "BeamBlank wave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamBlank wave"
+          ],
+          "name": "BeamBlank wave",
+          "type": "Static",
+          "resolution_raw": "720",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://4975465603"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 720,
+        "height": 720,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamBlank wave'.",
+      "slug": "beamblank_wave",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15937992836",
+      "uri": "rbxassetid://15937992836",
+      "name": "BeamDrawn waves",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamDrawn waves"
+          ],
+          "name": "BeamDrawn waves",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15937992836"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamDrawn waves'.",
+      "slug": "beamdrawn_waves",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18925205019",
+      "uri": "rbxassetid://18925205019",
+      "name": "BeamFilled wavey",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamFilled wavey"
+          ],
+          "name": "BeamFilled wavey",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18925205019"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamFilled wavey'.",
+      "slug": "beamfilled_wavey",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15938018250",
+      "uri": "rbxassetid://15938018250",
+      "name": "BeamFire wave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamFire wave"
+          ],
+          "name": "BeamFire wave",
+          "type": "Static",
+          "resolution_raw": "64",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15938018250"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 64,
+        "height": 64,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamFire wave'.",
+      "slug": "beamfire_wave",
+      "tags": [
+        "beams_trails",
+        "fire",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "1379899761",
+      "uri": "rbxassetid://1379899761",
+      "name": "BeamFixed wave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamFixed wave"
+          ],
+          "name": "BeamFixed wave",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://1379899761"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamFixed wave'.",
+      "slug": "beamfixed_wave",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15414469049",
+      "uri": "rbxassetid://15414469049",
+      "name": "BeamFull water",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamFull water"
+          ],
+          "name": "BeamFull water",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15414469049"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamFull water'.",
+      "slug": "beamfull_water",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14364462554",
+      "uri": "rbxassetid://14364462554",
+      "name": "BeamLE Wavey",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamLE Wavey"
+          ],
+          "name": "BeamLE Wavey",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14364462554"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamLE Wavey'.",
+      "slug": "beamle_wavey",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "8120278361",
+      "uri": "rbxassetid://8120278361",
+      "name": "BeamLine wave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamLine wave"
+          ],
+          "name": "BeamLine wave",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://8120278361"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamLine wave'.",
+      "slug": "beamline_wave",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14919848175",
+      "uri": "rbxassetid://14919848175",
+      "name": "BeamLow Res Water",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamLow Res Water"
+          ],
+          "name": "BeamLow Res Water",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14919848175"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamLow Res Water'.",
+      "slug": "beamlow_res_water",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "9912938274",
+      "uri": "rbxassetid://9912938274",
+      "name": "BeamLow Res Wave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamLow Res Wave"
+          ],
+          "name": "BeamLow Res Wave",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://9912938274"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamLow Res Wave'.",
+      "slug": "beamlow_res_wave",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7031264716",
+      "uri": "rbxassetid://7031264716",
+      "name": "BeamMelting Wave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamMelting Wave"
+          ],
+          "name": "BeamMelting Wave",
+          "type": "Static",
+          "resolution_raw": "1000",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://7031264716"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamMelting Wave'.",
+      "slug": "beammelting_wave",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "5272064342",
+      "uri": "rbxassetid://5272064342",
+      "name": "BeamMirrored Wave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamMirrored Wave"
+          ],
+          "name": "BeamMirrored Wave",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://5272064342"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamMirrored Wave'.",
+      "slug": "beammirrored_wave",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12781850191",
+      "uri": "rbxassetid://12781850191",
+      "name": "BeamRipple",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamRipple"
+          ],
+          "name": "BeamRipple",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12781850191"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamRipple'.",
+      "slug": "beamripple",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "8187305308",
+      "uri": "rbxassetid://8187305308",
+      "name": "BeamSideways water",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamSideways water"
+          ],
+          "name": "BeamSideways water",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://8187305308"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamSideways water'.",
+      "slug": "beamsideways_water",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12781873863",
+      "uri": "rbxassetid://12781873863",
+      "name": "BeamSideways Water",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamSideways Water"
+          ],
+          "name": "BeamSideways Water",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12781873863"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamSideways Water'.",
+      "slug": "beamsideways_water",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "128120435243451",
+      "uri": "rbxassetid://128120435243451",
+      "name": "BeamSpace wave 2",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamSpace wave 2"
+          ],
+          "name": "BeamSpace wave 2",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://128120435243451"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamSpace wave 2'.",
+      "slug": "beamspace_wave_2",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13280058094",
+      "uri": "rbxassetid://13280058094",
+      "name": "BeamSpiked wave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamSpiked wave"
+          ],
+          "name": "BeamSpiked wave",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13280058094"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamSpiked wave'.",
+      "slug": "beamspiked_wave",
+      "tags": [
+        "beams_trails",
+        "sharp",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14543379496",
+      "uri": "rbxassetid://14543379496",
+      "name": "BeamStretched Wave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamStretched Wave"
+          ],
+          "name": "BeamStretched Wave",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14543379496"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamStretched Wave'.",
+      "slug": "beamstretched_wave",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10302438478",
+      "uri": "rbxassetid://10302438478",
+      "name": "BeamStylized Water",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamStylized Water"
+          ],
+          "name": "BeamStylized Water",
+          "type": "Static",
+          "resolution_raw": "500",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10302438478"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 500,
+        "height": 500,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamStylized Water'.",
+      "slug": "beamstylized_water",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13819728176",
+      "uri": "rbxassetid://13819728176",
+      "name": "BeamStylized Water 2",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamStylized Water 2"
+          ],
+          "name": "BeamStylized Water 2",
+          "type": "Static",
+          "resolution_raw": "594",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13819728176"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 594,
+        "height": 594,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamStylized Water 2'.",
+      "slug": "beamstylized_water_2",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16656589764",
+      "uri": "rbxassetid://16656589764",
+      "name": "BeamThick wave 3",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamThick wave 3"
+          ],
+          "name": "BeamThick wave 3",
+          "type": "Static",
+          "resolution_raw": "483",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16656589764"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 483,
+        "height": 483,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamThick wave 3'.",
+      "slug": "beamthick_wave_3",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12781852245",
+      "uri": "rbxassetid://12781852245",
+      "name": "BeamThicker less ripple",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamThicker less ripple"
+          ],
+          "name": "BeamThicker less ripple",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12781852245"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamThicker less ripple'.",
+      "slug": "beamthicker_less_ripple",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15270701529",
+      "uri": "rbxassetid://15270701529",
+      "name": "BeamThicker wave LE",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamThicker wave LE"
+          ],
+          "name": "BeamThicker wave LE",
+          "type": "Static",
+          "resolution_raw": "627",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15270701529"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 627,
+        "height": 627,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamThicker wave LE'.",
+      "slug": "beamthicker_wave_le",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "1246346065",
+      "uri": "rbxassetid://1246346065",
+      "name": "BeamWater greyscaled",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWater greyscaled"
+          ],
+          "name": "BeamWater greyscaled",
+          "type": "Static",
+          "resolution_raw": "480",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://1246346065"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 480,
+        "height": 480,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWater greyscaled'.",
+      "slug": "beamwater_greyscaled",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18824145778",
+      "uri": "rbxassetid://18824145778",
+      "name": "BeamWater ripples",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWater ripples"
+          ],
+          "name": "BeamWater ripples",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18824145778"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWater ripples'.",
+      "slug": "beamwater_ripples",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14050817630",
+      "uri": "rbxassetid://14050817630",
+      "name": "BeamWater shaded",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWater shaded"
+          ],
+          "name": "BeamWater shaded",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14050817630"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWater shaded'.",
+      "slug": "beamwater_shaded",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13801691431",
+      "uri": "rbxassetid://13801691431",
+      "name": "BeamWave",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWave"
+          ],
+          "name": "BeamWave",
+          "type": "Static",
+          "resolution_raw": "232",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13801691431"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 232,
+        "height": 232,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWave'.",
+      "slug": "beamwave",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11938379208",
+      "uri": "rbxassetid://11938379208",
+      "name": "BeamWave 2",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWave 2"
+          ],
+          "name": "BeamWave 2",
+          "type": "Static",
+          "resolution_raw": "1000",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11938379208"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWave 2'.",
+      "slug": "beamwave_2",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "8415143764",
+      "uri": "rbxassetid://8415143764",
+      "name": "BeamWave 3",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWave 3"
+          ],
+          "name": "BeamWave 3",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://8415143764"
+        },
+        {
+          "source_id": "texture_share",
+          "line": 263,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWave 3'.",
+      "slug": "beamwave_3",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12781825592",
+      "uri": "rbxassetid://12781825592",
+      "name": "BeamWave 4",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWave 4"
+          ],
+          "name": "BeamWave 4",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12781825592"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWave 4'.",
+      "slug": "beamwave_4",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12781880888",
+      "uri": "rbxassetid://12781880888",
+      "name": "BeamWave 5",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWave 5"
+          ],
+          "name": "BeamWave 5",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12781880888"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWave 5'.",
+      "slug": "beamwave_5",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12781879644",
+      "uri": "rbxassetid://12781879644",
+      "name": "BeamWave 6",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWave 6"
+          ],
+          "name": "BeamWave 6",
+          "type": "Static",
+          "resolution_raw": "64",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12781879644"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 64,
+        "height": 64,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWave 6'.",
+      "slug": "beamwave_6",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12781775362",
+      "uri": "rbxassetid://12781775362",
+      "name": "BeamWave 7",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWave 7"
+          ],
+          "name": "BeamWave 7",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12781775362"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWave 7'.",
+      "slug": "beamwave_7",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12251461261",
+      "uri": "rbxassetid://12251461261",
+      "name": "BeamWavey fog",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWavey fog"
+          ],
+          "name": "BeamWavey fog",
+          "type": "Static",
+          "resolution_raw": "325",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12251461261"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 325,
+        "height": 325,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWavey fog'.",
+      "slug": "beamwavey_fog",
+      "tags": [
+        "beams_trails",
+        "smoke",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "1177196540",
+      "uri": "rbxassetid://1177196540",
+      "name": "BeamWavey outlines",
+      "category": "beams_trails",
+      "subcategory": "water",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Beams",
+            "BeamWavey outlines"
+          ],
+          "name": "BeamWavey outlines",
+          "type": "Static",
+          "resolution_raw": "400",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://1177196540"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 400,
+        "height": 400,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'BeamWavey outlines'.",
+      "slug": "beamwavey_outlines",
+      "tags": [
+        "beams_trails",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "Beam textures",
+        "Trail textures",
+        "elongated effect strips"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "beam_or_trail_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

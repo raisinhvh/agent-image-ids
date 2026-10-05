@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "category": "smoke_clouds",
+  "subcategory": "puffs",
+  "description": "Puffs.",
+  "asset_count": 2,
+  "assets": [
+    {
+      "id": "16924727059",
+      "uri": "rbxassetid://16924727059",
+      "name": "Onesided Smoke Puff",
+      "category": "smoke_clouds",
+      "subcategory": "puffs",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Onesided Smoke Puff"
+          ],
+          "name": "Onesided Smoke Puff",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16924727059"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Onesided Smoke Puff'.",
+      "slug": "onesided_smoke_puff",
+      "tags": [
+        "flipbook",
+        "puffs",
+        "smoke",
+        "smoke_clouds"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11866495294",
+      "uri": "rbxassetid://11866495294",
+      "name": "Pixelated Smoke Puff",
+      "category": "smoke_clouds",
+      "subcategory": "puffs",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Pixelated Smoke Puff"
+          ],
+          "name": "Pixelated Smoke Puff",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11866495294"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixelated Smoke Puff'.",
+      "slug": "pixelated_smoke_puff",
+      "tags": [
+        "flipbook",
+        "pixel",
+        "puffs",
+        "smoke",
+        "smoke_clouds"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

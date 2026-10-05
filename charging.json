@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0.0",
+  "category": "energy",
+  "subcategory": "charging",
+  "description": "Charging.",
+  "asset_count": 4,
+  "assets": [
+    {
+      "id": "79464779117903",
+      "uri": "rbxassetid://79464779117903",
+      "name": "barbarian_furiousCharge_airSuck_addsStun",
+      "category": "energy",
+      "subcategory": "charging",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "barbarian_furiousCharge_airSuck_addsStun"
+          ],
+          "name": "barbarian_furiousCharge_airSuck_addsStun",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://79464779117903"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'barbarian_furiousCharge_airSuck_addsStun'.",
+      "slug": "barbarian_furiouscharge_airsuck_addsstun",
+      "tags": [
+        "charging",
+        "energy",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10762641231",
+      "uri": "rbxassetid://10762641231",
+      "name": "Charging Particles",
+      "category": "energy",
+      "subcategory": "charging",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Charging Particles"
+          ],
+          "name": "Charging Particles",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10762641231"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Charging Particles'.",
+      "slug": "charging_particles",
+      "tags": [
+        "charging",
+        "energy",
+        "flipbook"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "1084969783",
+      "uri": "rbxassetid://1084969783",
+      "name": "charging_bits",
+      "category": "energy",
+      "subcategory": "charging",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 93,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "charging_bits",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 358230,
+          "Name": "gkku",
+          "CreatorType": "User",
+          "CreatorTargetId": 358230,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/1084969783/details"
+      },
+      "description": "Static texture cataloged as 'charging_bits'.",
+      "slug": "charging_bits",
+      "tags": [
+        "charging",
+        "energy",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14197067494",
+      "uri": "rbxassetid://14197067494",
+      "name": "Colourless charging",
+      "category": "energy",
+      "subcategory": "charging",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Colourless charging"
+          ],
+          "name": "Colourless charging",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14197067494"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Colourless charging'.",
+      "slug": "colourless_charging",
+      "tags": [
+        "charging",
+        "energy",
+        "flipbook"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

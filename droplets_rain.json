@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "category": "water",
+  "subcategory": "droplets_rain",
+  "description": "Droplets rain.",
+  "asset_count": 1,
+  "assets": [
+    {
+      "id": "17082061238",
+      "uri": "rbxassetid://17082061238",
+      "name": "Droplets",
+      "category": "water",
+      "subcategory": "droplets_rain",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_waterfalls"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "official_documentation",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Droplet texture used in waterfall and lava spray.",
+      "slug": "droplets",
+      "tags": [
+        "droplets_rain",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "liquid splashes",
+        "water spray",
+        "surface ripples"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    }
+  ]
+}

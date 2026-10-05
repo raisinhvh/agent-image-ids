@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0.0",
+  "category": "stars_sparkles",
+  "subcategory": "glints",
+  "description": "Glints.",
+  "asset_count": 2,
+  "assets": [
+    {
+      "id": "5860841663",
+      "uri": "rbxassetid://5860841663",
+      "name": "Star sparkle A",
+      "category": "stars_sparkles",
+      "subcategory": "glints",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_starter"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Star-shaped sparkle icon.",
+      "slug": "star_sparkle_a",
+      "tags": [
+        "glints",
+        "star",
+        "stars_sparkles",
+        "static"
+      ],
+      "suggested_uses": [
+        "magic sparkle",
+        "reward glints",
+        "star accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "5860841737",
+      "uri": "rbxassetid://5860841737",
+      "name": "Star sparkle B",
+      "category": "stars_sparkles",
+      "subcategory": "glints",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_starter"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Star-shaped sparkle variant.",
+      "slug": "star_sparkle_b",
+      "tags": [
+        "glints",
+        "star",
+        "stars_sparkles",
+        "static"
+      ],
+      "suggested_uses": [
+        "magic sparkle",
+        "reward glints",
+        "star accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    }
+  ]
+}

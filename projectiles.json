@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.0.0",
+  "category": "energy",
+  "subcategory": "projectiles",
+  "description": "Projectiles.",
+  "asset_count": 3,
+  "assets": [
+    {
+      "id": "17006176759",
+      "uri": "rbxassetid://17006176759",
+      "name": "Cursed energy ball 232",
+      "category": "energy",
+      "subcategory": "projectiles",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Cursed energy ball 232"
+          ],
+          "name": "Cursed energy ball 232",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17006176759"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Cursed energy ball 232'.",
+      "slug": "cursed_energy_ball_232",
+      "tags": [
+        "energy",
+        "flipbook",
+        "projectiles"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "5098383956",
+      "uri": "rbxassetid://5098383956",
+      "name": "vb_energy_ball",
+      "category": "energy",
+      "subcategory": "projectiles",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 234,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "vb_energy_ball",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 1647342293,
+          "Name": "vanblam",
+          "CreatorType": "User",
+          "CreatorTargetId": 1647342293,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/5098383956/details"
+      },
+      "description": "Static texture cataloged as 'vb_energy_ball'.",
+      "slug": "vb_energy_ball",
+      "tags": [
+        "energy",
+        "projectiles",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "82201119138255",
+      "uri": "rbxassetid://82201119138255",
+      "name": "web_proj_core0001",
+      "category": "energy",
+      "subcategory": "projectiles",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "web_proj_core0001"
+          ],
+          "name": "web_proj_core0001",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://82201119138255"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'web_proj_core0001'.",
+      "slug": "web_proj_core0001",
+      "tags": [
+        "energy",
+        "projectiles",
+        "static"
+      ],
+      "suggested_uses": [
+        "power auras",
+        "spell charging",
+        "energy projectiles"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

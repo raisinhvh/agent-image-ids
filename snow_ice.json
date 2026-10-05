@@ -1,0 +1,594 @@
+{
+  "schema_version": "1.0.0",
+  "category": "nature",
+  "subcategory": "snow_ice",
+  "description": "Snow ice.",
+  "asset_count": 9,
+  "assets": [
+    {
+      "id": "16924962354",
+      "uri": "rbxassetid://16924962354",
+      "name": "Akaza Snowflake",
+      "category": "nature",
+      "subcategory": "snow_ice",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Akaza Snowflake"
+          ],
+          "name": "Akaza Snowflake",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16924962354"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Akaza Snowflake'.",
+      "slug": "akaza_snowflake",
+      "tags": [
+        "flipbook",
+        "nature",
+        "snow_ice"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13243734535",
+      "uri": "rbxassetid://13243734535",
+      "name": "Fading Snowflake High",
+      "category": "nature",
+      "subcategory": "snow_ice",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Fading Snowflake High"
+          ],
+          "name": "Fading Snowflake High",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13243734535"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Fading Snowflake High'.",
+      "slug": "fading_snowflake_high",
+      "tags": [
+        "flipbook",
+        "nature",
+        "snow_ice"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "933102662",
+      "uri": "rbxassetid://933102662",
+      "name": "Images/Snow",
+      "category": "nature",
+      "subcategory": "snow_ice",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 85,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Images/Snow",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 46878214,
+          "Name": "PrimaryX",
+          "CreatorType": "User",
+          "CreatorTargetId": 46878214,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/933102662/details"
+      },
+      "description": "Static texture cataloged as 'Images/Snow'.",
+      "slug": "images_snow",
+      "tags": [
+        "nature",
+        "snow_ice",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14186189742",
+      "uri": "rbxassetid://14186189742",
+      "name": "Lower Res Snow",
+      "category": "nature",
+      "subcategory": "snow_ice",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Lower Res Snow"
+          ],
+          "name": "Lower Res Snow",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14186189742"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Lower Res Snow'.",
+      "slug": "lower_res_snow",
+      "tags": [
+        "flipbook",
+        "nature",
+        "snow_ice"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "87559021239332",
+      "uri": "rbxassetid://87559021239332",
+      "name": "Snowflake",
+      "category": "nature",
+      "subcategory": "snow_ice",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Snowflake"
+          ],
+          "name": "Snowflake",
+          "type": "8x8",
+          "resolution_raw": "4096",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://87559021239332"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 4096,
+        "height": 4096,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Snowflake'.",
+      "slug": "snowflake",
+      "tags": [
+        "flipbook",
+        "nature",
+        "snow_ice"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "111463968547579",
+      "uri": "rbxassetid://111463968547579",
+      "name": "snowflake",
+      "category": "nature",
+      "subcategory": "snow_ice",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "snowflake"
+          ],
+          "name": "snowflake",
+          "type": "Static",
+          "resolution_raw": "360",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://111463968547579"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 360,
+        "height": 360,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'snowflake'.",
+      "slug": "snowflake",
+      "tags": [
+        "nature",
+        "snow_ice",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "80679289979548",
+      "uri": "rbxassetid://80679289979548",
+      "name": "Snowflake Types",
+      "category": "nature",
+      "subcategory": "snow_ice",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Snowflake Types"
+          ],
+          "name": "Snowflake Types",
+          "type": "2x2",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://80679289979548"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Snowflake Types'.",
+      "slug": "snowflake_types",
+      "tags": [
+        "flipbook",
+        "nature",
+        "snow_ice"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "42427179",
+      "uri": "rbxassetid://42427179",
+      "name": "Snowflake8",
+      "category": "nature",
+      "subcategory": "snow_ice",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 83,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Snowflake8",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 10854454,
+          "Name": "Maikalele_Dev",
+          "CreatorType": "User",
+          "CreatorTargetId": 10854454,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/42427179/details"
+      },
+      "description": "Static texture cataloged as 'Snowflake8'.",
+      "slug": "snowflake8",
+      "tags": [
+        "nature",
+        "snow_ice",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "112512506649308",
+      "uri": "rbxassetid://112512506649308",
+      "name": "Snowmound_01",
+      "category": "nature",
+      "subcategory": "snow_ice",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "Snowmound_01"
+          ],
+          "name": "Snowmound_01",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://112512506649308"
+        },
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "Splinter_Cracks_01"
+          ],
+          "name": "Splinter_Cracks_01",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://112512506649308"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Snowmound_01'.",
+      "slug": "snowmound_01",
+      "tags": [
+        "nature",
+        "snow_ice",
+        "static"
+      ],
+      "suggested_uses": [
+        "nature magic",
+        "falling leaves",
+        "snow accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

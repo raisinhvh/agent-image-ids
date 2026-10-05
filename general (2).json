@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "category": "fire",
+  "subcategory": "general",
+  "description": "General.",
+  "asset_count": 4,
+  "assets": [
+    {
+      "id": "70989844984628",
+      "uri": "rbxassetid://70989844984628",
+      "name": "Greyscaled Cursed Energy",
+      "category": "fire",
+      "subcategory": "general",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Fire",
+            "Greyscaled Cursed Energy"
+          ],
+          "name": "Greyscaled Cursed Energy",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://70989844984628"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Greyscaled Cursed Energy'.",
+      "slug": "greyscaled_cursed_energy",
+      "tags": [
+        "fire",
+        "flipbook",
+        "general"
+      ],
+      "suggested_uses": [
+        "fire accents",
+        "embers",
+        "combustion effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13486412595",
+      "uri": "rbxassetid://13486412595",
+      "name": "Low Res Burst",
+      "category": "fire",
+      "subcategory": "general",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Fire",
+            "Low Res Burst"
+          ],
+          "name": "Low Res Burst",
+          "type": "4x4",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13486412595"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Low Res Burst'.",
+      "slug": "low_res_burst",
+      "tags": [
+        "fire",
+        "flipbook",
+        "general"
+      ],
+      "suggested_uses": [
+        "fire accents",
+        "embers",
+        "combustion effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10546157992",
+      "uri": "rbxassetid://10546157992",
+      "name": "Short Burst",
+      "category": "fire",
+      "subcategory": "general",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Fire",
+            "Short Burst"
+          ],
+          "name": "Short Burst",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10546157992"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Short Burst'.",
+      "slug": "short_burst",
+      "tags": [
+        "fire",
+        "flipbook",
+        "general"
+      ],
+      "suggested_uses": [
+        "fire accents",
+        "embers",
+        "combustion effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11846119288",
+      "uri": "rbxassetid://11846119288",
+      "name": "Topleft Burst",
+      "category": "fire",
+      "subcategory": "general",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Fire",
+            "Topleft Burst"
+          ],
+          "name": "Topleft Burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11846119288"
+        },
+        {
+          "source_id": "texture_share",
+          "line": 303,
+          "animated_raw": true,
+          "grid_raw": 4,
+          "resolution_raw": "1024"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Topleft Burst'.",
+      "slug": "topleft_burst",
+      "tags": [
+        "fire",
+        "flipbook",
+        "general"
+      ],
+      "suggested_uses": [
+        "fire accents",
+        "embers",
+        "combustion effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

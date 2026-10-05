@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.0.0",
+  "category": "flares_glow",
+  "subcategory": "rays",
+  "description": "Rays.",
+  "asset_count": 2,
+  "assets": [
+    {
+      "id": "1084999891",
+      "uri": "rbxassetid://1084999891",
+      "name": "lightrays2",
+      "category": "flares_glow",
+      "subcategory": "rays",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 6,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "lightrays2",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 358230,
+          "Name": "gkku",
+          "CreatorType": "User",
+          "CreatorTargetId": 358230,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/1084999891/details"
+      },
+      "description": "Static texture cataloged as 'lightrays2'.",
+      "slug": "lightrays2",
+      "tags": [
+        "flares_glow",
+        "glow",
+        "rays",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "243660364",
+      "uri": "rbxassetid://243660364",
+      "name": "PARTICE Light ray",
+      "category": "flares_glow",
+      "subcategory": "rays",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 47,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "PARTICE Light ray",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 1071847,
+          "Name": "dragonome",
+          "CreatorType": "User",
+          "CreatorTargetId": 1071847,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/243660364/details"
+      },
+      "description": "Static texture cataloged as 'PARTICE Light ray'.",
+      "slug": "partice_light_ray",
+      "tags": [
+        "flares_glow",
+        "glow",
+        "rays",
+        "static"
+      ],
+      "suggested_uses": [
+        "light accents",
+        "glow cores",
+        "lens effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

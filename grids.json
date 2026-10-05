@@ -1,0 +1,2613 @@
+{
+  "schema_version": "1.0.0",
+  "category": "geometry_grids",
+  "subcategory": "grids",
+  "description": "Grids.",
+  "asset_count": 42,
+  "assets": [
+    {
+      "id": "6372755229",
+      "uri": "rbxassetid://6372755229",
+      "name": "Checker 1",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Checker 1"
+          ],
+          "name": "Checker 1",
+          "type": "Static",
+          "resolution_raw": "400",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://6372755229"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 400,
+        "height": 400,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Checker 1'.",
+      "slug": "checker_1",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17713866288",
+      "uri": "rbxassetid://17713866288",
+      "name": "Grid Pattern",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid Pattern"
+          ],
+          "name": "Grid Pattern",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17713866288"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid Pattern'.",
+      "slug": "grid_pattern",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "123019677863963",
+      "uri": "rbxassetid://123019677863963",
+      "name": "Grid1",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid1"
+          ],
+          "name": "Grid1",
+          "type": "Static",
+          "resolution_raw": "1025",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://123019677863963"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1025,
+        "height": 1025,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid1'.",
+      "slug": "grid1",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "96796601322679",
+      "uri": "rbxassetid://96796601322679",
+      "name": "Grid10",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid10"
+          ],
+          "name": "Grid10",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://96796601322679"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid10'.",
+      "slug": "grid10",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "126480909576236",
+      "uri": "rbxassetid://126480909576236",
+      "name": "Grid11",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid11"
+          ],
+          "name": "Grid11",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://126480909576236"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid11'.",
+      "slug": "grid11",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "139044719175739",
+      "uri": "rbxassetid://139044719175739",
+      "name": "Grid12",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid12"
+          ],
+          "name": "Grid12",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://139044719175739"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid12'.",
+      "slug": "grid12",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "107969856880965",
+      "uri": "rbxassetid://107969856880965",
+      "name": "Grid13",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid13"
+          ],
+          "name": "Grid13",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://107969856880965"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid13'.",
+      "slug": "grid13",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "93591820928647",
+      "uri": "rbxassetid://93591820928647",
+      "name": "Grid14",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid14"
+          ],
+          "name": "Grid14",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://93591820928647"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid14'.",
+      "slug": "grid14",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "79270558989579",
+      "uri": "rbxassetid://79270558989579",
+      "name": "Grid15",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid15"
+          ],
+          "name": "Grid15",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://79270558989579"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid15'.",
+      "slug": "grid15",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "90999859068012",
+      "uri": "rbxassetid://90999859068012",
+      "name": "Grid16",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid16"
+          ],
+          "name": "Grid16",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://90999859068012"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid16'.",
+      "slug": "grid16",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "139952565230809",
+      "uri": "rbxassetid://139952565230809",
+      "name": "Grid17",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid17"
+          ],
+          "name": "Grid17",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://139952565230809"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid17'.",
+      "slug": "grid17",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "82781804399779",
+      "uri": "rbxassetid://82781804399779",
+      "name": "Grid18",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid18"
+          ],
+          "name": "Grid18",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://82781804399779"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid18'.",
+      "slug": "grid18",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "103284563503348",
+      "uri": "rbxassetid://103284563503348",
+      "name": "Grid19",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid19"
+          ],
+          "name": "Grid19",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://103284563503348"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid19'.",
+      "slug": "grid19",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "120435454294728",
+      "uri": "rbxassetid://120435454294728",
+      "name": "Grid2",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid2"
+          ],
+          "name": "Grid2",
+          "type": "Static",
+          "resolution_raw": "1165",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://120435454294728"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1165,
+        "height": 1165,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid2'.",
+      "slug": "grid2",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127040384812888",
+      "uri": "rbxassetid://127040384812888",
+      "name": "Grid20",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid20"
+          ],
+          "name": "Grid20",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127040384812888"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid20'.",
+      "slug": "grid20",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "134151910916223",
+      "uri": "rbxassetid://134151910916223",
+      "name": "Grid21",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid21"
+          ],
+          "name": "Grid21",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://134151910916223"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid21'.",
+      "slug": "grid21",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "119799327426197",
+      "uri": "rbxassetid://119799327426197",
+      "name": "Grid22",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid22"
+          ],
+          "name": "Grid22",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://119799327426197"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid22'.",
+      "slug": "grid22",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "130546344410274",
+      "uri": "rbxassetid://130546344410274",
+      "name": "Grid23",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid23"
+          ],
+          "name": "Grid23",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://130546344410274"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid23'.",
+      "slug": "grid23",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "84021767821090",
+      "uri": "rbxassetid://84021767821090",
+      "name": "Grid24",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid24"
+          ],
+          "name": "Grid24",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://84021767821090"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid24'.",
+      "slug": "grid24",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "139996700110734",
+      "uri": "rbxassetid://139996700110734",
+      "name": "Grid25",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid25"
+          ],
+          "name": "Grid25",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://139996700110734"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid25'.",
+      "slug": "grid25",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "71757989611985",
+      "uri": "rbxassetid://71757989611985",
+      "name": "Grid26",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid26"
+          ],
+          "name": "Grid26",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://71757989611985"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid26'.",
+      "slug": "grid26",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "77148634465993",
+      "uri": "rbxassetid://77148634465993",
+      "name": "Grid27",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid27"
+          ],
+          "name": "Grid27",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://77148634465993"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid27'.",
+      "slug": "grid27",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "118507210312025",
+      "uri": "rbxassetid://118507210312025",
+      "name": "Grid28",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid28"
+          ],
+          "name": "Grid28",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://118507210312025"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid28'.",
+      "slug": "grid28",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "110667671093800",
+      "uri": "rbxassetid://110667671093800",
+      "name": "Grid29",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid29"
+          ],
+          "name": "Grid29",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://110667671093800"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid29'.",
+      "slug": "grid29",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "72837575199720",
+      "uri": "rbxassetid://72837575199720",
+      "name": "Grid3",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid3"
+          ],
+          "name": "Grid3",
+          "type": "Static",
+          "resolution_raw": "635",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://72837575199720"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 635,
+        "height": 635,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid3'.",
+      "slug": "grid3",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "78097227527297",
+      "uri": "rbxassetid://78097227527297",
+      "name": "Grid30",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid30"
+          ],
+          "name": "Grid30",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://78097227527297"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid30'.",
+      "slug": "grid30",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "73839910416510",
+      "uri": "rbxassetid://73839910416510",
+      "name": "Grid31",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid31"
+          ],
+          "name": "Grid31",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://73839910416510"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid31'.",
+      "slug": "grid31",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "101130268822426",
+      "uri": "rbxassetid://101130268822426",
+      "name": "Grid32",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid32"
+          ],
+          "name": "Grid32",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://101130268822426"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid32'.",
+      "slug": "grid32",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "134228669327803",
+      "uri": "rbxassetid://134228669327803",
+      "name": "Grid33",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid33"
+          ],
+          "name": "Grid33",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://134228669327803"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid33'.",
+      "slug": "grid33",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "95004152221168",
+      "uri": "rbxassetid://95004152221168",
+      "name": "Grid34",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid34"
+          ],
+          "name": "Grid34",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://95004152221168"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid34'.",
+      "slug": "grid34",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "138212629643486",
+      "uri": "rbxassetid://138212629643486",
+      "name": "Grid35",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid35"
+          ],
+          "name": "Grid35",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://138212629643486"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid35'.",
+      "slug": "grid35",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "101765975436099",
+      "uri": "rbxassetid://101765975436099",
+      "name": "Grid36",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid36"
+          ],
+          "name": "Grid36",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://101765975436099"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid36'.",
+      "slug": "grid36",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "83219787794282",
+      "uri": "rbxassetid://83219787794282",
+      "name": "Grid37",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid37"
+          ],
+          "name": "Grid37",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://83219787794282"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid37'.",
+      "slug": "grid37",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "105896183550036",
+      "uri": "rbxassetid://105896183550036",
+      "name": "Grid38",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid38"
+          ],
+          "name": "Grid38",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://105896183550036"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid38'.",
+      "slug": "grid38",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "93334391678052",
+      "uri": "rbxassetid://93334391678052",
+      "name": "Grid39",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid39"
+          ],
+          "name": "Grid39",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://93334391678052"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid39'.",
+      "slug": "grid39",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "87069711201283",
+      "uri": "rbxassetid://87069711201283",
+      "name": "Grid4",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid4"
+          ],
+          "name": "Grid4",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://87069711201283"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid4'.",
+      "slug": "grid4",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "106907853938820",
+      "uri": "rbxassetid://106907853938820",
+      "name": "Grid40",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid40"
+          ],
+          "name": "Grid40",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://106907853938820"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid40'.",
+      "slug": "grid40",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "89597452280166",
+      "uri": "rbxassetid://89597452280166",
+      "name": "Grid5",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid5"
+          ],
+          "name": "Grid5",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://89597452280166"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid5'.",
+      "slug": "grid5",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "135749348190290",
+      "uri": "rbxassetid://135749348190290",
+      "name": "Grid6",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid6"
+          ],
+          "name": "Grid6",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://135749348190290"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid6'.",
+      "slug": "grid6",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "102825105630718",
+      "uri": "rbxassetid://102825105630718",
+      "name": "Grid8",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid8"
+          ],
+          "name": "Grid8",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://102825105630718"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid8'.",
+      "slug": "grid8",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "128235150402085",
+      "uri": "rbxassetid://128235150402085",
+      "name": "Grid9",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Grid9"
+          ],
+          "name": "Grid9",
+          "type": "Static",
+          "resolution_raw": "384",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://128235150402085"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 384,
+        "height": 384,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grid9'.",
+      "slug": "grid9",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16510058099",
+      "uri": "rbxassetid://16510058099",
+      "name": "Transparent Checker",
+      "category": "geometry_grids",
+      "subcategory": "grids",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Transparent Checker"
+          ],
+          "name": "Transparent Checker",
+          "type": "Static",
+          "resolution_raw": "600",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16510058099"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 600,
+        "height": 600,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Transparent Checker'.",
+      "slug": "transparent_checker",
+      "tags": [
+        "geometry_grids",
+        "grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

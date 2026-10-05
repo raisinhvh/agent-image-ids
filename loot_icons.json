@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0.0",
+  "category": "symbols_text",
+  "subcategory": "loot_icons",
+  "description": "Loot icons.",
+  "asset_count": 4,
+  "assets": [
+    {
+      "id": "6772766413",
+      "uri": "rbxassetid://6772766413",
+      "name": "Diamond",
+      "category": "symbols_text",
+      "subcategory": "loot_icons",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_actions"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Diamond icon for loot accents.",
+      "slug": "diamond",
+      "tags": [
+        "loot_icons",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "8733731095",
+      "uri": "rbxassetid://8733731095",
+      "name": "MC Potion",
+      "category": "symbols_text",
+      "subcategory": "loot_icons",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "MC Potion"
+          ],
+          "name": "MC Potion",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://8733731095"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'MC Potion'.",
+      "slug": "mc_potion",
+      "tags": [
+        "flipbook",
+        "loot_icons",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "6772766862",
+      "uri": "rbxassetid://6772766862",
+      "name": "Potion",
+      "category": "symbols_text",
+      "subcategory": "loot_icons",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_actions"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Potion icon.",
+      "slug": "potion",
+      "tags": [
+        "loot_icons",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "6749057157",
+      "uri": "rbxassetid://6749057157",
+      "name": "Ticket",
+      "category": "symbols_text",
+      "subcategory": "loot_icons",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_actions"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Ticket icon.",
+      "slug": "ticket",
+      "tags": [
+        "loot_icons",
+        "static",
+        "symbols_text"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    }
+  ]
+}

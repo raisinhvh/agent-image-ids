@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0.0",
+  "category": "fire",
+  "subcategory": "fireballs",
+  "description": "Fireballs.",
+  "asset_count": 2,
+  "assets": [
+    {
+      "id": "14052682097",
+      "uri": "rbxassetid://14052682097",
+      "name": "Fireball",
+      "category": "fire",
+      "subcategory": "fireballs",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Fireball"
+          ],
+          "name": "Fireball",
+          "type": "2x2",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14052682097"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Fireball'.",
+      "slug": "fireball",
+      "tags": [
+        "fire",
+        "fireballs",
+        "flipbook"
+      ],
+      "suggested_uses": [
+        "fire accents",
+        "embers",
+        "combustion effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11362249226",
+      "uri": "rbxassetid://11362249226",
+      "name": "Fireball Right",
+      "category": "fire",
+      "subcategory": "fireballs",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Fire",
+            "Fireball Right"
+          ],
+          "name": "Fireball Right",
+          "type": "2x2",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11362249226"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Fireball Right'.",
+      "slug": "fireball_right",
+      "tags": [
+        "fire",
+        "fireballs",
+        "flipbook"
+      ],
+      "suggested_uses": [
+        "fire accents",
+        "embers",
+        "combustion effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

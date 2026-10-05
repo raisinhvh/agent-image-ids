@@ -1,0 +1,783 @@
+{
+  "schema_version": "1.0.0",
+  "category": "swirls_vortices",
+  "subcategory": "spirals",
+  "description": "Spirals.",
+  "asset_count": 12,
+  "assets": [
+    {
+      "id": "97411260968454",
+      "uri": "rbxassetid://97411260968454",
+      "name": "arcana_hydra_spiral",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "arcana_hydra_spiral"
+          ],
+          "name": "arcana_hydra_spiral",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://97411260968454"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'arcana_hydra_spiral'.",
+      "slug": "arcana_hydra_spiral",
+      "tags": [
+        "spirals",
+        "static",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "104706480994458",
+      "uri": "rbxassetid://104706480994458",
+      "name": "arcana_orb_spiral",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "arcana_orb_spiral"
+          ],
+          "name": "arcana_orb_spiral",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://104706480994458"
+        },
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "arcana_orbSource_03_crimson"
+          ],
+          "name": "arcana_orbSource_03_crimson",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://104706480994458"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'arcana_orb_spiral'.",
+      "slug": "arcana_orb_spiral",
+      "tags": [
+        "spirals",
+        "static",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "77896820212086",
+      "uri": "rbxassetid://77896820212086",
+      "name": "attackSpeed-spiral",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "attackSpeed-spiral"
+          ],
+          "name": "attackSpeed-spiral",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://77896820212086"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'attackSpeed-spiral'.",
+      "slug": "attackspeed_spiral",
+      "tags": [
+        "spirals",
+        "static",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15686854301",
+      "uri": "rbxassetid://15686854301",
+      "name": "Gradient Spiral",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Gradient Spiral"
+          ],
+          "name": "Gradient Spiral",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15686854301"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Gradient Spiral'.",
+      "slug": "gradient_spiral",
+      "tags": [
+        "flipbook",
+        "spirals",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "917188138",
+      "uri": "rbxassetid://917188138",
+      "name": "Light Effect: 2-Arm Spiral",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 198,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Light Effect: 2-Arm Spiral",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 5756598,
+          "Name": "JDLENL",
+          "CreatorType": "User",
+          "CreatorTargetId": 5756598,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/917188138/details"
+      },
+      "description": "Static texture cataloged as 'Light Effect: 2-Arm Spiral'.",
+      "slug": "light_effect_2_arm_spiral",
+      "tags": [
+        "glow",
+        "spirals",
+        "static",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17510999750",
+      "uri": "rbxassetid://17510999750",
+      "name": "Noised Spiral",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Noised Spiral"
+          ],
+          "name": "Noised Spiral",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17510999750"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Noised Spiral'.",
+      "slug": "noised_spiral",
+      "tags": [
+        "flipbook",
+        "spirals",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13820562548",
+      "uri": "rbxassetid://13820562548",
+      "name": "Pixel Spiral Left",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pixel Spiral Left"
+          ],
+          "name": "Pixel Spiral Left",
+          "type": "4x4",
+          "resolution_raw": "592",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13820562548"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 592,
+        "height": 592,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pixel Spiral Left'.",
+      "slug": "pixel_spiral_left",
+      "tags": [
+        "flipbook",
+        "pixel",
+        "spirals",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13922098740",
+      "uri": "rbxassetid://13922098740",
+      "name": "Space Spiral",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Space Spiral"
+          ],
+          "name": "Space Spiral",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13922098740"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Space Spiral'.",
+      "slug": "space_spiral",
+      "tags": [
+        "flipbook",
+        "spirals",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "5171039460",
+      "uri": "rbxassetid://5171039460",
+      "name": "spiral",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 200,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "spiral",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 112081885,
+          "Name": "Allinzz",
+          "CreatorType": "User",
+          "CreatorTargetId": 112081885,
+          "HasVerifiedBadge": true
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/5171039460/details"
+      },
+      "description": "Static texture cataloged as 'spiral'.",
+      "slug": "spiral",
+      "tags": [
+        "spirals",
+        "static",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364282549",
+      "uri": "rbxassetid://12364282549",
+      "name": "Spiral",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Spiral"
+          ],
+          "name": "Spiral",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364282549"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Spiral'.",
+      "slug": "spiral",
+      "tags": [
+        "spirals",
+        "static",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14279261803",
+      "uri": "rbxassetid://14279261803",
+      "name": "Spiral Grey",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Spiral Grey"
+          ],
+          "name": "Spiral Grey",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14279261803"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Spiral Grey'.",
+      "slug": "spiral_grey",
+      "tags": [
+        "flipbook",
+        "spirals",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364342622",
+      "uri": "rbxassetid://12364342622",
+      "name": "Spiral Sigil",
+      "category": "swirls_vortices",
+      "subcategory": "spirals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Spiral Sigil"
+          ],
+          "name": "Spiral Sigil",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364342622"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Spiral Sigil'.",
+      "slug": "spiral_sigil",
+      "tags": [
+        "magic",
+        "spirals",
+        "static",
+        "swirls_vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

@@ -1,0 +1,1150 @@
+{
+  "schema_version": "1.0.0",
+  "category": "specks_debris",
+  "subcategory": "rocks_debris",
+  "description": "Rocks debris.",
+  "asset_count": 18,
+  "assets": [
+    {
+      "id": "18569840034",
+      "uri": "rbxassetid://18569840034",
+      "name": "3D Debris Rotation",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "3D Debris Rotation"
+          ],
+          "name": "3D Debris Rotation",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18569840034"
+        },
+        {
+          "source_id": "texture_share",
+          "line": 265,
+          "animated_raw": true,
+          "grid_raw": 4,
+          "resolution_raw": "1024"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as '3D Debris Rotation'.",
+      "slug": "3d_debris_rotation",
+      "tags": [
+        "flipbook",
+        "rocks_debris",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18765221838",
+      "uri": "rbxassetid://18765221838",
+      "name": "Blue Rocks",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Blue Rocks"
+          ],
+          "name": "Blue Rocks",
+          "type": "2x2",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18765221838"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Blue Rocks'.",
+      "slug": "blue_rocks",
+      "tags": [
+        "flipbook",
+        "rocks_debris",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "394144370",
+      "uri": "rbxassetid://394144370",
+      "name": "Brown debris",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Brown debris"
+          ],
+          "name": "Brown debris",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://394144370"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Brown debris'.",
+      "slug": "brown_debris",
+      "tags": [
+        "rocks_debris",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "392758851",
+      "uri": "rbxassetid://392758851",
+      "name": "Grass debris",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Grass debris"
+          ],
+          "name": "Grass debris",
+          "type": "Static",
+          "resolution_raw": "1000",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://392758851"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Grass debris'.",
+      "slug": "grass_debris",
+      "tags": [
+        "rocks_debris",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "9632169630",
+      "uri": "rbxassetid://9632169630",
+      "name": "Leaf debris",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Leaf debris"
+          ],
+          "name": "Leaf debris",
+          "type": "Static",
+          "resolution_raw": "500",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://9632169630"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 500,
+        "height": 500,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Leaf debris'.",
+      "slug": "leaf_debris",
+      "tags": [
+        "rocks_debris",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14050848235",
+      "uri": "rbxassetid://14050848235",
+      "name": "More debris",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "More debris"
+          ],
+          "name": "More debris",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14050848235"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'More debris'.",
+      "slug": "more_debris",
+      "tags": [
+        "rocks_debris",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "394323831",
+      "uri": "rbxassetid://394323831",
+      "name": "Nature Debris Leaves",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Nature Debris Leaves"
+          ],
+          "name": "Nature Debris Leaves",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://394323831"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Nature Debris Leaves'.",
+      "slug": "nature_debris_leaves",
+      "tags": [
+        "rocks_debris",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14305019062",
+      "uri": "rbxassetid://14305019062",
+      "name": "Random Rocks",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Random Rocks"
+          ],
+          "name": "Random Rocks",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14305019062"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Random Rocks'.",
+      "slug": "random_rocks",
+      "tags": [
+        "flipbook",
+        "rocks_debris",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13378753362",
+      "uri": "rbxassetid://13378753362",
+      "name": "Realistic Rocks",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Realistic Rocks"
+          ],
+          "name": "Realistic Rocks",
+          "type": "4x4",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13378753362"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Realistic Rocks'.",
+      "slug": "realistic_rocks",
+      "tags": [
+        "flipbook",
+        "rocks_debris",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "86836351190415",
+      "uri": "rbxassetid://86836351190415",
+      "name": "Rock1",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Rock1"
+          ],
+          "name": "Rock1",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://86836351190415"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rock1'.",
+      "slug": "rock1",
+      "tags": [
+        "rocks_debris",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "80630556091638",
+      "uri": "rbxassetid://80630556091638",
+      "name": "Rock2",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Rock2"
+          ],
+          "name": "Rock2",
+          "type": "Static",
+          "resolution_raw": "604",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://80630556091638"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 604,
+        "height": 604,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rock2'.",
+      "slug": "rock2",
+      "tags": [
+        "rocks_debris",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "129208717139526",
+      "uri": "rbxassetid://129208717139526",
+      "name": "Rock3",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Rock3"
+          ],
+          "name": "Rock3",
+          "type": "Static",
+          "resolution_raw": "183",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://129208717139526"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 183,
+        "height": 183,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Rock3'.",
+      "slug": "rock3",
+      "tags": [
+        "rocks_debris",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "126637935635367",
+      "uri": "rbxassetid://126637935635367",
+      "name": "Rock4",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Rock4"
+          ],
+          "name": "Rock4",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://126637935635367"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Rock4'.",
+      "slug": "rock4",
+      "tags": [
+        "flipbook",
+        "rocks_debris",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "75669596262274",
+      "uri": "rbxassetid://75669596262274",
+      "name": "Rock5",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Rock5"
+          ],
+          "name": "Rock5",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://75669596262274"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Rock5'.",
+      "slug": "rock5",
+      "tags": [
+        "flipbook",
+        "rocks_debris",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "85403020583447",
+      "uri": "rbxassetid://85403020583447",
+      "name": "Rock6",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Rock6"
+          ],
+          "name": "Rock6",
+          "type": "2x2",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://85403020583447"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Rock6'.",
+      "slug": "rock6",
+      "tags": [
+        "flipbook",
+        "rocks_debris",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "79644177937304",
+      "uri": "rbxassetid://79644177937304",
+      "name": "Rock7",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Rock7"
+          ],
+          "name": "Rock7",
+          "type": "2x2",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://79644177937304"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Rock7'.",
+      "slug": "rock7",
+      "tags": [
+        "flipbook",
+        "rocks_debris",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15441282898",
+      "uri": "rbxassetid://15441282898",
+      "name": "Rocks 2x2",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Rocks 2x2"
+          ],
+          "name": "Rocks 2x2",
+          "type": "2x2",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15441282898"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Rocks 2x2'.",
+      "slug": "rocks_2x2",
+      "tags": [
+        "flipbook",
+        "rocks_debris",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "425665059",
+      "uri": "rbxassetid://425665059",
+      "name": "Wooden Debris",
+      "category": "specks_debris",
+      "subcategory": "rocks_debris",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Wooden Debris"
+          ],
+          "name": "Wooden Debris",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://425665059"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Wooden Debris'.",
+      "slug": "wooden_debris",
+      "tags": [
+        "rocks_debris",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

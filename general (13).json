@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.0.0",
+  "category": "stars_sparkles",
+  "subcategory": "general",
+  "description": "General.",
+  "asset_count": 3,
+  "assets": [
+    {
+      "id": "8944435897",
+      "uri": "rbxassetid://8944435897",
+      "name": "Flare168New",
+      "category": "stars_sparkles",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Star",
+            "Flare168New"
+          ],
+          "name": "Flare168New",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://8944435897"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Flare168New'.",
+      "slug": "flare168new",
+      "tags": [
+        "general",
+        "glow",
+        "stars_sparkles",
+        "static"
+      ],
+      "suggested_uses": [
+        "magic sparkle",
+        "reward glints",
+        "star accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15501781612",
+      "uri": "rbxassetid://15501781612",
+      "name": "Flare169New",
+      "category": "stars_sparkles",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Star",
+            "Flare169New"
+          ],
+          "name": "Flare169New",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15501781612"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Flare169New'.",
+      "slug": "flare169new",
+      "tags": [
+        "general",
+        "glow",
+        "stars_sparkles",
+        "static"
+      ],
+      "suggested_uses": [
+        "magic sparkle",
+        "reward glints",
+        "star accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "137903763628085",
+      "uri": "rbxassetid://137903763628085",
+      "name": "Rotating Diagonal",
+      "category": "stars_sparkles",
+      "subcategory": "general",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Star",
+            "Rotating Diagonal"
+          ],
+          "name": "Rotating Diagonal",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://137903763628085"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Rotating Diagonal'.",
+      "slug": "rotating_diagonal",
+      "tags": [
+        "flipbook",
+        "general",
+        "stars_sparkles"
+      ],
+      "suggested_uses": [
+        "magic sparkle",
+        "reward glints",
+        "star accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

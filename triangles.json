@@ -1,0 +1,452 @@
+{
+  "schema_version": "1.0.0",
+  "category": "geometry_grids",
+  "subcategory": "triangles",
+  "description": "Triangles.",
+  "asset_count": 7,
+  "assets": [
+    {
+      "id": "74118294238291",
+      "uri": "rbxassetid://74118294238291",
+      "name": "Ab Triangle",
+      "category": "geometry_grids",
+      "subcategory": "triangles",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Ab Triangle"
+          ],
+          "name": "Ab Triangle",
+          "type": "2x2",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://74118294238291"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Ab Triangle'.",
+      "slug": "ab_triangle",
+      "tags": [
+        "flipbook",
+        "geometry_grids",
+        "triangles"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18765221641",
+      "uri": "rbxassetid://18765221641",
+      "name": "Chromatic Triangle",
+      "category": "geometry_grids",
+      "subcategory": "triangles",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Chromatic Triangle"
+          ],
+          "name": "Chromatic Triangle",
+          "type": "4x4",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18765221641"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Chromatic Triangle'.",
+      "slug": "chromatic_triangle",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "geometry_grids",
+        "triangles"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "8214517928",
+      "uri": "rbxassetid://8214517928",
+      "name": "Pointed Triangles",
+      "category": "geometry_grids",
+      "subcategory": "triangles",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pointed Triangles"
+          ],
+          "name": "Pointed Triangles",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://8214517928"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Pointed Triangles'.",
+      "slug": "pointed_triangles",
+      "tags": [
+        "geometry_grids",
+        "static",
+        "triangles"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11037285276",
+      "uri": "rbxassetid://11037285276",
+      "name": "Three Piece Triangle",
+      "category": "geometry_grids",
+      "subcategory": "triangles",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Three Piece Triangle"
+          ],
+          "name": "Three Piece Triangle",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11037285276"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Three Piece Triangle'.",
+      "slug": "three_piece_triangle",
+      "tags": [
+        "geometry_grids",
+        "static",
+        "triangles"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15009885079",
+      "uri": "rbxassetid://15009885079",
+      "name": "Triangle Top",
+      "category": "geometry_grids",
+      "subcategory": "triangles",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Triangle Top"
+          ],
+          "name": "Triangle Top",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15009885079"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Triangle Top'.",
+      "slug": "triangle_top",
+      "tags": [
+        "flipbook",
+        "geometry_grids",
+        "triangles"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "5561954395",
+      "uri": "rbxassetid://5561954395",
+      "name": "Triangle512",
+      "category": "geometry_grids",
+      "subcategory": "triangles",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 48,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Triangle512",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 346753305,
+          "Name": "Aurawrie",
+          "CreatorType": "User",
+          "CreatorTargetId": 346753305,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/5561954395/details"
+      },
+      "description": "Static texture cataloged as 'Triangle512'.",
+      "slug": "triangle512",
+      "tags": [
+        "geometry_grids",
+        "static",
+        "triangles"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12389942584",
+      "uri": "rbxassetid://12389942584",
+      "name": "UpsideDown Triangle",
+      "category": "geometry_grids",
+      "subcategory": "triangles",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "UpsideDown Triangle"
+          ],
+          "name": "UpsideDown Triangle",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12389942584"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'UpsideDown Triangle'.",
+      "slug": "upsidedown_triangle",
+      "tags": [
+        "geometry_grids",
+        "static",
+        "triangles"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

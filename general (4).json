@@ -1,0 +1,820 @@
+{
+  "schema_version": "1.0.0",
+  "category": "geometry_grids",
+  "subcategory": "general",
+  "description": "General.",
+  "asset_count": 13,
+  "assets": [
+    {
+      "id": "82028783487343",
+      "uri": "rbxassetid://82028783487343",
+      "name": "Blurry Design",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Blurry Design"
+          ],
+          "name": "Blurry Design",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://82028783487343"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Blurry Design'.",
+      "slug": "blurry_design",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "soft",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15414656170",
+      "uri": "rbxassetid://15414656170",
+      "name": "Boxes",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Boxes"
+          ],
+          "name": "Boxes",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15414656170"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Boxes'.",
+      "slug": "boxes",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "125130865636154",
+      "uri": "rbxassetid://125130865636154",
+      "name": "Cross Design",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Cross Design"
+          ],
+          "name": "Cross Design",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://125130865636154"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Cross Design'.",
+      "slug": "cross_design",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "135586203185317",
+      "uri": "rbxassetid://135586203185317",
+      "name": "Faded Box",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Faded Box"
+          ],
+          "name": "Faded Box",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://135586203185317"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Faded Box'.",
+      "slug": "faded_box",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "soft",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "5889822044",
+      "uri": "rbxassetid://5889822044",
+      "name": "Faded Design",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Faded Design"
+          ],
+          "name": "Faded Design",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://5889822044"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Faded Design'.",
+      "slug": "faded_design",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "soft",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "140061140880341",
+      "uri": "rbxassetid://140061140880341",
+      "name": "Flower Design",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Flower Design"
+          ],
+          "name": "Flower Design",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://140061140880341"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Flower Design'.",
+      "slug": "flower_design",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10036236958",
+      "uri": "rbxassetid://10036236958",
+      "name": "Illusion Design",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Illusion Design"
+          ],
+          "name": "Illusion Design",
+          "type": "Static",
+          "resolution_raw": "564",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10036236958"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 564,
+        "height": 564,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Illusion Design'.",
+      "slug": "illusion_design",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17402453778",
+      "uri": "rbxassetid://17402453778",
+      "name": "Medium Box",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Medium Box"
+          ],
+          "name": "Medium Box",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17402453778"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Medium Box'.",
+      "slug": "medium_box",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "71062791251209",
+      "uri": "rbxassetid://71062791251209",
+      "name": "Sketched Star",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Sketched Star"
+          ],
+          "name": "Sketched Star",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://71062791251209"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Sketched Star'.",
+      "slug": "sketched_star",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "star",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17019604370",
+      "uri": "rbxassetid://17019604370",
+      "name": "Star Design",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Star Design"
+          ],
+          "name": "Star Design",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17019604370"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Star Design'.",
+      "slug": "star_design",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "star",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "81343082272470",
+      "uri": "rbxassetid://81343082272470",
+      "name": "Strange Design",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Strange Design"
+          ],
+          "name": "Strange Design",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://81343082272470"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Strange Design'.",
+      "slug": "strange_design",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7850765439",
+      "uri": "rbxassetid://7850765439",
+      "name": "Thick Boxes",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Thick Boxes"
+          ],
+          "name": "Thick Boxes",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://7850765439"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Thick Boxes'.",
+      "slug": "thick_boxes",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14050964725",
+      "uri": "rbxassetid://14050964725",
+      "name": "Thin Box",
+      "category": "geometry_grids",
+      "subcategory": "general",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Grid",
+            "Thin Box"
+          ],
+          "name": "Thin Box",
+          "type": "Static",
+          "resolution_raw": "600",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14050964725"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 600,
+        "height": 600,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Thin Box'.",
+      "slug": "thin_box",
+      "tags": [
+        "general",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

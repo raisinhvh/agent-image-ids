@@ -1,0 +1,743 @@
+{
+  "schema_version": "1.0.0",
+  "category": "hearts",
+  "subcategory": "hearts",
+  "description": "Hearts.",
+  "asset_count": 12,
+  "assets": [
+    {
+      "id": "12364193011",
+      "uri": "rbxassetid://12364193011",
+      "name": "Abstract Filled Heart",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Abstract Filled Heart"
+          ],
+          "name": "Abstract Filled Heart",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364193011"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Abstract Filled Heart'.",
+      "slug": "abstract_filled_heart",
+      "tags": [
+        "hearts",
+        "static"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364794526",
+      "uri": "rbxassetid://12364794526",
+      "name": "Abstract Heart",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Abstract Heart"
+          ],
+          "name": "Abstract Heart",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364794526"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Abstract Heart'.",
+      "slug": "abstract_heart",
+      "tags": [
+        "hearts",
+        "static"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364747646",
+      "uri": "rbxassetid://12364747646",
+      "name": "Half Filled Heart",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Half Filled Heart"
+          ],
+          "name": "Half Filled Heart",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364747646"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Half Filled Heart'.",
+      "slug": "half_filled_heart",
+      "tags": [
+        "hearts",
+        "static"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "5857851618",
+      "uri": "rbxassetid://5857851618",
+      "name": "Heart",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_starter"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Heart icon; community list also assigns this ID a conflicting triangle label.",
+      "slug": "heart",
+      "tags": [
+        "hearts",
+        "static"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "117237341935346",
+      "uri": "rbxassetid://117237341935346",
+      "name": "Heart Burst",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Heart Burst"
+          ],
+          "name": "Heart Burst",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://117237341935346"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Heart Burst'.",
+      "slug": "heart_burst",
+      "tags": [
+        "flipbook",
+        "hearts"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364341401",
+      "uri": "rbxassetid://12364341401",
+      "name": "Heart Wings",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Heart Wings"
+          ],
+          "name": "Heart Wings",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364341401"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Heart Wings'.",
+      "slug": "heart_wings",
+      "tags": [
+        "hearts",
+        "static"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "136244099631576",
+      "uri": "rbxassetid://136244099631576",
+      "name": "Heart_Flipbook",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Heart_Flipbook"
+          ],
+          "name": "Heart_Flipbook",
+          "type": "8x8",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://136244099631576"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Heart_Flipbook'.",
+      "slug": "heart_flipbook",
+      "tags": [
+        "flipbook",
+        "hearts"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "86448734575922",
+      "uri": "rbxassetid://86448734575922",
+      "name": "HeartsFlipbook",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "rocca108",
+            "HeartsFlipbook"
+          ],
+          "name": "HeartsFlipbook",
+          "type": "4x4",
+          "resolution_raw": "4096",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://86448734575922"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 4096,
+        "height": 4096,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'HeartsFlipbook'.",
+      "slug": "heartsflipbook",
+      "tags": [
+        "flipbook",
+        "hearts"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "6479321476",
+      "uri": "rbxassetid://6479321476",
+      "name": "Images/heart",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 75,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Images/heart",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 161842666,
+          "Name": "Emi1o",
+          "CreatorType": "User",
+          "CreatorTargetId": 161842666,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/6479321476/details"
+      },
+      "description": "Static texture cataloged as 'Images/heart'.",
+      "slug": "images_heart",
+      "tags": [
+        "hearts",
+        "static"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12800149611",
+      "uri": "rbxassetid://12800149611",
+      "name": "Liquid Heart",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Liquid Heart"
+          ],
+          "name": "Liquid Heart",
+          "type": "4x4",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12800149611"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Liquid Heart'.",
+      "slug": "liquid_heart",
+      "tags": [
+        "flipbook",
+        "hearts"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127604067697151",
+      "uri": "rbxassetid://127604067697151",
+      "name": "MoreHeartsFlipbook",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "rocca108",
+            "MoreHeartsFlipbook"
+          ],
+          "name": "MoreHeartsFlipbook",
+          "type": "4x4",
+          "resolution_raw": "4096",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127604067697151"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 4096,
+        "height": 4096,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'MoreHeartsFlipbook'.",
+      "slug": "moreheartsflipbook",
+      "tags": [
+        "flipbook",
+        "hearts"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "9293679454",
+      "uri": "rbxassetid://9293679454",
+      "name": "Pulsing Heart",
+      "category": "hearts",
+      "subcategory": "hearts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pulsing Heart"
+          ],
+          "name": "Pulsing Heart",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://9293679454"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Pulsing Heart'.",
+      "slug": "pulsing_heart",
+      "tags": [
+        "flipbook",
+        "hearts"
+      ],
+      "suggested_uses": [
+        "healing effects",
+        "heart bursts",
+        "affection icons"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

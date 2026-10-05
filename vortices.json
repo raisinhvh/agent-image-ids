@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0.0",
+  "category": "swirls_vortices",
+  "subcategory": "vortices",
+  "description": "Vortices.",
+  "asset_count": 4,
+  "assets": [
+    {
+      "id": "1084969997",
+      "uri": "rbxassetid://1084969997",
+      "name": "charging_vortex",
+      "category": "swirls_vortices",
+      "subcategory": "vortices",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 139,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "charging_vortex",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 358230,
+          "Name": "gkku",
+          "CreatorType": "User",
+          "CreatorTargetId": 358230,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/1084969997/details"
+      },
+      "description": "Static texture cataloged as 'charging_vortex'.",
+      "slug": "charging_vortex",
+      "tags": [
+        "static",
+        "swirls_vortices",
+        "vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "94505125106448",
+      "uri": "rbxassetid://94505125106448",
+      "name": "Pastel Chromatic Vortex",
+      "category": "swirls_vortices",
+      "subcategory": "vortices",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Pastel Chromatic Vortex"
+          ],
+          "name": "Pastel Chromatic Vortex",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://94505125106448"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Pastel Chromatic Vortex'.",
+      "slug": "pastel_chromatic_vortex",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "swirls_vortices",
+        "vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "341277531",
+      "uri": "rbxassetid://341277531",
+      "name": "Vortex Particle",
+      "category": "swirls_vortices",
+      "subcategory": "vortices",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 39,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Vortex Particle",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 40417486,
+          "Name": "Glitchy_Robot",
+          "CreatorType": "User",
+          "CreatorTargetId": 40417486,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/341277531/details"
+      },
+      "description": "Static texture cataloged as 'Vortex Particle'.",
+      "slug": "vortex_particle",
+      "tags": [
+        "static",
+        "swirls_vortices",
+        "vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "321556991",
+      "uri": "rbxassetid://321556991",
+      "name": "Vortex Particles",
+      "category": "swirls_vortices",
+      "subcategory": "vortices",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 215,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Vortex Particles",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 74483523,
+          "Name": "Xoldrek",
+          "CreatorType": "User",
+          "CreatorTargetId": 74483523,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/321556991/details"
+      },
+      "description": "Static texture cataloged as 'Vortex Particles'.",
+      "slug": "vortex_particles",
+      "tags": [
+        "static",
+        "swirls_vortices",
+        "vortices"
+      ],
+      "suggested_uses": [
+        "vortices",
+        "rotating magic",
+        "spiral energy"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.0.0",
+  "category": "rings_circles",
+  "subcategory": "disks",
+  "description": "Disks.",
+  "asset_count": 9,
+  "assets": [
+    {
+      "id": "17116649003",
+      "uri": "rbxassetid://17116649003",
+      "name": "Colourful Disk Overlay Circle",
+      "category": "rings_circles",
+      "subcategory": "disks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Colourful Disk Overlay Circle"
+          ],
+          "name": "Colourful Disk Overlay Circle",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17116649003"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Colourful Disk Overlay Circle'.",
+      "slug": "colourful_disk_overlay_circle",
+      "tags": [
+        "disks",
+        "flipbook",
+        "radial",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "125462816766133",
+      "uri": "rbxassetid://125462816766133",
+      "name": "Detailed Abstract Circle Filled",
+      "category": "rings_circles",
+      "subcategory": "disks",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Detailed Abstract Circle Filled"
+          ],
+          "name": "Detailed Abstract Circle Filled",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://125462816766133"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Detailed Abstract Circle Filled'.",
+      "slug": "detailed_abstract_circle_filled",
+      "tags": [
+        "disks",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "131954827538984",
+      "uri": "rbxassetid://131954827538984",
+      "name": "Disconnected Circle",
+      "category": "rings_circles",
+      "subcategory": "disks",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Disconnected Circle"
+          ],
+          "name": "Disconnected Circle",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://131954827538984"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Disconnected Circle'.",
+      "slug": "disconnected_circle",
+      "tags": [
+        "disks",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12403114323",
+      "uri": "rbxassetid://12403114323",
+      "name": "Filled Star Circle 2",
+      "category": "rings_circles",
+      "subcategory": "disks",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Filled Star Circle 2"
+          ],
+          "name": "Filled Star Circle 2",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12403114323"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Filled Star Circle 2'.",
+      "slug": "filled_star_circle_2",
+      "tags": [
+        "disks",
+        "radial",
+        "rings_circles",
+        "star",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18746917664",
+      "uri": "rbxassetid://18746917664",
+      "name": "Filled Text Circle",
+      "category": "rings_circles",
+      "subcategory": "disks",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Filled Text Circle"
+          ],
+          "name": "Filled Text Circle",
+          "type": "Static",
+          "resolution_raw": "500",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18746917664"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 500,
+        "height": 500,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Filled Text Circle'.",
+      "slug": "filled_text_circle",
+      "tags": [
+        "disks",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17517670087",
+      "uri": "rbxassetid://17517670087",
+      "name": "Rotating Disk Circle",
+      "category": "rings_circles",
+      "subcategory": "disks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Rotating Disk Circle"
+          ],
+          "name": "Rotating Disk Circle",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17517670087"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Rotating Disk Circle'.",
+      "slug": "rotating_disk_circle",
+      "tags": [
+        "disks",
+        "flipbook",
+        "radial",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17517654542",
+      "uri": "rbxassetid://17517654542",
+      "name": "Rotating Disk Ripple",
+      "category": "rings_circles",
+      "subcategory": "disks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Rotating Disk Ripple"
+          ],
+          "name": "Rotating Disk Ripple",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17517654542"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Rotating Disk Ripple'.",
+      "slug": "rotating_disk_ripple",
+      "tags": [
+        "disks",
+        "flipbook",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17517657351",
+      "uri": "rbxassetid://17517657351",
+      "name": "Spinning Disk",
+      "category": "rings_circles",
+      "subcategory": "disks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Spinning Disk"
+          ],
+          "name": "Spinning Disk",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17517657351"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Spinning Disk'.",
+      "slug": "spinning_disk",
+      "tags": [
+        "disks",
+        "flipbook",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17517672182",
+      "uri": "rbxassetid://17517672182",
+      "name": "Spinning Disk X",
+      "category": "rings_circles",
+      "subcategory": "disks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Spinning Disk X"
+          ],
+          "name": "Spinning Disk X",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17517672182"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Spinning Disk X'.",
+      "slug": "spinning_disk_x",
+      "tags": [
+        "disks",
+        "flipbook",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

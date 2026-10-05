@@ -1,0 +1,735 @@
+{
+  "schema_version": "1.0.0",
+  "category": "specks_debris",
+  "subcategory": "glass_shards",
+  "description": "Glass shards.",
+  "asset_count": 11,
+  "assets": [
+    {
+      "id": "12656891791",
+      "uri": "rbxassetid://12656891791",
+      "name": "Chromatic Shards",
+      "category": "specks_debris",
+      "subcategory": "glass_shards",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Chromatic Shards"
+          ],
+          "name": "Chromatic Shards",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12656891791"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Chromatic Shards'.",
+      "slug": "chromatic_shards",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "glass_shards",
+        "sharp",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12401154143",
+      "uri": "rbxassetid://12401154143",
+      "name": "Chromatic Shards 2",
+      "category": "specks_debris",
+      "subcategory": "glass_shards",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Chromatic Shards 2"
+          ],
+          "name": "Chromatic Shards 2",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12401154143"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Chromatic Shards 2'.",
+      "slug": "chromatic_shards_2",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "glass_shards",
+        "sharp",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "97972542441828",
+      "uri": "rbxassetid://97972542441828",
+      "name": "flash_arcaneShard_03_blend - Copy",
+      "category": "specks_debris",
+      "subcategory": "glass_shards",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "flash_arcaneShard_03_blend - Copy"
+          ],
+          "name": "flash_arcaneShard_03_blend - Copy",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://97972542441828"
+        },
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Effect",
+            "Jar_Of_Souls_Noise"
+          ],
+          "name": "Jar_Of_Souls_Noise",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://97972542441828"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'flash_arcaneShard_03_blend - Copy'.",
+      "slug": "flash_arcaneshard_03_blend_copy",
+      "tags": [
+        "glass_shards",
+        "sharp",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15831917569",
+      "uri": "rbxassetid://15831917569",
+      "name": "Glass Shard Spec",
+      "category": "specks_debris",
+      "subcategory": "glass_shards",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Glass Shard Spec"
+          ],
+          "name": "Glass Shard Spec",
+          "type": "2x2",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15831917569"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Glass Shard Spec'.",
+      "slug": "glass_shard_spec",
+      "tags": [
+        "flipbook",
+        "glass_shards",
+        "sharp",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12800353914",
+      "uri": "rbxassetid://12800353914",
+      "name": "Rightsided Shards",
+      "category": "specks_debris",
+      "subcategory": "glass_shards",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Rightsided Shards"
+          ],
+          "name": "Rightsided Shards",
+          "type": "2x2",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12800353914"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Rightsided Shards'.",
+      "slug": "rightsided_shards",
+      "tags": [
+        "flipbook",
+        "glass_shards",
+        "sharp",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "92983879312424",
+      "uri": "rbxassetid://92983879312424",
+      "name": "Shard",
+      "category": "specks_debris",
+      "subcategory": "glass_shards",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Shard"
+          ],
+          "name": "Shard",
+          "type": "Static",
+          "resolution_raw": "3300",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://92983879312424"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 3300,
+        "height": 3300,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Shard'.",
+      "slug": "shard",
+      "tags": [
+        "glass_shards",
+        "sharp",
+        "specks_debris",
+        "static"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17842430380",
+      "uri": "rbxassetid://17842430380",
+      "name": "Shards 2x2 2",
+      "category": "specks_debris",
+      "subcategory": "glass_shards",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Shards 2x2 2"
+          ],
+          "name": "Shards 2x2 2",
+          "type": "2x2",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17842430380"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Shards 2x2 2'.",
+      "slug": "shards_2x2_2",
+      "tags": [
+        "flipbook",
+        "glass_shards",
+        "sharp",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13463784319",
+      "uri": "rbxassetid://13463784319",
+      "name": "Spinning 3D Triangle Shard",
+      "category": "specks_debris",
+      "subcategory": "glass_shards",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Spinning 3D Triangle Shard"
+          ],
+          "name": "Spinning 3D Triangle Shard",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13463784319"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Spinning 3D Triangle Shard'.",
+      "slug": "spinning_3d_triangle_shard",
+      "tags": [
+        "flipbook",
+        "glass_shards",
+        "sharp",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16924875355",
+      "uri": "rbxassetid://16924875355",
+      "name": "Spinning Shard 2",
+      "category": "specks_debris",
+      "subcategory": "glass_shards",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Spinning Shard 2"
+          ],
+          "name": "Spinning Shard 2",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16924875355"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Spinning Shard 2'.",
+      "slug": "spinning_shard_2",
+      "tags": [
+        "flipbook",
+        "glass_shards",
+        "sharp",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17096211053",
+      "uri": "rbxassetid://17096211053",
+      "name": "Spinning Triangle Shard Spec",
+      "category": "specks_debris",
+      "subcategory": "glass_shards",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Spinning Triangle Shard Spec"
+          ],
+          "name": "Spinning Triangle Shard Spec",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17096211053"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Spinning Triangle Shard Spec'.",
+      "slug": "spinning_triangle_shard_spec",
+      "tags": [
+        "flipbook",
+        "glass_shards",
+        "sharp",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16015157826",
+      "uri": "rbxassetid://16015157826",
+      "name": "Strange Overlay Shards",
+      "category": "specks_debris",
+      "subcategory": "glass_shards",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Strange Overlay Shards"
+          ],
+          "name": "Strange Overlay Shards",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16015157826"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Strange Overlay Shards'.",
+      "slug": "strange_overlay_shards",
+      "tags": [
+        "flipbook",
+        "glass_shards",
+        "sharp",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

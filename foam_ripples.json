@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "category": "water",
+  "subcategory": "foam_ripples",
+  "description": "Foam ripples.",
+  "asset_count": 4,
+  "assets": [
+    {
+      "id": "16811365086",
+      "uri": "rbxassetid://16811365086",
+      "name": "Foam ripple",
+      "category": "water",
+      "subcategory": "foam_ripples",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_waterfalls"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "official_documentation",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Foam ripple texture for surface water.",
+      "slug": "foam_ripple",
+      "tags": [
+        "foam_ripples",
+        "static",
+        "water"
+      ],
+      "suggested_uses": [
+        "liquid splashes",
+        "water spray",
+        "surface ripples"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "126178873329014",
+      "uri": "rbxassetid://126178873329014",
+      "name": "Water Surface Ripple",
+      "category": "water",
+      "subcategory": "foam_ripples",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Water",
+            "Water Surface Ripple"
+          ],
+          "name": "Water Surface Ripple",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://126178873329014"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Water Surface Ripple'.",
+      "slug": "water_surface_ripple",
+      "tags": [
+        "flipbook",
+        "foam_ripples",
+        "water"
+      ],
+      "suggested_uses": [
+        "liquid splashes",
+        "water spray",
+        "surface ripples"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "90967051533696",
+      "uri": "rbxassetid://90967051533696",
+      "name": "Water Surface Ripple 2",
+      "category": "water",
+      "subcategory": "foam_ripples",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Water",
+            "Water Surface Ripple 2"
+          ],
+          "name": "Water Surface Ripple 2",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://90967051533696"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Water Surface Ripple 2'.",
+      "slug": "water_surface_ripple_2",
+      "tags": [
+        "flipbook",
+        "foam_ripples",
+        "water"
+      ],
+      "suggested_uses": [
+        "liquid splashes",
+        "water spray",
+        "surface ripples"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16869292205",
+      "uri": "rbxassetid://16869292205",
+      "name": "Water_Ripple",
+      "category": "water",
+      "subcategory": "foam_ripples",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Water",
+            "Water_Ripple"
+          ],
+          "name": "Water_Ripple",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "ravvi00",
+          "uri_raw": "rbxassetid://16869292205"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Water_Ripple'.",
+      "slug": "water_ripple",
+      "tags": [
+        "flipbook",
+        "foam_ripples",
+        "water"
+      ],
+      "suggested_uses": [
+        "liquid splashes",
+        "water spray",
+        "surface ripples"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

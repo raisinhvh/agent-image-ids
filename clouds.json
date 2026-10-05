@@ -1,0 +1,491 @@
+{
+  "schema_version": "1.0.0",
+  "category": "smoke_clouds",
+  "subcategory": "clouds",
+  "description": "Clouds.",
+  "asset_count": 8,
+  "assets": [
+    {
+      "id": "1012159668",
+      "uri": "rbxassetid://1012159668",
+      "name": "Cloud Particle",
+      "category": "smoke_clouds",
+      "subcategory": "clouds",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 213,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Cloud Particle",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 14789665,
+          "Name": "itsGr4yscale",
+          "CreatorType": "User",
+          "CreatorTargetId": 14789665,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/1012159668/details"
+      },
+      "description": "Static texture cataloged as 'Cloud Particle'.",
+      "slug": "cloud_particle",
+      "tags": [
+        "clouds",
+        "smoke",
+        "smoke_clouds",
+        "static"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "94705242050106",
+      "uri": "rbxassetid://94705242050106",
+      "name": "Cloud1",
+      "category": "smoke_clouds",
+      "subcategory": "clouds",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Cloud1"
+          ],
+          "name": "Cloud1",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://94705242050106"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Cloud1'.",
+      "slug": "cloud1",
+      "tags": [
+        "clouds",
+        "smoke",
+        "smoke_clouds",
+        "static"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10762392932",
+      "uri": "rbxassetid://10762392932",
+      "name": "Explosion Cloud",
+      "category": "smoke_clouds",
+      "subcategory": "clouds",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Explosion Cloud"
+          ],
+          "name": "Explosion Cloud",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10762392932"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Explosion Cloud'.",
+      "slug": "explosion_cloud",
+      "tags": [
+        "clouds",
+        "flipbook",
+        "smoke",
+        "smoke_clouds"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10714362544",
+      "uri": "rbxassetid://10714362544",
+      "name": "Foreground cloud",
+      "category": "smoke_clouds",
+      "subcategory": "clouds",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_clouds"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "official_documentation",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Cloud texture for drifting foreground layers.",
+      "slug": "foreground_cloud",
+      "tags": [
+        "clouds",
+        "smoke",
+        "smoke_clouds",
+        "static"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "10714433747",
+      "uri": "rbxassetid://10714433747",
+      "name": "Foreground cloud variant",
+      "category": "smoke_clouds",
+      "subcategory": "clouds",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_clouds"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "official_documentation",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Second cloud texture used to add depth.",
+      "slug": "foreground_cloud_variant",
+      "tags": [
+        "clouds",
+        "smoke",
+        "smoke_clouds",
+        "static"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "89990493168069",
+      "uri": "rbxassetid://89990493168069",
+      "name": "irregularcloud1",
+      "category": "smoke_clouds",
+      "subcategory": "clouds",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "irregularcloud1"
+          ],
+          "name": "irregularcloud1",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://89990493168069"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'irregularcloud1'.",
+      "slug": "irregularcloud1",
+      "tags": [
+        "clouds",
+        "smoke",
+        "smoke_clouds",
+        "static"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10762108198",
+      "uri": "rbxassetid://10762108198",
+      "name": "Nuclear Cloud",
+      "category": "smoke_clouds",
+      "subcategory": "clouds",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Nuclear Cloud"
+          ],
+          "name": "Nuclear Cloud",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10762108198"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Nuclear Cloud'.",
+      "slug": "nuclear_cloud",
+      "tags": [
+        "clouds",
+        "flipbook",
+        "smoke",
+        "smoke_clouds"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16867377762",
+      "uri": "rbxassetid://16867377762",
+      "name": "Stylized Smoke40 cloud ",
+      "category": "smoke_clouds",
+      "subcategory": "clouds",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Stylized Smoke40 cloud "
+          ],
+          "name": "Stylized Smoke40 cloud ",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16867377762"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized Smoke40 cloud '.",
+      "slug": "stylized_smoke40_cloud",
+      "tags": [
+        "clouds",
+        "flipbook",
+        "smoke",
+        "smoke_clouds"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

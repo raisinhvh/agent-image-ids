@@ -1,0 +1,182 @@
+{
+  "schema_version": "1.0.0",
+  "category": "fire",
+  "subcategory": "embers_sparks",
+  "description": "Embers sparks.",
+  "asset_count": 3,
+  "assets": [
+    {
+      "id": "17581858560",
+      "uri": "rbxassetid://17581858560",
+      "name": "Elongated ember",
+      "category": "fire",
+      "subcategory": "embers_sparks",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_volcanoes"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "official_documentation",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Elongated ember texture with baked motion blur.",
+      "slug": "elongated_ember",
+      "tags": [
+        "embers_sparks",
+        "fire",
+        "static"
+      ],
+      "suggested_uses": [
+        "fire accents",
+        "embers",
+        "combustion effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "138928814236581",
+      "uri": "rbxassetid://138928814236581",
+      "name": "ember_",
+      "category": "fire",
+      "subcategory": "embers_sparks",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "rocca108",
+            "ember_"
+          ],
+          "name": "ember_",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://138928814236581"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'ember_'.",
+      "slug": "ember",
+      "tags": [
+        "embers_sparks",
+        "fire",
+        "static"
+      ],
+      "suggested_uses": [
+        "fire accents",
+        "embers",
+        "combustion effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "110270707713024",
+      "uri": "rbxassetid://110270707713024",
+      "name": "Firework Sparks",
+      "category": "fire",
+      "subcategory": "embers_sparks",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Firework Sparks"
+          ],
+          "name": "Firework Sparks",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://110270707713024"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Firework Sparks'.",
+      "slug": "firework_sparks",
+      "tags": [
+        "embers_sparks",
+        "fire",
+        "flipbook"
+      ],
+      "suggested_uses": [
+        "fire accents",
+        "embers",
+        "combustion effects"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

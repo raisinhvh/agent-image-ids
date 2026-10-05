@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0.0",
+  "category": "slashes",
+  "subcategory": "claws",
+  "description": "Claws.",
+  "asset_count": 4,
+  "assets": [
+    {
+      "id": "115137443384625",
+      "uri": "rbxassetid://115137443384625",
+      "name": "Black n White Scratches",
+      "category": "slashes",
+      "subcategory": "claws",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Black n White Scratches"
+          ],
+          "name": "Black n White Scratches",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://115137443384625"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Black n White Scratches'.",
+      "slug": "black_n_white_scratches",
+      "tags": [
+        "claws",
+        "flipbook",
+        "slashes"
+      ],
+      "suggested_uses": [
+        "sword swings",
+        "claw attacks",
+        "curved attack accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7216852545",
+      "uri": "rbxassetid://7216852545",
+      "name": "Claw",
+      "category": "slashes",
+      "subcategory": "claws",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Claw"
+          ],
+          "name": "Claw",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://7216852545"
+        },
+        {
+          "source_id": "texture_share",
+          "line": 105,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Claw'.",
+      "slug": "claw",
+      "tags": [
+        "claws",
+        "slash",
+        "slashes",
+        "static"
+      ],
+      "suggested_uses": [
+        "sword swings",
+        "claw attacks",
+        "curved attack accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "5857892405",
+      "uri": "rbxassetid://5857892405",
+      "name": "Claw mark",
+      "category": "slashes",
+      "subcategory": "claws",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_starter"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Claw-mark icon.",
+      "slug": "claw_mark",
+      "tags": [
+        "claws",
+        "slash",
+        "slashes",
+        "static"
+      ],
+      "suggested_uses": [
+        "sword swings",
+        "claw attacks",
+        "curved attack accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "71152974359183",
+      "uri": "rbxassetid://71152974359183",
+      "name": "Scratchy",
+      "category": "slashes",
+      "subcategory": "claws",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Scratchy"
+          ],
+          "name": "Scratchy",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://71152974359183"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Scratchy'.",
+      "slug": "scratchy",
+      "tags": [
+        "claws",
+        "flipbook",
+        "slashes"
+      ],
+      "suggested_uses": [
+        "sword swings",
+        "claw attacks",
+        "curved attack accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

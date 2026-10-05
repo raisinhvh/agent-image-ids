@@ -1,0 +1,1770 @@
+{
+  "schema_version": "1.0.0",
+  "category": "rings_circles",
+  "subcategory": "rings",
+  "description": "Rings.",
+  "asset_count": 28,
+  "assets": [
+    {
+      "id": "12403135098",
+      "uri": "rbxassetid://12403135098",
+      "name": "Black Pointed Ring",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Black Pointed Ring"
+          ],
+          "name": "Black Pointed Ring",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12403135098"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Black Pointed Ring'.",
+      "slug": "black_pointed_ring",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "93664782251648",
+      "uri": "rbxassetid://93664782251648",
+      "name": "Circle outlines",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Circle outlines"
+          ],
+          "name": "Circle outlines",
+          "type": "2x2",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://93664782251648"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Circle outlines'.",
+      "slug": "circle_outlines",
+      "tags": [
+        "flipbook",
+        "radial",
+        "rings",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "99902889120231",
+      "uri": "rbxassetid://99902889120231",
+      "name": "Clock Ring",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Clock Ring"
+          ],
+          "name": "Clock Ring",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://99902889120231"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Clock Ring'.",
+      "slug": "clock_ring",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7250560778",
+      "uri": "rbxassetid://7250560778",
+      "name": "Concrete Debris (Why are you mods censoring?)",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 10,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Concrete Debris (Why are you mods censoring?)",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 340517483,
+          "Name": "andrewlloid",
+          "CreatorType": "User",
+          "CreatorTargetId": 340517483,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/7250560778/details"
+      },
+      "description": "Static texture cataloged as 'Concrete Debris (Why are you mods censoring?)'.",
+      "slug": "concrete_debris_why_are_you_mods_censoring",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "9470659899",
+      "uri": "rbxassetid://9470659899",
+      "name": "Cursed Energy Flickering",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Cursed Energy Flickering"
+          ],
+          "name": "Cursed Energy Flickering",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://9470659899"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Cursed Energy Flickering'.",
+      "slug": "cursed_energy_flickering",
+      "tags": [
+        "flipbook",
+        "radial",
+        "rings",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "131702476953975",
+      "uri": "rbxassetid://131702476953975",
+      "name": "Empty Circle",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Empty Circle"
+          ],
+          "name": "Empty Circle",
+          "type": "Static",
+          "resolution_raw": "500",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://131702476953975"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 500,
+        "height": 500,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Empty Circle'.",
+      "slug": "empty_circle",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7150932717",
+      "uri": "rbxassetid://7150932717",
+      "name": "energy ring particle 3",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 225,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "energy ring particle 3",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 24260908,
+          "Name": "Ninja215215",
+          "CreatorType": "User",
+          "CreatorTargetId": 24260908,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/7150932717/details"
+      },
+      "description": "Static texture cataloged as 'energy ring particle 3'.",
+      "slug": "energy_ring_particle_3",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "7150933366",
+      "uri": "rbxassetid://7150933366",
+      "name": "energy ring particle 4",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 226,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "energy ring particle 4",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 24260908,
+          "Name": "Ninja215215",
+          "CreatorType": "User",
+          "CreatorTargetId": 24260908,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/7150933366/details"
+      },
+      "description": "Static texture cataloged as 'energy ring particle 4'.",
+      "slug": "energy_ring_particle_4",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14221329252",
+      "uri": "rbxassetid://14221329252",
+      "name": "Glowing Symbol Outline",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Glowing Symbol Outline"
+          ],
+          "name": "Glowing Symbol Outline",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14221329252"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Glowing Symbol Outline'.",
+      "slug": "glowing_symbol_outline",
+      "tags": [
+        "glow",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "6707322206",
+      "uri": "rbxassetid://6707322206",
+      "name": "Images/fadering",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 92,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Images/fadering",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 161842666,
+          "Name": "Emi1o",
+          "CreatorType": "User",
+          "CreatorTargetId": 161842666,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/6707322206/details"
+      },
+      "description": "Static texture cataloged as 'Images/fadering'.",
+      "slug": "images_fadering",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "75580942146606",
+      "uri": "rbxassetid://75580942146606",
+      "name": "jjkrings",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "jjkrings"
+          ],
+          "name": "jjkrings",
+          "type": "Static",
+          "resolution_raw": "601",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://75580942146606"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 601,
+        "height": 601,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'jjkrings'.",
+      "slug": "jjkrings",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12362738407",
+      "uri": "rbxassetid://12362738407",
+      "name": "Long Line Outline",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Long Line Outline"
+          ],
+          "name": "Long Line Outline",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12362738407"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Long Line Outline'.",
+      "slug": "long_line_outline",
+      "tags": [
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "83109627968100",
+      "uri": "rbxassetid://83109627968100",
+      "name": "Moving Outline",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Moving Outline"
+          ],
+          "name": "Moving Outline",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://83109627968100"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Moving Outline'.",
+      "slug": "moving_outline",
+      "tags": [
+        "flipbook",
+        "rings",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "107563407849922",
+      "uri": "rbxassetid://107563407849922",
+      "name": "Onesided Outline",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Onesided Outline"
+          ],
+          "name": "Onesided Outline",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://107563407849922"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Onesided Outline'.",
+      "slug": "onesided_outline",
+      "tags": [
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "111047838522006",
+      "uri": "rbxassetid://111047838522006",
+      "name": "Outline Gaps",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Outline Gaps"
+          ],
+          "name": "Outline Gaps",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://111047838522006"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Outline Gaps'.",
+      "slug": "outline_gaps",
+      "tags": [
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13793976664",
+      "uri": "rbxassetid://13793976664",
+      "name": "Outlined ripple 14",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Outlined ripple 14"
+          ],
+          "name": "Outlined ripple 14",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13793976664"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Outlined ripple 14'.",
+      "slug": "outlined_ripple_14",
+      "tags": [
+        "flipbook",
+        "rings",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "88178258223047",
+      "uri": "rbxassetid://88178258223047",
+      "name": "Ring_Noise_000",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_Noise_000"
+          ],
+          "name": "Ring_Noise_000",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://88178258223047"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_Noise_000'.",
+      "slug": "ring_noise_000",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "126840657698227",
+      "uri": "rbxassetid://126840657698227",
+      "name": "Ring_Rad_000",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_Rad_000"
+          ],
+          "name": "Ring_Rad_000",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://126840657698227"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_Rad_000'.",
+      "slug": "ring_rad_000",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "75218238232479",
+      "uri": "rbxassetid://75218238232479",
+      "name": "Ring_Sharp_000",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_Sharp_000"
+          ],
+          "name": "Ring_Sharp_000",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://75218238232479"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_Sharp_000'.",
+      "slug": "ring_sharp_000",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "sharp",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "113339280462714",
+      "uri": "rbxassetid://113339280462714",
+      "name": "Ring_SharpBlur_000",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_SharpBlur_000"
+          ],
+          "name": "Ring_SharpBlur_000",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://113339280462714"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_SharpBlur_000'.",
+      "slug": "ring_sharpblur_000",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "sharp",
+        "soft",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "98458494449735",
+      "uri": "rbxassetid://98458494449735",
+      "name": "Ring_Thick_001",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_Thick_001"
+          ],
+          "name": "Ring_Thick_001",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://98458494449735"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_Thick_001'.",
+      "slug": "ring_thick_001",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "131691584677887",
+      "uri": "rbxassetid://131691584677887",
+      "name": "Ring_Twiri_000",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_Twiri_000"
+          ],
+          "name": "Ring_Twiri_000",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://131691584677887"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_Twiri_000'.",
+      "slug": "ring_twiri_000",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "95535846489996",
+      "uri": "rbxassetid://95535846489996",
+      "name": "Ring_Twiri_001",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Ring_Twiri_001"
+          ],
+          "name": "Ring_Twiri_001",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://95535846489996"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ring_Twiri_001'.",
+      "slug": "ring_twiri_001",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "73349933010612",
+      "uri": "rbxassetid://73349933010612",
+      "name": "RingQ000_Tex",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "RingQ000_Tex"
+          ],
+          "name": "RingQ000_Tex",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://73349933010612"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'RingQ000_Tex'.",
+      "slug": "ringq000_tex",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "136756889473734",
+      "uri": "rbxassetid://136756889473734",
+      "name": "Simple Layered Outline",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Simple Layered Outline"
+          ],
+          "name": "Simple Layered Outline",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://136756889473734"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Simple Layered Outline'.",
+      "slug": "simple_layered_outline",
+      "tags": [
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "119187610315484",
+      "uri": "rbxassetid://119187610315484",
+      "name": "Thin Dotted Outline 3",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Thin Dotted Outline 3"
+          ],
+          "name": "Thin Dotted Outline 3",
+          "type": "Static",
+          "resolution_raw": "516",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://119187610315484"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 516,
+        "height": 516,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Thin Dotted Outline 3'.",
+      "slug": "thin_dotted_outline_3",
+      "tags": [
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11902268345",
+      "uri": "rbxassetid://11902268345",
+      "name": "Thin Star Outline",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Thin Star Outline"
+          ],
+          "name": "Thin Star Outline",
+          "type": "Static",
+          "resolution_raw": "601",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11902268345"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 601,
+        "height": 601,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Thin Star Outline'.",
+      "slug": "thin_star_outline",
+      "tags": [
+        "rings",
+        "rings_circles",
+        "star",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "1266170131",
+      "uri": "rbxassetid://1266170131",
+      "name": "White ring",
+      "category": "rings_circles",
+      "subcategory": "rings",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_api"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "official_documentation",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Transparent white ring.",
+      "slug": "white_ring",
+      "tags": [
+        "radial",
+        "rings",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    }
+  ]
+}

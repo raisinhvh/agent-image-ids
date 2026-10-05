@@ -1,0 +1,1311 @@
+{
+  "schema_version": "1.0.0",
+  "category": "impacts_explosions",
+  "subcategory": "shockwaves",
+  "description": "Shockwaves.",
+  "asset_count": 20,
+  "assets": [
+    {
+      "id": "13795988483",
+      "uri": "rbxassetid://13795988483",
+      "name": "Breaking Returning AOE",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Breaking Returning AOE"
+          ],
+          "name": "Breaking Returning AOE",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13795988483"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Breaking Returning AOE'.",
+      "slug": "breaking_returning_aoe",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13580371343",
+      "uri": "rbxassetid://13580371343",
+      "name": "Chromatic Mirrored Shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Chromatic Mirrored Shockwave"
+          ],
+          "name": "Chromatic Mirrored Shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13580371343"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Chromatic Mirrored Shockwave'.",
+      "slug": "chromatic_mirrored_shockwave",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127341143600263",
+      "uri": "rbxassetid://127341143600263",
+      "name": "Fading Shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Fading Shockwave"
+          ],
+          "name": "Fading Shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127341143600263"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Fading Shockwave'.",
+      "slug": "fading_shockwave",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12844593455",
+      "uri": "rbxassetid://12844593455",
+      "name": "Flipbook Energy Shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Flipbook Energy Shockwave"
+          ],
+          "name": "Flipbook Energy Shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12844593455"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Flipbook Energy Shockwave'.",
+      "slug": "flipbook_energy_shockwave",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15433074325",
+      "uri": "rbxassetid://15433074325",
+      "name": "Fractured Shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Fractured Shockwave"
+          ],
+          "name": "Fractured Shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15433074325"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Fractured Shockwave'.",
+      "slug": "fractured_shockwave",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14953093603",
+      "uri": "rbxassetid://14953093603",
+      "name": "Galaxy Burst Shockwave553543",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Galaxy Burst Shockwave553543"
+          ],
+          "name": "Galaxy Burst Shockwave553543",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14953093603"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Galaxy Burst Shockwave553543'.",
+      "slug": "galaxy_burst_shockwave553543",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11866455263",
+      "uri": "rbxassetid://11866455263",
+      "name": "Grainy Bright Shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Grainy Bright Shockwave"
+          ],
+          "name": "Grainy Bright Shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11866455263"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Grainy Bright Shockwave'.",
+      "slug": "grainy_bright_shockwave",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14480839965",
+      "uri": "rbxassetid://14480839965",
+      "name": "High shadow shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "High shadow shockwave"
+          ],
+          "name": "High shadow shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14480839965"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'High shadow shockwave'.",
+      "slug": "high_shadow_shockwave",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13392259542",
+      "uri": "rbxassetid://13392259542",
+      "name": "Looping LE Shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Looping LE Shockwave"
+          ],
+          "name": "Looping LE Shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13392259542"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Looping LE Shockwave'.",
+      "slug": "looping_le_shockwave",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "89925372009251",
+      "uri": "rbxassetid://89925372009251",
+      "name": "Mirrored Painted Shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Mirrored Painted Shockwave"
+          ],
+          "name": "Mirrored Painted Shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://89925372009251"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Mirrored Painted Shockwave'.",
+      "slug": "mirrored_painted_shockwave",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17000896359",
+      "uri": "rbxassetid://17000896359",
+      "name": "Mirrored Shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Mirrored Shockwave"
+          ],
+          "name": "Mirrored Shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17000896359"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Mirrored Shockwave'.",
+      "slug": "mirrored_shockwave",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13580367777",
+      "uri": "rbxassetid://13580367777",
+      "name": "No LE Energy AOE",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "No LE Energy AOE"
+          ],
+          "name": "No LE Energy AOE",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13580367777"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'No LE Energy AOE'.",
+      "slug": "no_le_energy_aoe",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11895782540",
+      "uri": "rbxassetid://11895782540",
+      "name": "Realistic Energy AOE LE",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Realistic Energy AOE LE"
+          ],
+          "name": "Realistic Energy AOE LE",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11895782540"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Realistic Energy AOE LE'.",
+      "slug": "realistic_energy_aoe_le",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "130988588879110",
+      "uri": "rbxassetid://130988588879110",
+      "name": "Shockwave 34343",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Shockwave 34343"
+          ],
+          "name": "Shockwave 34343",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://130988588879110"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Shockwave 34343'.",
+      "slug": "shockwave_34343",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17511047347",
+      "uri": "rbxassetid://17511047347",
+      "name": "Shockwave twice",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Shockwave twice"
+          ],
+          "name": "Shockwave twice",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17511047347"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Shockwave twice'.",
+      "slug": "shockwave_twice",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13580358178",
+      "uri": "rbxassetid://13580358178",
+      "name": "Star shaped shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Star shaped shockwave"
+          ],
+          "name": "Star shaped shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13580358178"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Star shaped shockwave'.",
+      "slug": "star_shaped_shockwave",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves",
+        "star"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12906276200",
+      "uri": "rbxassetid://12906276200",
+      "name": "Thin realistic shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Thin realistic shockwave"
+          ],
+          "name": "Thin realistic shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12906276200"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Thin realistic shockwave'.",
+      "slug": "thin_realistic_shockwave",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13795445083",
+      "uri": "rbxassetid://13795445083",
+      "name": "Web Shockwave 2",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Web Shockwave 2"
+          ],
+          "name": "Web Shockwave 2",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13795445083"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Web Shockwave 2'.",
+      "slug": "web_shockwave_2",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12360899465",
+      "uri": "rbxassetid://12360899465",
+      "name": "Wiggling energy shockwave 2",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Wiggling energy shockwave 2"
+          ],
+          "name": "Wiggling energy shockwave 2",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12360899465"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Wiggling energy shockwave 2'.",
+      "slug": "wiggling_energy_shockwave_2",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13712002536",
+      "uri": "rbxassetid://13712002536",
+      "name": "Wiggling fading energy shockwave",
+      "category": "impacts_explosions",
+      "subcategory": "shockwaves",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Wiggling fading energy shockwave"
+          ],
+          "name": "Wiggling fading energy shockwave",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13712002536"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Wiggling fading energy shockwave'.",
+      "slug": "wiggling_fading_energy_shockwave",
+      "tags": [
+        "flipbook",
+        "impacts_explosions",
+        "radial",
+        "shockwaves"
+      ],
+      "suggested_uses": [
+        "hit effects",
+        "explosions",
+        "burst accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

@@ -1,0 +1,2632 @@
+{
+  "schema_version": "1.0.0",
+  "category": "rings_circles",
+  "subcategory": "portals",
+  "description": "Portals.",
+  "asset_count": 41,
+  "assets": [
+    {
+      "id": "564938805",
+      "uri": "rbxassetid://564938805",
+      "name": "Anti-Magic Circle",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 230,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Anti-Magic Circle",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 2753173,
+          "Name": "Bluedragon463",
+          "CreatorType": "User",
+          "CreatorTargetId": 2753173,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/564938805/details"
+      },
+      "description": "Static texture cataloged as 'Anti-Magic Circle'.",
+      "slug": "anti_magic_circle",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16446611978",
+      "uri": "rbxassetid://16446611978",
+      "name": "Basic Magic Circle",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Basic Magic Circle"
+          ],
+          "name": "Basic Magic Circle",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16446611978"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Basic Magic Circle'.",
+      "slug": "basic_magic_circle",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14197236586",
+      "uri": "rbxassetid://14197236586",
+      "name": "Bright Magic Circle",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Bright Magic Circle"
+          ],
+          "name": "Bright Magic Circle",
+          "type": "Static",
+          "resolution_raw": "270",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14197236586"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 270,
+        "height": 270,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Bright Magic Circle'.",
+      "slug": "bright_magic_circle",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10762069832",
+      "uri": "rbxassetid://10762069832",
+      "name": "Coloured Portal",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Coloured Portal"
+          ],
+          "name": "Coloured Portal",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10762069832"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Coloured Portal'.",
+      "slug": "coloured_portal",
+      "tags": [
+        "chromatic",
+        "flipbook",
+        "portals",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "81400439625843",
+      "uri": "rbxassetid://81400439625843",
+      "name": "Faded Detailed Magic Circle 03",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Faded Detailed Magic Circle 03"
+          ],
+          "name": "Faded Detailed Magic Circle 03",
+          "type": "Static",
+          "resolution_raw": "860",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://81400439625843"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 860,
+        "height": 860,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Faded Detailed Magic Circle 03'.",
+      "slug": "faded_detailed_magic_circle_03",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "soft",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "11902401640",
+      "uri": "rbxassetid://11902401640",
+      "name": "Faded Filled Magic Circle",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Faded Filled Magic Circle"
+          ],
+          "name": "Faded Filled Magic Circle",
+          "type": "Static",
+          "resolution_raw": "347",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://11902401640"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 347,
+        "height": 347,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Faded Filled Magic Circle'.",
+      "slug": "faded_filled_magic_circle",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "soft",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "18355741830",
+      "uri": "rbxassetid://18355741830",
+      "name": "Fading magic circle 3",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Fading magic circle 3"
+          ],
+          "name": "Fading magic circle 3",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://18355741830"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Fading magic circle 3'.",
+      "slug": "fading_magic_circle_3",
+      "tags": [
+        "flipbook",
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14197211075",
+      "uri": "rbxassetid://14197211075",
+      "name": "Filled Magic Circle 15",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Filled Magic Circle 15"
+          ],
+          "name": "Filled Magic Circle 15",
+          "type": "Static",
+          "resolution_raw": "658",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14197211075"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 658,
+        "height": 658,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Filled Magic Circle 15'.",
+      "slug": "filled_magic_circle_15",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "5857851812",
+      "uri": "rbxassetid://5857851812",
+      "name": "Hypno ring",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "roblox_starter"
+        },
+        {
+          "source_id": "community_icons"
+        }
+      ],
+      "verification": {
+        "id_basis": "official_documentation",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "community_label",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "description": "Ring icon labeled hypno ring by the community.",
+      "slug": "hypno_ring",
+      "tags": [
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "documented_id"
+    },
+    {
+      "id": "10547506060",
+      "uri": "rbxassetid://10547506060",
+      "name": "Magic Circle",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Magic Circle"
+          ],
+          "name": "Magic Circle",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10547506060"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Magic Circle'.",
+      "slug": "magic_circle",
+      "tags": [
+        "flipbook",
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16511904372",
+      "uri": "rbxassetid://16511904372",
+      "name": "Magic Circle",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Magic Circle"
+          ],
+          "name": "Magic Circle",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16511904372"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Magic Circle'.",
+      "slug": "magic_circle",
+      "tags": [
+        "flipbook",
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12389946314",
+      "uri": "rbxassetid://12389946314",
+      "name": "Magic Circle Symbol Glow",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Magic Circle Symbol Glow"
+          ],
+          "name": "Magic Circle Symbol Glow",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12389946314"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Magic Circle Symbol Glow'.",
+      "slug": "magic_circle_symbol_glow",
+      "tags": [
+        "glow",
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "118558273816607",
+      "uri": "rbxassetid://118558273816607",
+      "name": "Magic Circle12 noring",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Magic Circle12 noring"
+          ],
+          "name": "Magic Circle12 noring",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://118558273816607"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Magic Circle12 noring'.",
+      "slug": "magic_circle12_noring",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "93425112299725",
+      "uri": "rbxassetid://93425112299725",
+      "name": "Magic Overlay",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Magic Overlay"
+          ],
+          "name": "Magic Overlay",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://93425112299725"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Magic Overlay'.",
+      "slug": "magic_overlay",
+      "tags": [
+        "flipbook",
+        "magic",
+        "portals",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "101163436678837",
+      "uri": "rbxassetid://101163436678837",
+      "name": "Magic Starred Circle",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Magic Starred Circle"
+          ],
+          "name": "Magic Starred Circle",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://101163436678837"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Magic Starred Circle'.",
+      "slug": "magic_starred_circle",
+      "tags": [
+        "flipbook",
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "star"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13280240913",
+      "uri": "rbxassetid://13280240913",
+      "name": "Magic Symbol 4",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Magic Symbol 4"
+          ],
+          "name": "Magic Symbol 4",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13280240913"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Magic Symbol 4'.",
+      "slug": "magic_symbol_4",
+      "tags": [
+        "magic",
+        "portals",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "113456825922961",
+      "uri": "rbxassetid://113456825922961",
+      "name": "magic_01-pentagon",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "magic_01-pentagon"
+          ],
+          "name": "magic_01-pentagon",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://113456825922961"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'magic_01-pentagon'.",
+      "slug": "magic_01_pentagon",
+      "tags": [
+        "magic",
+        "portals",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "105293844623669",
+      "uri": "rbxassetid://105293844623669",
+      "name": "magic_02-Hexagon",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "magic_02-Hexagon"
+          ],
+          "name": "magic_02-Hexagon",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://105293844623669"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'magic_02-Hexagon'.",
+      "slug": "magic_02_hexagon",
+      "tags": [
+        "magic",
+        "portals",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "132197076681816",
+      "uri": "rbxassetid://132197076681816",
+      "name": "Magic_Symbols_01",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Magic_Symbols_01"
+          ],
+          "name": "Magic_Symbols_01",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://132197076681816"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Magic_Symbols_01'.",
+      "slug": "magic_symbols_01",
+      "tags": [
+        "magic",
+        "portals",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "105432133392097",
+      "uri": "rbxassetid://105432133392097",
+      "name": "magiccircle",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "magiccircle"
+          ],
+          "name": "magiccircle",
+          "type": "Static",
+          "resolution_raw": "894",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://105432133392097"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 894,
+        "height": 894,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'magiccircle'.",
+      "slug": "magiccircle",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "93722046601848",
+      "uri": "rbxassetid://93722046601848",
+      "name": "MagicCircle1",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "MagicCircle1"
+          ],
+          "name": "MagicCircle1",
+          "type": "Static",
+          "resolution_raw": "1000",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://93722046601848"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'MagicCircle1'.",
+      "slug": "magiccircle1",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "84568057048947",
+      "uri": "rbxassetid://84568057048947",
+      "name": "MagicCircle10",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "MagicCircle10"
+          ],
+          "name": "MagicCircle10",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://84568057048947"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'MagicCircle10'.",
+      "slug": "magiccircle10",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "128411914317496",
+      "uri": "rbxassetid://128411914317496",
+      "name": "MagicCircle11",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "MagicCircle11"
+          ],
+          "name": "MagicCircle11",
+          "type": "Static",
+          "resolution_raw": "630",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://128411914317496"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 630,
+        "height": 630,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'MagicCircle11'.",
+      "slug": "magiccircle11",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "106097407307372",
+      "uri": "rbxassetid://106097407307372",
+      "name": "MagicCircle12",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "MagicCircle12"
+          ],
+          "name": "MagicCircle12",
+          "type": "Static",
+          "resolution_raw": "593",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://106097407307372"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 593,
+        "height": 593,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'MagicCircle12'.",
+      "slug": "magiccircle12",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "131158918204224",
+      "uri": "rbxassetid://131158918204224",
+      "name": "MagicCircle3",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "MagicCircle3"
+          ],
+          "name": "MagicCircle3",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://131158918204224"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'MagicCircle3'.",
+      "slug": "magiccircle3",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127687210481707",
+      "uri": "rbxassetid://127687210481707",
+      "name": "MagicCircle4",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "MagicCircle4"
+          ],
+          "name": "MagicCircle4",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127687210481707"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'MagicCircle4'.",
+      "slug": "magiccircle4",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "94989182749486",
+      "uri": "rbxassetid://94989182749486",
+      "name": "MagicCircle7",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "MagicCircle7"
+          ],
+          "name": "MagicCircle7",
+          "type": "Static",
+          "resolution_raw": "2048",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://94989182749486"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'MagicCircle7'.",
+      "slug": "magiccircle7",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "71683371301214",
+      "uri": "rbxassetid://71683371301214",
+      "name": "MagicRing",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "MagicRing"
+          ],
+          "name": "MagicRing",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://71683371301214"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'MagicRing'.",
+      "slug": "magicring",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "140620785894535",
+      "uri": "rbxassetid://140620785894535",
+      "name": "MagicRing2",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "MagicRing2"
+          ],
+          "name": "MagicRing2",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://140620785894535"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'MagicRing2'.",
+      "slug": "magicring2",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "83036917047759",
+      "uri": "rbxassetid://83036917047759",
+      "name": "MagicRing3",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "MagicRing3"
+          ],
+          "name": "MagicRing3",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://83036917047759"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'MagicRing3'.",
+      "slug": "magicring3",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "71574608271712",
+      "uri": "rbxassetid://71574608271712",
+      "name": "MagicRing4",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "MagicRing4"
+          ],
+          "name": "MagicRing4",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://rbxassetid://71574608271712"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'MagicRing4'.",
+      "slug": "magicring4",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "73396121023189",
+      "uri": "rbxassetid://73396121023189",
+      "name": "No Blur Magic Circle",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "No Blur Magic Circle"
+          ],
+          "name": "No Blur Magic Circle",
+          "type": "Static",
+          "resolution_raw": "500",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://73396121023189"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 500,
+        "height": 500,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'No Blur Magic Circle'.",
+      "slug": "no_blur_magic_circle",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "soft",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13370270611",
+      "uri": "rbxassetid://13370270611",
+      "name": "Portal Outward",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Portal Outward"
+          ],
+          "name": "Portal Outward",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13370270611"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Portal Outward'.",
+      "slug": "portal_outward",
+      "tags": [
+        "flipbook",
+        "portals",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "15124189784",
+      "uri": "rbxassetid://15124189784",
+      "name": "Portal Overlay",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Portal Overlay"
+          ],
+          "name": "Portal Overlay",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15124189784"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Portal Overlay'.",
+      "slug": "portal_overlay",
+      "tags": [
+        "flipbook",
+        "portals",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "115962435689464",
+      "uri": "rbxassetid://115962435689464",
+      "name": "Portal_01",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Portal_01"
+          ],
+          "name": "Portal_01",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://115962435689464"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Portal_01'.",
+      "slug": "portal_01",
+      "tags": [
+        "portals",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "112764670472435",
+      "uri": "rbxassetid://112764670472435",
+      "name": "PortalStarTien",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "rocca108",
+            "PortalStarTien"
+          ],
+          "name": "PortalStarTien",
+          "type": "4x4",
+          "resolution_raw": "4096",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://112764670472435"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 4096,
+        "height": 4096,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'PortalStarTien'.",
+      "slug": "portalstartien",
+      "tags": [
+        "flipbook",
+        "portals",
+        "rings_circles",
+        "star"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10547437936",
+      "uri": "rbxassetid://10547437936",
+      "name": "Purple Energy Portal",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Purple Energy Portal"
+          ],
+          "name": "Purple Energy Portal",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10547437936"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Purple Energy Portal'.",
+      "slug": "purple_energy_portal",
+      "tags": [
+        "flipbook",
+        "portals",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14197058775",
+      "uri": "rbxassetid://14197058775",
+      "name": "Realistic Portal",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Realistic Portal"
+          ],
+          "name": "Realistic Portal",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14197058775"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Realistic Portal'.",
+      "slug": "realistic_portal",
+      "tags": [
+        "flipbook",
+        "portals",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "10547469190",
+      "uri": "rbxassetid://10547469190",
+      "name": "Realistic Portal Opening",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Realistic Portal Opening"
+          ],
+          "name": "Realistic Portal Opening",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://10547469190"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Realistic Portal Opening'.",
+      "slug": "realistic_portal_opening",
+      "tags": [
+        "flipbook",
+        "portals",
+        "rings_circles"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "691179887",
+      "uri": "rbxassetid://691179887",
+      "name": "Red Magic Circle",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Red Magic Circle"
+          ],
+          "name": "Red Magic Circle",
+          "type": "Static",
+          "resolution_raw": "270",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://691179887"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 270,
+        "height": 270,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Red Magic Circle'.",
+      "slug": "red_magic_circle",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12362783431",
+      "uri": "rbxassetid://12362783431",
+      "name": "Squashed Magic Circle 2",
+      "category": "rings_circles",
+      "subcategory": "portals",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Circle",
+            "Squashed Magic Circle 2"
+          ],
+          "name": "Squashed Magic Circle 2",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12362783431"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Squashed Magic Circle 2'.",
+      "slug": "squashed_magic_circle_2",
+      "tags": [
+        "magic",
+        "portals",
+        "radial",
+        "rings_circles",
+        "static"
+      ],
+      "suggested_uses": [
+        "portals",
+        "radial pulses",
+        "auras"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

@@ -1,0 +1,2203 @@
+{
+  "schema_version": "1.0.0",
+  "category": "ground_cracks",
+  "subcategory": "ground_bursts",
+  "description": "Ground bursts.",
+  "asset_count": 35,
+  "assets": [
+    {
+      "id": "88037682586646",
+      "uri": "rbxassetid://88037682586646",
+      "name": "Ground1",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground1"
+          ],
+          "name": "Ground1",
+          "type": "Static",
+          "resolution_raw": "425",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://88037682586646"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 425,
+        "height": 425,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground1'.",
+      "slug": "ground1",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "70743228513511",
+      "uri": "rbxassetid://70743228513511",
+      "name": "Ground10",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground10"
+          ],
+          "name": "Ground10",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://70743228513511"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground10'.",
+      "slug": "ground10",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "80289736086797",
+      "uri": "rbxassetid://80289736086797",
+      "name": "Ground11",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground11"
+          ],
+          "name": "Ground11",
+          "type": "Static",
+          "resolution_raw": "128",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://80289736086797"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 128,
+        "height": 128,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground11'.",
+      "slug": "ground11",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "100609079910602",
+      "uri": "rbxassetid://100609079910602",
+      "name": "Ground12",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground12"
+          ],
+          "name": "Ground12",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://100609079910602"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground12'.",
+      "slug": "ground12",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "73112399877466",
+      "uri": "rbxassetid://73112399877466",
+      "name": "Ground13",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground13"
+          ],
+          "name": "Ground13",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://73112399877466"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground13'.",
+      "slug": "ground13",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "121383088815851",
+      "uri": "rbxassetid://121383088815851",
+      "name": "Ground14",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground14"
+          ],
+          "name": "Ground14",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://121383088815851"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground14'.",
+      "slug": "ground14",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "91578195629955",
+      "uri": "rbxassetid://91578195629955",
+      "name": "Ground15",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground15"
+          ],
+          "name": "Ground15",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://91578195629955"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Ground15'.",
+      "slug": "ground15",
+      "tags": [
+        "flipbook",
+        "ground_bursts",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "92770202972211",
+      "uri": "rbxassetid://92770202972211",
+      "name": "Ground16",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground16"
+          ],
+          "name": "Ground16",
+          "type": "Static",
+          "resolution_raw": "232",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://92770202972211"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 232,
+        "height": 232,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground16'.",
+      "slug": "ground16",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "105495374622620",
+      "uri": "rbxassetid://105495374622620",
+      "name": "Ground17",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground17"
+          ],
+          "name": "Ground17",
+          "type": "Static",
+          "resolution_raw": "232",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://105495374622620"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 232,
+        "height": 232,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground17'.",
+      "slug": "ground17",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "112043969867945",
+      "uri": "rbxassetid://112043969867945",
+      "name": "Ground18",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground18"
+          ],
+          "name": "Ground18",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://112043969867945"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground18'.",
+      "slug": "ground18",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "129483039162676",
+      "uri": "rbxassetid://129483039162676",
+      "name": "Ground19",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground19"
+          ],
+          "name": "Ground19",
+          "type": "Static",
+          "resolution_raw": "232",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://129483039162676"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 232,
+        "height": 232,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground19'.",
+      "slug": "ground19",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "81554037133162",
+      "uri": "rbxassetid://81554037133162",
+      "name": "Ground2",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground2"
+          ],
+          "name": "Ground2",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://81554037133162"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Ground2'.",
+      "slug": "ground2",
+      "tags": [
+        "flipbook",
+        "ground_bursts",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "130123316969532",
+      "uri": "rbxassetid://130123316969532",
+      "name": "Ground20",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground20"
+          ],
+          "name": "Ground20",
+          "type": "Static",
+          "resolution_raw": "536",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://130123316969532"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 536,
+        "height": 536,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground20'.",
+      "slug": "ground20",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "82576941307593",
+      "uri": "rbxassetid://82576941307593",
+      "name": "Ground21",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground21"
+          ],
+          "name": "Ground21",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://82576941307593"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground21'.",
+      "slug": "ground21",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "100448991779680",
+      "uri": "rbxassetid://100448991779680",
+      "name": "Ground22",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground22"
+          ],
+          "name": "Ground22",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://100448991779680"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground22'.",
+      "slug": "ground22",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "118883496017040",
+      "uri": "rbxassetid://118883496017040",
+      "name": "Ground23",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground23"
+          ],
+          "name": "Ground23",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://118883496017040"
+        },
+        {
+          "source_id": "texture_share",
+          "line": 365,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground23'.",
+      "slug": "ground23",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "75496062265070",
+      "uri": "rbxassetid://75496062265070",
+      "name": "Ground24",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground24"
+          ],
+          "name": "Ground24",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://75496062265070"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground24'.",
+      "slug": "ground24",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "92875473712388",
+      "uri": "rbxassetid://92875473712388",
+      "name": "Ground25",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground25"
+          ],
+          "name": "Ground25",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://92875473712388"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground25'.",
+      "slug": "ground25",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "83463235153869",
+      "uri": "rbxassetid://83463235153869",
+      "name": "Ground26",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground26"
+          ],
+          "name": "Ground26",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://83463235153869"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground26'.",
+      "slug": "ground26",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "123214658790614",
+      "uri": "rbxassetid://123214658790614",
+      "name": "Ground28",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground28"
+          ],
+          "name": "Ground28",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://123214658790614"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground28'.",
+      "slug": "ground28",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "125314922601956",
+      "uri": "rbxassetid://125314922601956",
+      "name": "Ground29",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground29"
+          ],
+          "name": "Ground29",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://125314922601956"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground29'.",
+      "slug": "ground29",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "73628643311964",
+      "uri": "rbxassetid://73628643311964",
+      "name": "Ground3",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground3"
+          ],
+          "name": "Ground3",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://73628643311964"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Ground3'.",
+      "slug": "ground3",
+      "tags": [
+        "flipbook",
+        "ground_bursts",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "78777197785281",
+      "uri": "rbxassetid://78777197785281",
+      "name": "Ground30",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground30"
+          ],
+          "name": "Ground30",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://78777197785281"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground30'.",
+      "slug": "ground30",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "135424367934998",
+      "uri": "rbxassetid://135424367934998",
+      "name": "Ground31",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground31"
+          ],
+          "name": "Ground31",
+          "type": "Static",
+          "resolution_raw": "232",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://135424367934998"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 232,
+        "height": 232,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground31'.",
+      "slug": "ground31",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "87233255893145",
+      "uri": "rbxassetid://87233255893145",
+      "name": "Ground32",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground32"
+          ],
+          "name": "Ground32",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://87233255893145"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground32'.",
+      "slug": "ground32",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127408540362062",
+      "uri": "rbxassetid://127408540362062",
+      "name": "Ground33",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground33"
+          ],
+          "name": "Ground33",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127408540362062"
+        },
+        {
+          "source_id": "texture_share",
+          "line": 366,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground33'.",
+      "slug": "ground33",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "83574099468876",
+      "uri": "rbxassetid://83574099468876",
+      "name": "Ground34",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground34"
+          ],
+          "name": "Ground34",
+          "type": "Static",
+          "resolution_raw": "256",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://83574099468876"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 256,
+        "height": 256,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground34'.",
+      "slug": "ground34",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "133348460606413",
+      "uri": "rbxassetid://133348460606413",
+      "name": "Ground35",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground35"
+          ],
+          "name": "Ground35",
+          "type": "4x4",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://133348460606413"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Ground35'.",
+      "slug": "ground35",
+      "tags": [
+        "flipbook",
+        "ground_bursts",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127739418788703",
+      "uri": "rbxassetid://127739418788703",
+      "name": "Ground36",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground36"
+          ],
+          "name": "Ground36",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127739418788703"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Ground36'.",
+      "slug": "ground36",
+      "tags": [
+        "flipbook",
+        "ground_bursts",
+        "ground_cracks"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "91180816422936",
+      "uri": "rbxassetid://91180816422936",
+      "name": "Ground4",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground4"
+          ],
+          "name": "Ground4",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://91180816422936"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground4'.",
+      "slug": "ground4",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "121872395220119",
+      "uri": "rbxassetid://121872395220119",
+      "name": "Ground5",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground5"
+          ],
+          "name": "Ground5",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://121872395220119"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground5'.",
+      "slug": "ground5",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "127326326281041",
+      "uri": "rbxassetid://127326326281041",
+      "name": "Ground6",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground6"
+          ],
+          "name": "Ground6",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://127326326281041"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground6'.",
+      "slug": "ground6",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "90428618814039",
+      "uri": "rbxassetid://90428618814039",
+      "name": "Ground7",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground7"
+          ],
+          "name": "Ground7",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://90428618814039"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground7'.",
+      "slug": "ground7",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "114719018679388",
+      "uri": "rbxassetid://114719018679388",
+      "name": "Ground8",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground8"
+          ],
+          "name": "Ground8",
+          "type": "Static",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://114719018679388"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground8'.",
+      "slug": "ground8",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "99257520037104",
+      "uri": "rbxassetid://99257520037104",
+      "name": "Ground9",
+      "category": "ground_cracks",
+      "subcategory": "ground_bursts",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Ground",
+            "Ground9"
+          ],
+          "name": "Ground9",
+          "type": "Static",
+          "resolution_raw": "420",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://99257520037104"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 420,
+        "height": 420,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Ground9'.",
+      "slug": "ground9",
+      "tags": [
+        "ground_bursts",
+        "ground_cracks",
+        "static"
+      ],
+      "suggested_uses": [
+        "ground impacts",
+        "surface cracks",
+        "crater accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

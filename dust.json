@@ -1,0 +1,389 @@
+{
+  "schema_version": "1.0.0",
+  "category": "smoke_clouds",
+  "subcategory": "dust",
+  "description": "Dust.",
+  "asset_count": 6,
+  "assets": [
+    {
+      "id": "124776307448265",
+      "uri": "rbxassetid://124776307448265",
+      "name": "dust",
+      "category": "smoke_clouds",
+      "subcategory": "dust",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "rocca108",
+            "dust"
+          ],
+          "name": "dust",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://124776307448265"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'dust'.",
+      "slug": "dust",
+      "tags": [
+        "dust",
+        "smoke_clouds",
+        "static"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "6561027080",
+      "uri": "rbxassetid://6561027080",
+      "name": "dust explosion particles",
+      "category": "smoke_clouds",
+      "subcategory": "dust",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 223,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "dust explosion particles",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 24260908,
+          "Name": "Ninja215215",
+          "CreatorType": "User",
+          "CreatorTargetId": 24260908,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/6561027080/details"
+      },
+      "description": "Static texture cataloged as 'dust explosion particles'.",
+      "slug": "dust_explosion_particles",
+      "tags": [
+        "dust",
+        "smoke_clouds",
+        "static"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "94891811694457",
+      "uri": "rbxassetid://94891811694457",
+      "name": "Dust waves",
+      "category": "smoke_clouds",
+      "subcategory": "dust",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Dust waves"
+          ],
+          "name": "Dust waves",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://94891811694457"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Dust waves'.",
+      "slug": "dust_waves",
+      "tags": [
+        "dust",
+        "flipbook",
+        "smoke_clouds"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "98108818626789",
+      "uri": "rbxassetid://98108818626789",
+      "name": "dust3",
+      "category": "smoke_clouds",
+      "subcategory": "dust",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "rocca108",
+            "dust3"
+          ],
+          "name": "dust3",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://98108818626789"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'dust3'.",
+      "slug": "dust3",
+      "tags": [
+        "dust",
+        "smoke_clouds",
+        "static"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "135611124886147",
+      "uri": "rbxassetid://135611124886147",
+      "name": "Fading Dust",
+      "category": "smoke_clouds",
+      "subcategory": "dust",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Smoke",
+            "Fading Dust"
+          ],
+          "name": "Fading Dust",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://135611124886147"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Fading Dust'.",
+      "slug": "fading_dust",
+      "tags": [
+        "dust",
+        "flipbook",
+        "smoke_clouds"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17551627147",
+      "uri": "rbxassetid://17551627147",
+      "name": "Stylized Dust",
+      "category": "smoke_clouds",
+      "subcategory": "dust",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Artists",
+            "purpl3_",
+            "Stylized Dust"
+          ],
+          "name": "Stylized Dust",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "@purpl3_",
+          "uri_raw": "rbxassetid://17551627147"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Stylized Dust'.",
+      "slug": "stylized_dust",
+      "tags": [
+        "dust",
+        "flipbook",
+        "smoke_clouds"
+      ],
+      "suggested_uses": [
+        "smoke plumes",
+        "fog layers",
+        "atmosphere"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

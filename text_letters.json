@@ -1,0 +1,831 @@
+{
+  "schema_version": "1.0.0",
+  "category": "symbols_text",
+  "subcategory": "text_letters",
+  "description": "Text letters.",
+  "asset_count": 13,
+  "assets": [
+    {
+      "id": "128169567521803",
+      "uri": "rbxassetid://128169567521803",
+      "name": "Animated Text",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Animated Text"
+          ],
+          "name": "Animated Text",
+          "type": "8x8",
+          "resolution_raw": "593",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://128169567521803"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 593,
+        "height": 593,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Animated Text'.",
+      "slug": "animated_text",
+      "tags": [
+        "flipbook",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "128697005192835",
+      "uri": "rbxassetid://128697005192835",
+      "name": "Computer Text",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Computer Text"
+          ],
+          "name": "Computer Text",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://128697005192835"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Computer Text'.",
+      "slug": "computer_text",
+      "tags": [
+        "static",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "74091612379656",
+      "uri": "rbxassetid://74091612379656",
+      "name": "Computer Text 2",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Computer Text 2"
+          ],
+          "name": "Computer Text 2",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://74091612379656"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Computer Text 2'.",
+      "slug": "computer_text_2",
+      "tags": [
+        "static",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "117546343821485",
+      "uri": "rbxassetid://117546343821485",
+      "name": "Fading In Text",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Fading In Text"
+          ],
+          "name": "Fading In Text",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://117546343821485"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Fading In Text'.",
+      "slug": "fading_in_text",
+      "tags": [
+        "flipbook",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "14990829312",
+      "uri": "rbxassetid://14990829312",
+      "name": "Noisy Text",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Noisy Text"
+          ],
+          "name": "Noisy Text",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://14990829312"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Noisy Text'.",
+      "slug": "noisy_text",
+      "tags": [
+        "flipbook",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "103832117709724",
+      "uri": "rbxassetid://103832117709724",
+      "name": "Text 2",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Text 2"
+          ],
+          "name": "Text 2",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://103832117709724"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Text 2'.",
+      "slug": "text_2",
+      "tags": [
+        "static",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "95021516837022",
+      "uri": "rbxassetid://95021516837022",
+      "name": "Text 3",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Text 3"
+          ],
+          "name": "Text 3",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://95021516837022"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Text 3'.",
+      "slug": "text_3",
+      "tags": [
+        "static",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "118072404253090",
+      "uri": "rbxassetid://118072404253090",
+      "name": "Text 5",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Text 5"
+          ],
+          "name": "Text 5",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://118072404253090"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Text 5'.",
+      "slug": "text_5",
+      "tags": [
+        "static",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17006113495",
+      "uri": "rbxassetid://17006113495",
+      "name": "text excla12",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "text excla12"
+          ],
+          "name": "text excla12",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17006113495"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'text excla12'.",
+      "slug": "text_excla12",
+      "tags": [
+        "flipbook",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17226910109",
+      "uri": "rbxassetid://17226910109",
+      "name": "Text Kanji 3531",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Text Kanji 3531"
+          ],
+          "name": "Text Kanji 3531",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "_not_mystery_man_",
+          "uri_raw": "rbxassetid://17226910109"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Text Kanji 3531'.",
+      "slug": "text_kanji_3531",
+      "tags": [
+        "flipbook",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17226915741",
+      "uri": "rbxassetid://17226915741",
+      "name": "text kanji stuff1412",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "text kanji stuff1412"
+          ],
+          "name": "text kanji stuff1412",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "_not_mystery_man_",
+          "uri_raw": "rbxassetid://17226915741"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'text kanji stuff1412'.",
+      "slug": "text_kanji_stuff1412",
+      "tags": [
+        "flipbook",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "119469311001954",
+      "uri": "rbxassetid://119469311001954",
+      "name": "Text weird",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Text weird"
+          ],
+          "name": "Text weird",
+          "type": "8x8",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://119469311001954"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Text weird'.",
+      "slug": "text_weird",
+      "tags": [
+        "flipbook",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "16519759327",
+      "uri": "rbxassetid://16519759327",
+      "name": "Weird Letters",
+      "category": "symbols_text",
+      "subcategory": "text_letters",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Text",
+            "Weird Letters"
+          ],
+          "name": "Weird Letters",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://16519759327"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Weird Letters'.",
+      "slug": "weird_letters",
+      "tags": [
+        "flipbook",
+        "symbols_text",
+        "text_letters"
+      ],
+      "suggested_uses": [
+        "spell symbols",
+        "icon bursts",
+        "stylized labels"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

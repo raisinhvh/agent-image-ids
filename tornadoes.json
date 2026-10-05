@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0.0",
+  "category": "air_wind",
+  "subcategory": "tornadoes",
+  "description": "Tornadoes.",
+  "asset_count": 2,
+  "assets": [
+    {
+      "id": "15677400106",
+      "uri": "rbxassetid://15677400106",
+      "name": "Tornado Overlay",
+      "category": "air_wind",
+      "subcategory": "tornadoes",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid8x8",
+        "rows": 8,
+        "columns": 8,
+        "frame_count": 64,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Tornado Overlay"
+          ],
+          "name": "Tornado Overlay",
+          "type": "8x8",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://15677400106"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "64-frame flipbook cataloged as 'Tornado Overlay'.",
+      "slug": "tornado_overlay",
+      "tags": [
+        "air_wind",
+        "flipbook",
+        "tornadoes"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "3318493505",
+      "uri": "rbxassetid://3318493505",
+      "name": "Tornado particle",
+      "category": "air_wind",
+      "subcategory": "tornadoes",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "texture_share",
+          "line": 16,
+          "animated_raw": false,
+          "grid_raw": 0,
+          "resolution_raw": null
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "roblox_asset_name",
+        "image_type_confirmed": true
+      },
+      "notes": [],
+      "roblox_metadata": {
+        "name": "Tornado particle",
+        "asset_type_id": 1,
+        "creator": {
+          "Id": 210058492,
+          "Name": "Chasers0919",
+          "CreatorType": "User",
+          "CreatorTargetId": 210058492,
+          "HasVerifiedBadge": false
+        },
+        "checked_at": "2026-10-05",
+        "source_url": "https://economy.roblox.com/v2/assets/3318493505/details"
+      },
+      "description": "Static texture cataloged as 'Tornado particle'.",
+      "slug": "tornado_particle",
+      "tags": [
+        "air_wind",
+        "static",
+        "tornadoes"
+      ],
+      "suggested_uses": [
+        "wind gusts",
+        "air attacks",
+        "motion accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

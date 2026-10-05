@@ -1,0 +1,445 @@
+{
+  "schema_version": "1.0.0",
+  "category": "geometry_grids",
+  "subcategory": "diamonds",
+  "description": "Diamonds.",
+  "asset_count": 7,
+  "assets": [
+    {
+      "id": "12403128022",
+      "uri": "rbxassetid://12403128022",
+      "name": "Abstract Diamond",
+      "category": "geometry_grids",
+      "subcategory": "diamonds",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Abstract Diamond"
+          ],
+          "name": "Abstract Diamond",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12403128022"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Abstract Diamond'.",
+      "slug": "abstract_diamond",
+      "tags": [
+        "diamonds",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "139815902179972",
+      "uri": "rbxassetid://139815902179972",
+      "name": "Diamond",
+      "category": "geometry_grids",
+      "subcategory": "diamonds",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Diamond"
+          ],
+          "name": "Diamond",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://139815902179972"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Diamond'.",
+      "slug": "diamond",
+      "tags": [
+        "diamonds",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364203049",
+      "uri": "rbxassetid://12364203049",
+      "name": "Diamond Artwork",
+      "category": "geometry_grids",
+      "subcategory": "diamonds",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Diamond Artwork"
+          ],
+          "name": "Diamond Artwork",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364203049"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Diamond Artwork'.",
+      "slug": "diamond_artwork",
+      "tags": [
+        "diamonds",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "96813665081707",
+      "uri": "rbxassetid://96813665081707",
+      "name": "DiamondShaped",
+      "category": "geometry_grids",
+      "subcategory": "diamonds",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "DiamondShaped"
+          ],
+          "name": "DiamondShaped",
+          "type": "Static",
+          "resolution_raw": "1630",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://96813665081707"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1630,
+        "height": 1630,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'DiamondShaped'.",
+      "slug": "diamondshaped",
+      "tags": [
+        "diamonds",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "17277489248",
+      "uri": "rbxassetid://17277489248",
+      "name": "Fading Diamond",
+      "category": "geometry_grids",
+      "subcategory": "diamonds",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Fading Diamond"
+          ],
+          "name": "Fading Diamond",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://17277489248"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Fading Diamond'.",
+      "slug": "fading_diamond",
+      "tags": [
+        "diamonds",
+        "flipbook",
+        "geometry_grids"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364263768",
+      "uri": "rbxassetid://12364263768",
+      "name": "Half Filled Diamond",
+      "category": "geometry_grids",
+      "subcategory": "diamonds",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Half Filled Diamond"
+          ],
+          "name": "Half Filled Diamond",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364263768"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Half Filled Diamond'.",
+      "slug": "half_filled_diamond",
+      "tags": [
+        "diamonds",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "12364281874",
+      "uri": "rbxassetid://12364281874",
+      "name": "Strange Diamond",
+      "category": "geometry_grids",
+      "subcategory": "diamonds",
+      "animation": {
+        "kind": "static",
+        "animated": false,
+        "layout": "None",
+        "rows": 1,
+        "columns": 1,
+        "frame_count": 1,
+        "metadata_basis": "source_reported"
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Other",
+            "Strange Diamond"
+          ],
+          "name": "Strange Diamond",
+          "type": "Static",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://12364281874"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "Static texture cataloged as 'Strange Diamond'.",
+      "slug": "strange_diamond",
+      "tags": [
+        "diamonds",
+        "geometry_grids",
+        "static"
+      ],
+      "suggested_uses": [
+        "geometric magic",
+        "graphic accents",
+        "shields"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}

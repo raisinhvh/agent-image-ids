@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0.0",
+  "category": "specks_debris",
+  "subcategory": "paper",
+  "description": "Paper.",
+  "asset_count": 2,
+  "assets": [
+    {
+      "id": "122736820304816",
+      "uri": "rbxassetid://122736820304816",
+      "name": "Black paper",
+      "category": "specks_debris",
+      "subcategory": "paper",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid4x4",
+        "rows": 4,
+        "columns": 4,
+        "frame_count": 16,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Black paper"
+          ],
+          "name": "Black paper",
+          "type": "4x4",
+          "resolution_raw": "1024",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://122736820304816"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "basis": "source_reported"
+      },
+      "description": "16-frame flipbook cataloged as 'Black paper'.",
+      "slug": "black_paper",
+      "tags": [
+        "flipbook",
+        "paper",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    },
+    {
+      "id": "13008210057",
+      "uri": "rbxassetid://13008210057",
+      "name": "Paper Sheet",
+      "category": "specks_debris",
+      "subcategory": "paper",
+      "animation": {
+        "kind": "flipbook",
+        "animated": true,
+        "layout": "Grid2x2",
+        "rows": 2,
+        "columns": 2,
+        "frame_count": 4,
+        "metadata_basis": "source_reported",
+        "framerate": null,
+        "mode": null
+      },
+      "sources": [
+        {
+          "source_id": "openvfx",
+          "path": [
+            "Textures",
+            "Spec",
+            "Paper Sheet"
+          ],
+          "name": "Paper Sheet",
+          "type": "2x2",
+          "resolution_raw": "512",
+          "credits_raw": "?",
+          "uri_raw": "rbxassetid://13008210057"
+        }
+      ],
+      "verification": {
+        "id_basis": "public_catalog",
+        "visual_inspected": false,
+        "studio_load_tested": false,
+        "description_basis": "source_name_and_category",
+        "image_type_confirmed": false
+      },
+      "notes": [],
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "basis": "source_reported"
+      },
+      "description": "4-frame flipbook cataloged as 'Paper Sheet'.",
+      "slug": "paper_sheet",
+      "tags": [
+        "flipbook",
+        "paper",
+        "specks_debris"
+      ],
+      "suggested_uses": [
+        "ambient specks",
+        "small debris",
+        "particle accents"
+      ],
+      "suggested_uses_basis": "inferred_from_name_and_category",
+      "texture_usage": "particle_texture_catalog",
+      "tintable": null,
+      "semantic_specificity": "source_labeled",
+      "license_status": "not_verified_per_asset",
+      "confidence": "catalog_listed"
+    }
+  ]
+}
